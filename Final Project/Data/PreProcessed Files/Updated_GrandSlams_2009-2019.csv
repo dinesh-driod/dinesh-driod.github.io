@@ -1,0 +1,1010 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment
+6.0,Melbourne,Australian Open,19-01-2009,Grand Slam,Outdoor,Hard,1st Round,5.0,Ferrer D.,Gremelmayr D.,12.0,80.0,3390.0,1042.0,6.0,1.0,6.0,7.0,6.0,1.0,6.0,7.0,6.0,4.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,19-01-2009,Grand Slam,Outdoor,Hard,1st Round,5.0,Muller G.,Lopez F.,87.0,28.0,988.0,2010.0,6.0,3.0,7.0,6.0,4.0,6.0,4.0,6.0,7.0,6.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,19-01-2009,Grand Slam,Outdoor,Hard,1st Round,5.0,Delic A.,Dent T.,127.0,728.0,728.0,48.0,6.0,4.0,3.0,6.0,4.0,6.0,6.0,3.0,6.0,4.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,19-01-2009,Grand Slam,Outdoor,Hard,1st Round,5.0,Tipsarevic J.,Hernandez O.,46.0,67.0,1500.0,1168.0,4.0,6.0,6.0,1.0,6.0,3.0,4.0,6.0,6.0,0.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,20-01-2009,Grand Slam,Outdoor,Hard,1st Round,5.0,Hanescu V.,Hernych J.,44.0,78.0,1531.0,1068.0,3.0,6.0,3.0,6.0,7.0,6.0,7.0,6.0,7.0,6.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,20-01-2009,Grand Slam,Outdoor,Hard,1st Round,5.0,Almagro N.,Massu N.,18.0,84.0,2540.0,1010.0,6.0,4.0,6.0,4.0,3.0,6.0,5.0,7.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,20-01-2009,Grand Slam,Outdoor,Hard,1st Round,5.0,Gonzalez F.,Hewitt L.,14.0,70.0,2840.0,1145.0,5.0,7.0,6.0,2.0,6.0,2.0,3.0,6.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,20-01-2009,Grand Slam,Outdoor,Hard,1st Round,5.0,Andreev I.,Polansky P.,19.0,210.0,2490.0,380.0,5.0,7.0,3.0,6.0,6.0,4.0,6.0,3.0,6.0,4.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,20-01-2009,Grand Slam,Outdoor,Hard,1st Round,5.0,De Chaunac S.,Darcis S.,253.0,57.0,300.0,1340.0,2.0,6.0,6.0,3.0,0.0,6.0,6.0,2.0,6.0,2.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,20-01-2009,Grand Slam,Outdoor,Hard,1st Round,5.0,Ljubicic I.,Kunitsyn I.,55.0,43.0,1376.0,1562.0,4.0,6.0,7.0,6.0,7.0,6.0,5.0,7.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,20-01-2009,Grand Slam,Outdoor,Hard,1st Round,5.0,Canas G.,Kindlmann D.,77.0,229.0,1086.0,337.0,3.0,6.0,7.0,5.0,5.0,7.0,6.0,0.0,7.0,5.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,20-01-2009,Grand Slam,Outdoor,Hard,1st Round,5.0,Clement A.,Stakhovsky S.,89.0,83.0,980.0,1011.0,6.0,3.0,2.0,6.0,4.0,6.0,6.0,2.0,6.0,1.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,20-01-2009,Grand Slam,Outdoor,Hard,1st Round,5.0,Karanusic R.,Serra F.,92.0,58.0,974.0,1339.0,6.0,3.0,1.0,6.0,6.0,3.0,3.0,6.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,21-01-2009,Grand Slam,Outdoor,Hard,2nd Round,5.0,Delic A.,Mathieu P.H.,127.0,29.0,728.0,2000.0,1.0,6.0,3.0,6.0,6.0,3.0,7.0,6.0,7.0,6.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,21-01-2009,Grand Slam,Outdoor,Hard,2nd Round,5.0,Lu Y.H.,Nalbandian D.,61.0,11.0,1244.0,3500.0,6.0,4.0,5.0,7.0,4.0,6.0,6.0,4.0,6.0,2.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,21-01-2009,Grand Slam,Outdoor,Hard,2nd Round,5.0,Santoro F.,Kohlschreiber P.,60.0,34.0,1268.0,1855.0,5.0,7.0,7.0,5.0,3.0,6.0,7.0,5.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,22-01-2009,Grand Slam,Outdoor,Hard,2nd Round,5.0,Ancic M.,Karlovic I.,36.0,26.0,1805.0,2295.0,5.0,7.0,7.0,5.0,4.0,6.0,6.0,4.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,22-01-2009,Grand Slam,Outdoor,Hard,2nd Round,5.0,Andreev I.,Gulbis E.,19.0,52.0,2490.0,1438.0,6.0,4.0,6.0,4.0,5.0,7.0,3.0,6.0,6.0,4.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,24-01-2009,Grand Slam,Outdoor,Hard,3rd Round,5.0,Gonzalez F.,Gasquet R.,14.0,25.0,2840.0,2330.0,3.0,6.0,3.0,6.0,7.0,6.0,6.0,2.0,7.0,6.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,25-01-2009,Grand Slam,Outdoor,Hard,4th Round,5.0,Federer R.,Berdych T.,2.0,21.0,10700.0,2400.0,4.0,6.0,6.0,7.0,6.0,4.0,6.0,4.0,6.0,2.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,26-01-2009,Grand Slam,Outdoor,Hard,4th Round,5.0,Verdasco F.,Murray A.,15.0,4.0,2830.0,7190.0,2.0,6.0,6.0,1.0,1.0,6.0,6.0,3.0,6.0,4.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,30-01-2009,Grand Slam,Outdoor,Hard,Semifinals,5.0,Nadal R.,Verdasco F.,1.0,15.0,13160.0,2830.0,6.0,7.0,6.0,4.0,7.0,6.0,6.0,7.0,6.0,4.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,01-02-2009,Grand Slam,Outdoor,Hard,The Final,5.0,Nadal R.,Federer R.,1.0,2.0,13160.0,10700.0,7.0,5.0,3.0,6.0,7.0,6.0,3.0,6.0,6.0,2.0,3.0,2.0,Completed
+31.0,Paris,French Open,24-05-2009,Grand Slam,Outdoor,Clay,1st Round,5.0,Hewitt L.,Karlovic I.,48.0,28.0,1190.0,1665.0,6.0,7.0,6.0,7.0,7.0,6.0,6.0,4.0,6.0,3.0,3.0,2.0,Completed
+31.0,Paris,French Open,24-05-2009,Grand Slam,Outdoor,Clay,1st Round,5.0,Ouanna J.,Granollers M.,134.0,96.0,567.0,805.0,7.0,5.0,2.0,6.0,3.0,6.0,7.0,6.0,6.0,1.0,3.0,2.0,Completed
+31.0,Paris,French Open,24-05-2009,Grand Slam,Outdoor,Clay,1st Round,5.0,Petzschner P.,Polansky P.,67.0,279.0,990.0,235.0,5.0,7.0,6.0,2.0,7.0,6.0,4.0,6.0,6.0,3.0,3.0,2.0,Completed
+31.0,Paris,French Open,24-05-2009,Grand Slam,Outdoor,Clay,1st Round,5.0,Simon G.,Odesnik W.,7.0,87.0,3890.0,836.0,3.0,6.0,7.0,5.0,6.0,2.0,4.0,6.0,6.0,3.0,3.0,2.0,Completed
+31.0,Paris,French Open,24-05-2009,Grand Slam,Outdoor,Clay,1st Round,5.0,Kendrick R.,Brands D.,86.0,129.0,839.0,610.0,6.0,7.0,7.0,5.0,7.0,6.0,4.0,6.0,6.0,3.0,3.0,2.0,Completed
+31.0,Paris,French Open,25-05-2009,Grand Slam,Outdoor,Clay,1st Round,5.0,Wawrinka S.,Devilder N.,18.0,60.0,2155.0,1042.0,6.0,3.0,5.0,7.0,2.0,6.0,6.0,4.0,6.0,4.0,3.0,2.0,Completed
+31.0,Paris,French Open,25-05-2009,Grand Slam,Outdoor,Clay,1st Round,5.0,Massu N.,Koellerer D.,120.0,77.0,674.0,901.0,6.0,3.0,6.0,4.0,1.0,6.0,2.0,6.0,6.0,3.0,3.0,2.0,Completed
+31.0,Paris,French Open,25-05-2009,Grand Slam,Outdoor,Clay,1st Round,5.0,Machado R.,Vliegen K.,130.0,94.0,605.0,814.0,6.0,2.0,6.0,4.0,4.0,6.0,2.0,6.0,6.0,3.0,3.0,2.0,Completed
+31.0,Paris,French Open,25-05-2009,Grand Slam,Outdoor,Clay,1st Round,5.0,Lopez F.,Ferreiro F.,30.0,185.0,1620.0,402.0,6.0,7.0,4.0,6.0,7.0,6.0,7.0,5.0,6.0,2.0,3.0,2.0,Completed
+31.0,Paris,French Open,25-05-2009,Grand Slam,Outdoor,Clay,1st Round,5.0,Bolelli S.,Berdych T.,58.0,20.0,1056.0,1970.0,6.0,4.0,6.0,4.0,5.0,7.0,4.0,6.0,6.0,3.0,3.0,2.0,Completed
+31.0,Paris,French Open,25-05-2009,Grand Slam,Outdoor,Clay,1st Round,5.0,Andreev I.,Fognini F.,27.0,62.0,1680.0,1020.0,1.0,6.0,6.0,3.0,6.0,1.0,3.0,6.0,7.0,5.0,3.0,2.0,Completed
+31.0,Paris,French Open,26-05-2009,Grand Slam,Outdoor,Clay,1st Round,5.0,Troicki V.,Kubot L.,32.0,142.0,1547.0,537.0,3.0,6.0,6.0,3.0,6.0,4.0,6.0,7.0,6.0,3.0,3.0,2.0,Completed
+31.0,Paris,French Open,26-05-2009,Grand Slam,Outdoor,Clay,1st Round,5.0,Ferrero J.C.,Ljubicic I.,103.0,53.0,769.0,1141.0,2.0,6.0,6.0,4.0,6.0,4.0,3.0,6.0,6.0,3.0,3.0,2.0,Completed
+31.0,Paris,French Open,27-05-2009,Grand Slam,Outdoor,Clay,2nd Round,5.0,Ferrer D.,Kiefer N.,14.0,37.0,2540.0,1450.0,6.0,3.0,5.0,7.0,6.0,4.0,3.0,6.0,6.0,2.0,3.0,2.0,Completed
+31.0,Paris,French Open,27-05-2009,Grand Slam,Outdoor,Clay,2nd Round,5.0,Ouanna J.,Safin M.,134.0,22.0,567.0,1845.0,7.0,6.0,7.0,6.0,4.0,6.0,3.0,6.0,7.0,6.0,3.0,2.0,Completed
+31.0,Paris,French Open,28-05-2009,Grand Slam,Outdoor,Clay,2nd Round,5.0,Chardy J.,Bolelli S.,39.0,58.0,1394.0,1056.0,6.0,2.0,6.0,3.0,4.0,6.0,4.0,6.0,6.0,1.0,3.0,2.0,Completed
+31.0,Paris,French Open,28-05-2009,Grand Slam,Outdoor,Clay,2nd Round,5.0,Andreev I.,Vassallo-Arguello M.,27.0,49.0,1680.0,1181.0,1.0,6.0,7.0,5.0,5.0,7.0,6.0,3.0,6.0,4.0,3.0,2.0,Completed
+31.0,Paris,French Open,28-05-2009,Grand Slam,Outdoor,Clay,2nd Round,5.0,Haas T.,Mayer L.,63.0,93.0,1015.0,821.0,6.0,3.0,7.0,6.0,3.0,6.0,4.0,6.0,6.0,3.0,3.0,2.0,Completed
+31.0,Paris,French Open,29-05-2009,Grand Slam,Outdoor,Clay,2nd Round,5.0,Kohlschreiber P.,Ferrero J.C.,31.0,103.0,1590.0,769.0,6.0,4.0,2.0,6.0,6.0,4.0,6.0,7.0,6.0,3.0,3.0,2.0,Completed
+31.0,Paris,French Open,01-06-2009,Grand Slam,Outdoor,Clay,4th Round,5.0,Federer R.,Haas T.,2.0,63.0,10470.0,1015.0,6.0,7.0,5.0,7.0,6.0,4.0,6.0,0.0,6.0,2.0,3.0,2.0,Completed
+31.0,Paris,French Open,05-06-2009,Grand Slam,Outdoor,Clay,Semifinals,5.0,Soderling R.,Gonzalez F.,25.0,12.0,1775.0,2945.0,6.0,3.0,7.0,5.0,5.0,7.0,4.0,6.0,6.0,4.0,3.0,2.0,Completed
+31.0,Paris,French Open,05-06-2009,Grand Slam,Outdoor,Clay,Semifinals,5.0,Federer R.,Del Potro J.M.,2.0,5.0,10470.0,4830.0,3.0,6.0,7.0,6.0,2.0,6.0,6.0,1.0,6.0,4.0,3.0,2.0,Completed
+36.0,London,Wimbledon,22-06-2009,Grand Slam,Outdoor,Grass,1st Round,5.0,Almagro N.,Monaco J.,48.0,69.0,1115.0,905.0,6.0,7.0,6.0,7.0,7.0,6.0,6.0,4.0,7.0,6.0,3.0,2.0,Completed
+36.0,London,Wimbledon,22-06-2009,Grand Slam,Outdoor,Grass,1st Round,5.0,Beck K.,Lopez F.,143.0,27.0,518.0,1665.0,1.0,6.0,7.0,5.0,6.0,3.0,4.0,6.0,7.0,6.0,3.0,2.0,Completed
+36.0,London,Wimbledon,22-06-2009,Grand Slam,Outdoor,Grass,1st Round,5.0,Bolelli S.,Koellerer D.,63.0,91.0,951.0,788.0,6.0,7.0,2.0,6.0,7.0,5.0,6.0,4.0,6.0,4.0,3.0,2.0,Completed
+36.0,London,Wimbledon,22-06-2009,Grand Slam,Outdoor,Grass,1st Round,5.0,Vliegen K.,Mahut N.,82.0,146.0,843.0,500.0,6.0,3.0,7.0,6.0,5.0,7.0,5.0,7.0,6.0,4.0,3.0,2.0,Completed
+36.0,London,Wimbledon,22-06-2009,Grand Slam,Outdoor,Grass,1st Round,5.0,Koubek S.,Roger-Vasselin E.,189.0,172.0,373.0,425.0,7.0,5.0,6.0,3.0,4.0,6.0,3.0,6.0,6.0,3.0,3.0,2.0,Completed
+36.0,London,Wimbledon,23-06-2009,Grand Slam,Outdoor,Grass,1st Round,5.0,Hanescu V.,Navarro-Pastor I.,28.0,68.0,1651.0,920.0,6.0,3.0,6.0,7.0,6.0,4.0,6.0,7.0,7.0,6.0,3.0,2.0,Completed
+36.0,London,Wimbledon,23-06-2009,Grand Slam,Outdoor,Grass,1st Round,5.0,Crivoi V.,Phau B.,87.0,79.0,820.0,858.0,4.0,6.0,6.0,1.0,7.0,6.0,2.0,6.0,6.0,3.0,3.0,2.0,Completed
+36.0,London,Wimbledon,23-06-2009,Grand Slam,Outdoor,Grass,1st Round,5.0,Devilder N.,Lapentti N.,96.0,121.0,724.0,630.0,3.0,6.0,6.0,4.0,6.0,3.0,4.0,6.0,7.0,5.0,3.0,2.0,Completed
+36.0,London,Wimbledon,23-06-2009,Grand Slam,Outdoor,Grass,1st Round,5.0,Llodra M.,Goodall J.,137.0,188.0,543.0,374.0,4.0,6.0,7.0,6.0,6.0,4.0,3.0,6.0,6.0,4.0,3.0,2.0,Completed
+36.0,London,Wimbledon,23-06-2009,Grand Slam,Outdoor,Grass,1st Round,5.0,Alves T.,Pavel A.,118.0,907.0,636.0,20.0,6.0,3.0,2.0,6.0,6.0,1.0,2.0,6.0,6.0,1.0,3.0,2.0,Completed
+36.0,London,Wimbledon,23-06-2009,Grand Slam,Outdoor,Grass,1st Round,5.0,Cuevas P.,Rochus C.,125.0,60.0,611.0,978.0,3.0,6.0,4.0,6.0,6.0,4.0,6.0,1.0,7.0,6.0,3.0,2.0,Completed
+36.0,London,Wimbledon,24-06-2009,Grand Slam,Outdoor,Grass,1st Round,5.0,Gimeno-Traver D.,Dent T.,98.0,266.0,718.0,237.0,7.0,5.0,7.0,6.0,4.0,6.0,6.0,7.0,6.0,4.0,3.0,2.0,Completed
+36.0,London,Wimbledon,24-06-2009,Grand Slam,Outdoor,Grass,2nd Round,5.0,Robredo T.,Koubek S.,15.0,189.0,2580.0,373.0,3.0,6.0,4.0,6.0,6.0,4.0,7.0,6.0,6.0,1.0,3.0,2.0,Completed
+36.0,London,Wimbledon,24-06-2009,Grand Slam,Outdoor,Grass,2nd Round,5.0,Kohlschreiber P.,Minar I.,32.0,78.0,1540.0,871.0,6.0,4.0,3.0,6.0,4.0,6.0,6.0,2.0,7.0,6.0,3.0,2.0,Completed
+36.0,London,Wimbledon,24-06-2009,Grand Slam,Outdoor,Grass,2nd Round,5.0,Almagro N.,Beck K.,48.0,143.0,1115.0,518.0,6.0,4.0,7.0,6.0,3.0,6.0,3.0,6.0,7.0,5.0,3.0,2.0,Completed
+36.0,London,Wimbledon,24-06-2009,Grand Slam,Outdoor,Grass,2nd Round,5.0,Cilic M.,Querrey S.,13.0,47.0,2710.0,1140.0,4.0,6.0,7.0,6.0,6.0,3.0,6.0,7.0,6.0,4.0,3.0,2.0,Completed
+36.0,London,Wimbledon,25-06-2009,Grand Slam,Outdoor,Grass,2nd Round,5.0,Petzschner P.,Zverev M.,55.0,45.0,1045.0,1170.0,4.0,6.0,7.0,6.0,3.0,6.0,7.0,6.0,6.0,0.0,3.0,2.0,Completed
+36.0,London,Wimbledon,25-06-2009,Grand Slam,Outdoor,Grass,2nd Round,5.0,Seppi A.,Gicquel M.,50.0,59.0,1090.0,1005.0,7.0,5.0,6.0,4.0,6.0,7.0,5.0,7.0,6.0,4.0,3.0,2.0,Completed
+36.0,London,Wimbledon,25-06-2009,Grand Slam,Outdoor,Grass,2nd Round,5.0,Levine J.,Cuevas P.,133.0,125.0,553.0,611.0,6.0,2.0,6.0,1.0,4.0,6.0,4.0,6.0,6.0,3.0,3.0,2.0,Completed
+36.0,London,Wimbledon,25-06-2009,Grand Slam,Outdoor,Grass,2nd Round,5.0,Stepanek R.,Starace P.,23.0,80.0,1890.0,858.0,6.0,4.0,4.0,6.0,6.0,2.0,4.0,6.0,6.0,3.0,3.0,2.0,Completed
+36.0,London,Wimbledon,25-06-2009,Grand Slam,Outdoor,Grass,2nd Round,5.0,Troicki V.,Gimeno-Traver D.,31.0,98.0,1547.0,718.0,6.0,7.0,6.0,0.0,1.0,6.0,6.0,3.0,7.0,5.0,3.0,2.0,Completed
+36.0,London,Wimbledon,27-06-2009,Grand Slam,Outdoor,Grass,3rd Round,5.0,Stepanek R.,Ferrer D.,23.0,21.0,1890.0,1900.0,7.0,5.0,7.0,5.0,3.0,6.0,4.0,6.0,6.0,4.0,3.0,2.0,Completed
+36.0,London,Wimbledon,27-06-2009,Grand Slam,Outdoor,Grass,3rd Round,5.0,Haas T.,Cilic M.,34.0,13.0,1405.0,2710.0,7.0,5.0,7.0,5.0,1.0,6.0,6.0,7.0,7.0,6.0,3.0,2.0,Completed
+36.0,London,Wimbledon,27-06-2009,Grand Slam,Outdoor,Grass,3rd Round,5.0,Ferrero J.C.,Gonzalez F.,70.0,10.0,894.0,3165.0,4.0,6.0,7.0,5.0,6.0,4.0,4.0,6.0,6.0,4.0,3.0,2.0,Completed
+36.0,London,Wimbledon,29-06-2009,Grand Slam,Outdoor,Grass,4th Round,5.0,Hewitt L.,Stepanek R.,56.0,23.0,1040.0,1890.0,4.0,6.0,2.0,6.0,6.0,1.0,6.0,2.0,6.0,2.0,3.0,2.0,Completed
+36.0,London,Wimbledon,29-06-2009,Grand Slam,Outdoor,Grass,4th Round,5.0,Murray A.,Wawrinka S.,3.0,18.0,9230.0,2195.0,2.0,6.0,6.0,3.0,6.0,3.0,5.0,7.0,6.0,3.0,3.0,2.0,Completed
+36.0,London,Wimbledon,01-07-2009,Grand Slam,Outdoor,Grass,Quarterfinals,5.0,Roddick A.,Hewitt L.,6.0,56.0,4310.0,1040.0,6.0,3.0,6.0,7.0,7.0,6.0,4.0,6.0,6.0,4.0,3.0,2.0,Completed
+36.0,London,Wimbledon,05-07-2009,Grand Slam,Outdoor,Grass,The Final,5.0,Federer R.,Roddick A.,2.0,6.0,10620.0,4310.0,5.0,6.0,7.0,6.0,7.0,6.0,3.0,6.0,16.0,14.0,3.0,2.0,Completed
+49.0,New York,US Open,31-08-2009,Grand Slam,Outdoor,Hard,1st Round,5.0,Granollers M.,Zverev M.,88.0,53.0,680.0,930.0,2.0,6.0,7.0,5.0,3.0,6.0,6.0,4.0,6.0,0.0,3.0,2.0,Completed
+49.0,New York,US Open,31-08-2009,Grand Slam,Outdoor,Hard,1st Round,5.0,Hernych J.,Schuettler R.,70.0,99.0,812.0,635.0,1.0,6.0,7.0,6.0,6.0,4.0,2.0,6.0,6.0,3.0,3.0,2.0,Completed
+49.0,New York,US Open,31-08-2009,Grand Slam,Outdoor,Hard,1st Round,5.0,Garcia-Lopez G.,Polansky P.,50.0,202.0,984.0,301.0,6.0,4.0,6.0,4.0,5.0,7.0,3.0,6.0,6.0,1.0,3.0,2.0,Completed
+49.0,New York,US Open,31-08-2009,Grand Slam,Outdoor,Hard,1st Round,5.0,Greul S.,Lapentti G.,65.0,182.0,836.0,341.0,6.0,3.0,4.0,6.0,3.0,6.0,6.0,0.0,7.0,6.0,3.0,2.0,Completed
+49.0,New York,US Open,31-08-2009,Grand Slam,Outdoor,Hard,1st Round,5.0,Ilhan M.,Rochus C.,231.0,72.0,243.0,799.0,3.0,6.0,6.0,3.0,3.0,6.0,7.0,5.0,7.0,5.0,3.0,2.0,Completed
+49.0,New York,US Open,01-09-2009,Grand Slam,Outdoor,Hard,1st Round,5.0,Gonzalez M.,Beck K.,79.0,94.0,739.0,654.0,2.0,6.0,1.0,6.0,6.0,1.0,6.0,4.0,6.0,3.0,3.0,2.0,Completed
+49.0,New York,US Open,01-09-2009,Grand Slam,Outdoor,Hard,1st Round,5.0,Troicki V.,Luczak P.,31.0,78.0,1320.0,744.0,6.0,3.0,6.0,3.0,1.0,6.0,2.0,6.0,6.0,1.0,3.0,2.0,Completed
+49.0,New York,US Open,01-09-2009,Grand Slam,Outdoor,Hard,1st Round,5.0,Lapentti N.,Wawrinka S.,163.0,20.0,383.0,1845.0,4.0,6.0,3.0,6.0,7.0,6.0,7.0,6.0,6.0,3.0,3.0,2.0,Completed
+49.0,New York,US Open,02-09-2009,Grand Slam,Outdoor,Hard,1st Round,5.0,Beck A.,Korolev E.,40.0,80.0,1115.0,732.0,6.0,3.0,6.0,4.0,2.0,6.0,2.0,6.0,6.0,4.0,3.0,2.0,Completed
+49.0,New York,US Open,02-09-2009,Grand Slam,Outdoor,Hard,1st Round,5.0,Petzschner P.,Stakhovsky S.,39.0,132.0,1147.0,476.0,7.0,6.0,6.0,7.0,6.0,4.0,4.0,6.0,6.0,3.0,3.0,2.0,Completed
+49.0,New York,US Open,04-09-2009,Grand Slam,Outdoor,Hard,2nd Round,5.0,Ferrero J.C.,Petzschner P.,25.0,39.0,1490.0,1147.0,1.0,6.0,3.0,6.0,6.0,4.0,6.0,2.0,6.0,4.0,3.0,2.0,Completed
+49.0,New York,US Open,04-09-2009,Grand Slam,Outdoor,Hard,2nd Round,5.0,Cilic M.,Levine J.,17.0,135.0,1985.0,470.0,4.0,6.0,2.0,6.0,6.0,0.0,6.0,3.0,6.0,0.0,3.0,2.0,Completed
+49.0,New York,US Open,04-09-2009,Grand Slam,Outdoor,Hard,2nd Round,5.0,Istomin D.,Lapentti N.,108.0,163.0,587.0,383.0,2.0,6.0,6.0,4.0,4.0,6.0,7.0,5.0,7.0,6.0,3.0,2.0,Completed
+49.0,New York,US Open,04-09-2009,Grand Slam,Outdoor,Hard,2nd Round,5.0,Almagro N.,Ginepri R.,33.0,75.0,1285.0,765.0,6.0,7.0,6.0,2.0,6.0,3.0,4.0,6.0,6.0,4.0,3.0,2.0,Completed
+49.0,New York,US Open,04-09-2009,Grand Slam,Outdoor,Hard,2nd Round,5.0,Dent T.,Navarro-Pastor I.,196.0,119.0,314.0,525.0,6.0,4.0,5.0,7.0,6.0,7.0,7.0,5.0,7.0,6.0,3.0,2.0,Completed
+49.0,New York,US Open,04-09-2009,Grand Slam,Outdoor,Hard,2nd Round,5.0,Acasuso J.,Ferrer D.,47.0,19.0,1030.0,1890.0,6.0,3.0,3.0,6.0,1.0,6.0,6.0,3.0,6.0,2.0,3.0,2.0,Completed
+49.0,New York,US Open,05-09-2009,Grand Slam,Outdoor,Hard,3rd Round,5.0,Verdasco F.,Haas T.,10.0,21.0,3220.0,1760.0,3.0,6.0,7.0,5.0,7.0,6.0,1.0,6.0,6.0,4.0,3.0,2.0,Completed
+49.0,New York,US Open,05-09-2009,Grand Slam,Outdoor,Hard,3rd Round,5.0,Isner J.,Roddick A.,55.0,5.0,914.0,5720.0,7.0,6.0,6.0,3.0,3.0,6.0,5.0,7.0,7.0,6.0,3.0,2.0,Completed
+49.0,New York,US Open,14-09-2009,Grand Slam,Outdoor,Hard,The Final,5.0,Del Potro J.M.,Federer R.,6.0,1.0,5325.0,12040.0,3.0,6.0,7.0,6.0,4.0,6.0,7.0,6.0,6.0,2.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,18-01-2010,Grand Slam,Outdoor,Hard,1st Round,5.0,Karlovic I.,Stepanek R.,39.0,13.0,1015.0,2525.0,2.0,6.0,7.0,6.0,6.0,4.0,3.0,6.0,6.0,4.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,18-01-2010,Grand Slam,Outdoor,Hard,1st Round,5.0,Mayer F.,Petzschner P.,60.0,81.0,746.0,582.0,0.0,6.0,2.0,6.0,6.0,4.0,6.0,2.0,6.0,2.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,19-01-2010,Grand Slam,Outdoor,Hard,1st Round,5.0,Isner J.,Seppi A.,28.0,49.0,1260.0,900.0,6.0,3.0,6.0,3.0,3.0,6.0,5.0,7.0,6.0,4.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,19-01-2010,Grand Slam,Outdoor,Hard,1st Round,5.0,Serra F.,Melzer J.,64.0,27.0,665.0,1260.0,6.0,1.0,6.0,7.0,6.0,4.0,4.0,6.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,19-01-2010,Grand Slam,Outdoor,Hard,1st Round,5.0,Granollers M.,Soderling R.,113.0,8.0,483.0,3410.0,5.0,7.0,2.0,6.0,6.0,4.0,6.0,4.0,6.0,2.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,19-01-2010,Grand Slam,Outdoor,Hard,1st Round,5.0,Koubek S.,Ram R.,134.0,84.0,377.0,578.0,4.0,6.0,6.0,3.0,5.0,7.0,6.0,1.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,19-01-2010,Grand Slam,Outdoor,Hard,1st Round,5.0,Veic A.,Koellerer D.,224.0,73.0,208.0,617.0,6.0,4.0,3.0,6.0,6.0,7.0,6.0,1.0,6.0,4.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,19-01-2010,Grand Slam,Outdoor,Hard,1st Round,5.0,Dodig I.,Ferrero J.C.,185.0,23.0,260.0,1555.0,2.0,6.0,1.0,6.0,6.0,4.0,6.0,1.0,6.0,1.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,19-01-2010,Grand Slam,Outdoor,Hard,1st Round,5.0,Youzhny M.,Gasquet R.,20.0,52.0,1690.0,865.0,6.0,7.0,4.0,6.0,7.0,6.0,7.0,6.0,6.0,4.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,19-01-2010,Grand Slam,Outdoor,Hard,1st Round,5.0,Almagro N.,Malisse X.,25.0,93.0,1305.0,541.0,7.0,6.0,6.0,4.0,2.0,6.0,4.0,6.0,7.0,6.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,20-01-2010,Grand Slam,Outdoor,Hard,2nd Round,5.0,Serra F.,Nieminen J.,64.0,132.0,665.0,398.0,3.0,6.0,6.0,4.0,5.0,7.0,7.0,6.0,7.0,5.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,20-01-2010,Grand Slam,Outdoor,Hard,2nd Round,5.0,Del Potro J.M.,Blake J.,5.0,45.0,6580.0,935.0,6.0,4.0,6.0,7.0,5.0,7.0,6.0,3.0,7.0,6.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,20-01-2010,Grand Slam,Outdoor,Hard,2nd Round,5.0,Cilic M.,Tomic B.,14.0,289.0,2430.0,150.0,6.0,7.0,6.0,3.0,4.0,6.0,6.0,2.0,6.0,4.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,21-01-2010,Grand Slam,Outdoor,Hard,2nd Round,5.0,Almagro N.,Becker B.,25.0,38.0,1305.0,1016.0,6.0,4.0,6.0,2.0,3.0,6.0,4.0,6.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,21-01-2010,Grand Slam,Outdoor,Hard,2nd Round,5.0,Baghdatis M.,Ferrer D.,31.0,18.0,1215.0,1825.0,4.0,6.0,3.0,6.0,7.0,6.0,6.0,3.0,6.0,1.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,21-01-2010,Grand Slam,Outdoor,Hard,2nd Round,5.0,Monaco J.,Llodra M.,33.0,72.0,1170.0,627.0,3.0,6.0,3.0,6.0,7.0,6.0,6.0,1.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,21-01-2010,Grand Slam,Outdoor,Hard,2nd Round,5.0,Haas T.,Tipsarevic J.,17.0,36.0,1855.0,1060.0,4.0,6.0,6.0,4.0,6.0,3.0,1.0,6.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,21-01-2010,Grand Slam,Outdoor,Hard,2nd Round,5.0,Montanes A.,Robert S.,32.0,104.0,1185.0,515.0,4.0,6.0,6.0,7.0,6.0,2.0,6.0,3.0,6.0,2.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,22-01-2010,Grand Slam,Outdoor,Hard,3rd Round,5.0,Gonzalez F.,Korolev E.,11.0,53.0,2870.0,860.0,6.0,7.0,6.0,3.0,1.0,6.0,6.0,3.0,6.0,4.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,24-01-2010,Grand Slam,Outdoor,Hard,4th Round,5.0,Cilic M.,Del Potro J.M.,14.0,5.0,2430.0,6580.0,5.0,7.0,6.0,4.0,7.0,5.0,5.0,7.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,24-01-2010,Grand Slam,Outdoor,Hard,4th Round,5.0,Roddick A.,Gonzalez F.,7.0,11.0,4510.0,2870.0,6.0,3.0,3.0,6.0,4.0,6.0,7.0,5.0,6.0,2.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,25-01-2010,Grand Slam,Outdoor,Hard,4th Round,5.0,Davydenko N.,Verdasco F.,6.0,9.0,4930.0,3300.0,6.0,2.0,7.0,5.0,4.0,6.0,6.0,7.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,25-01-2010,Grand Slam,Outdoor,Hard,4th Round,5.0,Tsonga J.W.,Almagro N.,10.0,25.0,2875.0,1305.0,6.0,3.0,6.0,4.0,4.0,6.0,6.0,7.0,7.0,6.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,26-01-2010,Grand Slam,Outdoor,Hard,Quarterfinals,5.0,Cilic M.,Roddick A.,14.0,7.0,2430.0,4510.0,7.0,6.0,6.0,3.0,3.0,6.0,2.0,6.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,27-01-2010,Grand Slam,Outdoor,Hard,Quarterfinals,5.0,Tsonga J.W.,Djokovic N.,10.0,3.0,2875.0,8310.0,7.0,6.0,6.0,7.0,1.0,6.0,6.0,3.0,6.0,1.0,3.0,2.0,Completed
+31.0,Paris,French Open,23-05-2010,Grand Slam,Outdoor,Clay,1st Round,5.0,Fognini F.,Massu N.,92.0,91.0,570.0,571.0,6.0,1.0,3.0,6.0,2.0,6.0,6.0,3.0,6.0,3.0,3.0,2.0,Completed
+31.0,Paris,French Open,23-05-2010,Grand Slam,Outdoor,Clay,1st Round,5.0,Tsonga J.W.,Brands D.,10.0,88.0,3185.0,577.0,4.0,6.0,6.0,3.0,6.0,2.0,6.0,7.0,7.0,5.0,3.0,2.0,Completed
+31.0,Paris,French Open,23-05-2010,Grand Slam,Outdoor,Clay,1st Round,5.0,Chiudinelli M.,Devvarman S.,68.0,108.0,715.0,473.0,6.0,3.0,3.0,6.0,6.0,3.0,3.0,6.0,6.0,3.0,3.0,2.0,Completed
+31.0,Paris,French Open,23-05-2010,Grand Slam,Outdoor,Clay,1st Round,5.0,Roger-Vasselin E.,Anderson K.,124.0,93.0,406.0,567.0,1.0,6.0,4.0,6.0,6.0,3.0,7.0,6.0,6.0,1.0,3.0,2.0,Completed
+31.0,Paris,French Open,24-05-2010,Grand Slam,Outdoor,Clay,1st Round,5.0,Ball C.,Petzschner P.,132.0,39.0,391.0,1020.0,6.0,3.0,7.0,6.0,2.0,6.0,5.0,7.0,7.0,9.0,3.0,2.0,Completed
+31.0,Paris,French Open,24-05-2010,Grand Slam,Outdoor,Clay,1st Round,5.0,Nishikori K.,Giraldo S.,246.0,58.0,190.0,821.0,2.0,6.0,4.0,6.0,7.0,6.0,6.0,2.0,6.0,4.0,3.0,2.0,Completed
+31.0,Paris,French Open,24-05-2010,Grand Slam,Outdoor,Clay,1st Round,5.0,Lacko L.,Yani M.,81.0,151.0,614.0,315.0,4.0,6.0,7.0,6.0,7.0,6.0,6.0,7.0,12.0,10.0,3.0,2.0,Completed
+31.0,Paris,French Open,24-05-2010,Grand Slam,Outdoor,Clay,1st Round,5.0,Murray A.,Gasquet R.,4.0,45.0,5565.0,920.0,4.0,6.0,6.0,7.0,6.0,4.0,6.0,2.0,6.0,1.0,3.0,2.0,Completed
+31.0,Paris,French Open,24-05-2010,Grand Slam,Outdoor,Clay,1st Round,5.0,Dolgopolov O.,Clement A.,56.0,76.0,824.0,635.0,3.0,6.0,7.0,6.0,3.0,6.0,6.0,3.0,6.0,3.0,3.0,2.0,Completed
+31.0,Paris,French Open,24-05-2010,Grand Slam,Outdoor,Clay,1st Round,5.0,Almagro N.,Haase R.,21.0,205.0,1690.0,230.0,6.0,4.0,3.0,6.0,4.0,6.0,7.0,6.0,6.0,4.0,3.0,2.0,Completed
+31.0,Paris,French Open,24-05-2010,Grand Slam,Outdoor,Clay,1st Round,5.0,Fish M.,Berrer M.,97.0,42.0,556.0,944.0,5.0,7.0,6.0,4.0,3.0,6.0,6.0,1.0,6.0,3.0,3.0,2.0,Completed
+31.0,Paris,French Open,25-05-2010,Grand Slam,Outdoor,Clay,1st Round,5.0,Roddick A.,Nieminen J.,8.0,69.0,4600.0,707.0,6.0,2.0,4.0,6.0,4.0,6.0,7.0,6.0,6.0,3.0,3.0,2.0,Completed
+31.0,Paris,French Open,25-05-2010,Grand Slam,Outdoor,Clay,1st Round,5.0,Zeballos H.,Fischer M.,44.0,190.0,935.0,240.0,7.0,6.0,6.0,7.0,1.0,6.0,6.0,4.0,8.0,6.0,3.0,2.0,Completed
+31.0,Paris,French Open,27-05-2010,Grand Slam,Outdoor,Clay,2nd Round,5.0,Fognini F.,Monfils G.,92.0,15.0,570.0,2220.0,2.0,6.0,4.0,6.0,7.0,5.0,6.0,4.0,9.0,7.0,3.0,2.0,Completed
+31.0,Paris,French Open,28-05-2010,Grand Slam,Outdoor,Clay,2nd Round,5.0,Hewitt L.,Istomin D.,33.0,72.0,1350.0,660.0,1.0,6.0,6.0,3.0,6.0,4.0,2.0,6.0,6.0,2.0,3.0,2.0,Completed
+31.0,Paris,French Open,28-05-2010,Grand Slam,Outdoor,Clay,2nd Round,5.0,Bellucci T.,Andujar P.,29.0,146.0,1482.0,350.0,1.0,6.0,6.0,3.0,2.0,6.0,6.0,4.0,6.0,2.0,3.0,2.0,Completed
+31.0,Paris,French Open,28-05-2010,Grand Slam,Outdoor,Clay,2nd Round,5.0,Ljubicic I.,Fish M.,16.0,97.0,2140.0,556.0,6.0,2.0,6.0,7.0,4.0,6.0,6.0,2.0,10.0,8.0,3.0,2.0,Completed
+31.0,Paris,French Open,28-05-2010,Grand Slam,Outdoor,Clay,3rd Round,5.0,Cilic M.,Mayer L.,12.0,57.0,2945.0,822.0,6.0,4.0,3.0,6.0,7.0,5.0,6.0,7.0,6.0,4.0,3.0,2.0,Completed
+31.0,Paris,French Open,29-05-2010,Grand Slam,Outdoor,Clay,3rd Round,5.0,Verdasco F.,Kohlschreiber P.,9.0,35.0,3645.0,1320.0,2.0,6.0,6.0,3.0,6.0,3.0,6.0,7.0,6.0,4.0,3.0,2.0,Completed
+31.0,Paris,French Open,29-05-2010,Grand Slam,Outdoor,Clay,3rd Round,5.0,Ginepri R.,Ferrero J.C.,98.0,18.0,538.0,2050.0,7.0,5.0,6.0,3.0,3.0,6.0,2.0,6.0,6.0,4.0,3.0,2.0,Completed
+31.0,Paris,French Open,02-06-2010,Grand Slam,Outdoor,Clay,Quarterfinals,5.0,Melzer J.,Djokovic N.,27.0,3.0,1495.0,6405.0,3.0,6.0,2.0,6.0,6.0,2.0,7.0,6.0,6.0,4.0,3.0,2.0,Completed
+31.0,Paris,French Open,04-06-2010,Grand Slam,Outdoor,Clay,Semifinals,5.0,Soderling R.,Berdych T.,7.0,17.0,4755.0,2115.0,6.0,3.0,3.0,6.0,5.0,7.0,6.0,3.0,6.0,3.0,3.0,2.0,Completed
+36.0,London,Wimbledon,21-06-2010,Grand Slam,Outdoor,Grass,1st Round,5.0,Federer R.,Falla A.,2.0,60.0,8525.0,767.0,5.0,7.0,4.0,6.0,6.0,4.0,7.0,6.0,6.0,0.0,3.0,2.0,Completed
+36.0,London,Wimbledon,21-06-2010,Grand Slam,Outdoor,Grass,1st Round,5.0,Davydenko N.,Anderson K.,5.0,95.0,4785.0,560.0,3.0,6.0,6.0,7.0,7.0,6.0,7.0,5.0,9.0,7.0,3.0,2.0,Completed
+36.0,London,Wimbledon,21-06-2010,Grand Slam,Outdoor,Grass,1st Round,5.0,Hanescu V.,Kuznetsov A.,38.0,167.0,1070.0,278.0,6.0,7.0,7.0,6.0,6.0,3.0,1.0,6.0,7.0,5.0,3.0,2.0,Completed
+36.0,London,Wimbledon,21-06-2010,Grand Slam,Outdoor,Grass,1st Round,5.0,Ilhan M.,Daniel M.,118.0,108.0,432.0,456.0,6.0,7.0,4.0,6.0,6.0,2.0,6.0,3.0,6.0,1.0,3.0,2.0,Completed
+36.0,London,Wimbledon,21-06-2010,Grand Slam,Outdoor,Grass,1st Round,5.0,Istomin D.,Wawrinka S.,70.0,23.0,715.0,1690.0,6.0,7.0,6.0,1.0,2.0,6.0,7.0,6.0,6.0,3.0,3.0,2.0,Completed
+36.0,London,Wimbledon,21-06-2010,Grand Slam,Outdoor,Grass,1st Round,5.0,Djokovic N.,Rochus O.,3.0,68.0,6545.0,730.0,4.0,6.0,6.0,2.0,3.0,6.0,6.0,4.0,6.0,2.0,3.0,2.0,Completed
+36.0,London,Wimbledon,22-06-2010,Grand Slam,Outdoor,Grass,1st Round,5.0,Kamke T.,Garcia-Lopez G.,126.0,39.0,419.0,1060.0,5.0,7.0,2.0,6.0,7.0,5.0,6.0,4.0,6.0,4.0,3.0,2.0,Completed
+36.0,London,Wimbledon,22-06-2010,Grand Slam,Outdoor,Grass,1st Round,5.0,Benneteau J.,Vliegen K.,40.0,174.0,1059.0,266.0,2.0,6.0,6.0,7.0,6.0,1.0,6.0,2.0,7.0,5.0,3.0,2.0,Completed
+36.0,London,Wimbledon,22-06-2010,Grand Slam,Outdoor,Grass,1st Round,5.0,Petzschner P.,Robert S.,41.0,76.0,1055.0,666.0,6.0,4.0,7.0,6.0,4.0,6.0,2.0,6.0,6.0,4.0,3.0,2.0,Completed
+36.0,London,Wimbledon,22-06-2010,Grand Slam,Outdoor,Grass,1st Round,5.0,Malisse X.,Ferrero J.C.,63.0,17.0,751.0,2095.0,6.0,2.0,6.0,7.0,7.0,6.0,4.0,6.0,6.0,1.0,3.0,2.0,Completed
+36.0,London,Wimbledon,23-06-2010,Grand Slam,Outdoor,Grass,1st Round,5.0,De Bakker T.,Giraldo S.,49.0,54.0,928.0,823.0,6.0,7.0,6.0,4.0,6.0,3.0,5.0,7.0,16.0,14.0,3.0,2.0,Completed
+36.0,London,Wimbledon,24-06-2010,Grand Slam,Outdoor,Grass,1st Round,5.0,Isner J.,Mahut N.,19.0,148.0,1925.0,339.0,6.0,4.0,3.0,6.0,6.0,7.0,7.0,6.0,70.0,68.0,3.0,2.0,Completed
+36.0,London,Wimbledon,23-06-2010,Grand Slam,Outdoor,Grass,2nd Round,5.0,Melzer J.,Troicki V.,16.0,42.0,2125.0,1000.0,6.0,7.0,4.0,6.0,6.0,3.0,7.0,6.0,6.0,3.0,3.0,2.0,Completed
+36.0,London,Wimbledon,23-06-2010,Grand Slam,Outdoor,Grass,2nd Round,5.0,Kohlschreiber P.,Gabashvili T.,35.0,84.0,1230.0,624.0,7.0,6.0,5.0,7.0,2.0,6.0,7.0,6.0,9.0,7.0,3.0,2.0,Completed
+36.0,London,Wimbledon,23-06-2010,Grand Slam,Outdoor,Grass,2nd Round,5.0,Montanes A.,Evans B.,31.0,318.0,1405.0,125.0,3.0,6.0,6.0,3.0,6.0,7.0,6.0,1.0,6.0,4.0,3.0,2.0,Completed
+36.0,London,Wimbledon,23-06-2010,Grand Slam,Outdoor,Grass,2nd Round,5.0,Istomin D.,Schuettler R.,70.0,85.0,715.0,622.0,6.0,3.0,7.0,6.0,4.0,6.0,4.0,6.0,6.0,1.0,3.0,2.0,Completed
+36.0,London,Wimbledon,24-06-2010,Grand Slam,Outdoor,Grass,2nd Round,5.0,Tsonga J.W.,Dolgopolov O.,10.0,43.0,3185.0,996.0,6.0,4.0,6.0,4.0,6.0,7.0,5.0,7.0,10.0,8.0,3.0,2.0,Completed
+36.0,London,Wimbledon,24-06-2010,Grand Slam,Outdoor,Grass,2nd Round,5.0,Benneteau J.,Beck A.,40.0,79.0,1059.0,645.0,3.0,6.0,6.0,2.0,4.0,6.0,7.0,6.0,6.0,3.0,3.0,2.0,Completed
+36.0,London,Wimbledon,24-06-2010,Grand Slam,Outdoor,Grass,2nd Round,5.0,Chardy J.,Lacko L.,55.0,75.0,820.0,671.0,6.0,3.0,7.0,6.0,4.0,6.0,6.0,7.0,8.0,6.0,3.0,2.0,Completed
+36.0,London,Wimbledon,24-06-2010,Grand Slam,Outdoor,Grass,2nd Round,5.0,Fognini F.,Russell M.,80.0,101.0,635.0,519.0,3.0,6.0,5.0,7.0,7.0,5.0,7.0,6.0,6.0,3.0,3.0,2.0,Completed
+36.0,London,Wimbledon,24-06-2010,Grand Slam,Outdoor,Grass,2nd Round,5.0,Nadal R.,Haase R.,1.0,151.0,8745.0,330.0,5.0,7.0,6.0,2.0,3.0,6.0,6.0,0.0,6.0,3.0,3.0,2.0,Completed
+36.0,London,Wimbledon,24-06-2010,Grand Slam,Outdoor,Grass,2nd Round,5.0,Petzschner P.,Kubot L.,41.0,53.0,1055.0,825.0,6.0,4.0,3.0,6.0,4.0,6.0,6.0,3.0,6.0,2.0,3.0,2.0,Completed
+36.0,London,Wimbledon,25-06-2010,Grand Slam,Outdoor,Grass,2nd Round,5.0,Mathieu P.H.,Youzhny M.,66.0,14.0,740.0,2665.0,6.0,4.0,2.0,6.0,2.0,6.0,6.0,3.0,6.0,4.0,3.0,2.0,Completed
+36.0,London,Wimbledon,25-06-2010,Grand Slam,Outdoor,Grass,3rd Round,5.0,Berdych T.,Istomin D.,13.0,70.0,2825.0,715.0,6.0,7.0,7.0,6.0,6.0,7.0,6.0,3.0,6.0,4.0,3.0,2.0,Completed
+36.0,London,Wimbledon,25-06-2010,Grand Slam,Outdoor,Grass,3rd Round,5.0,Brands D.,Hanescu V.,98.0,38.0,543.0,1070.0,6.0,7.0,6.0,7.0,7.0,6.0,6.0,3.0,3.0,0.0,2.0,2.0,Retired
+36.0,London,Wimbledon,26-06-2010,Grand Slam,Outdoor,Grass,3rd Round,5.0,Ferrer D.,Chardy J.,11.0,55.0,3010.0,820.0,7.0,5.0,6.0,3.0,4.0,6.0,3.0,6.0,7.0,5.0,3.0,2.0,Completed
+36.0,London,Wimbledon,26-06-2010,Grand Slam,Outdoor,Grass,3rd Round,5.0,Nadal R.,Petzschner P.,1.0,41.0,8745.0,1055.0,6.0,4.0,4.0,6.0,6.0,7.0,6.0,2.0,6.0,3.0,3.0,2.0,Completed
+36.0,London,Wimbledon,26-06-2010,Grand Slam,Outdoor,Grass,3rd Round,5.0,Querrey S.,Malisse X.,21.0,63.0,1775.0,751.0,6.0,7.0,6.0,4.0,6.0,2.0,5.0,7.0,9.0,7.0,3.0,2.0,Completed
+36.0,London,Wimbledon,28-06-2010,Grand Slam,Outdoor,Grass,4th Round,5.0,Lu Y.H.,Roddick A.,82.0,7.0,626.0,4510.0,4.0,6.0,7.0,6.0,7.0,6.0,6.0,7.0,9.0,7.0,3.0,2.0,Completed
+36.0,London,Wimbledon,28-06-2010,Grand Slam,Outdoor,Grass,4th Round,5.0,Soderling R.,Ferrer D.,6.0,11.0,4755.0,3010.0,6.0,2.0,5.0,7.0,6.0,2.0,3.0,6.0,7.0,5.0,3.0,2.0,Completed
+49.0,New York,US Open,30-08-2010,Grand Slam,Outdoor,Hard,1st Round,5.0,Soderling R.,Haider-Maurer A.,5.0,214.0,4910.0,223.0,7.0,5.0,6.0,3.0,6.0,7.0,5.0,7.0,6.0,4.0,3.0,2.0,Completed
+49.0,New York,US Open,30-08-2010,Grand Slam,Outdoor,Hard,1st Round,5.0,Monfils G.,Kendrick R.,19.0,148.0,2070.0,334.0,3.0,6.0,6.0,3.0,6.0,4.0,6.0,7.0,6.0,4.0,3.0,2.0,Completed
+49.0,New York,US Open,30-08-2010,Grand Slam,Outdoor,Hard,1st Round,5.0,Melzer J.,Tursunov D.,15.0,481.0,2470.0,62.0,6.0,4.0,6.0,2.0,3.0,6.0,4.0,6.0,6.0,2.0,3.0,2.0,Completed
+49.0,New York,US Open,30-08-2010,Grand Slam,Outdoor,Hard,1st Round,5.0,Montanes A.,Przysiezny M.,23.0,90.0,1600.0,602.0,5.0,7.0,1.0,6.0,7.0,5.0,7.0,6.0,6.0,0.0,3.0,2.0,Completed
+49.0,New York,US Open,30-08-2010,Grand Slam,Outdoor,Hard,1st Round,5.0,Mathieu P.H.,Hewitt L.,109.0,34.0,494.0,1215.0,6.0,3.0,6.0,4.0,5.0,7.0,4.0,6.0,6.0,1.0,3.0,2.0,Completed
+49.0,New York,US Open,31-08-2010,Grand Slam,Outdoor,Hard,1st Round,5.0,Clement A.,Baghdatis M.,68.0,18.0,716.0,2095.0,6.0,3.0,2.0,6.0,1.0,6.0,6.0,4.0,7.0,5.0,3.0,2.0,Completed
+49.0,New York,US Open,31-08-2010,Grand Slam,Outdoor,Hard,1st Round,5.0,Paire B.,Schuettler R.,163.0,91.0,294.0,588.0,6.0,3.0,6.0,3.0,4.0,6.0,3.0,6.0,7.0,6.0,3.0,2.0,Completed
+49.0,New York,US Open,31-08-2010,Grand Slam,Outdoor,Hard,1st Round,5.0,Fish M.,Hajek J.,21.0,82.0,1751.0,644.0,6.0,0.0,3.0,6.0,4.0,6.0,6.0,0.0,6.0,1.0,3.0,2.0,Completed
+49.0,New York,US Open,31-08-2010,Grand Slam,Outdoor,Hard,1st Round,5.0,Djokovic N.,Troicki V.,3.0,47.0,6665.0,980.0,6.0,3.0,3.0,6.0,2.0,6.0,7.0,5.0,6.0,3.0,3.0,2.0,Completed
+49.0,New York,US Open,31-08-2010,Grand Slam,Outdoor,Hard,1st Round,5.0,Mannarino A.,Riba P.,152.0,76.0,326.0,678.0,3.0,6.0,6.0,1.0,6.0,4.0,4.0,6.0,7.0,6.0,3.0,2.0,Completed
+49.0,New York,US Open,31-08-2010,Grand Slam,Outdoor,Hard,1st Round,5.0,Verdasco F.,Fognini F.,8.0,86.0,3330.0,626.0,1.0,6.0,7.0,5.0,6.0,1.0,4.0,6.0,6.0,3.0,3.0,2.0,Completed
+49.0,New York,US Open,31-08-2010,Grand Slam,Outdoor,Hard,1st Round,5.0,Nalbandian D.,De Voest R.,33.0,231.0,1235.0,202.0,7.0,6.0,3.0,6.0,6.0,4.0,6.0,7.0,6.0,4.0,3.0,2.0,Completed
+49.0,New York,US Open,01-09-2010,Grand Slam,Outdoor,Hard,1st Round,5.0,Granollers M.,Seppi A.,94.0,56.0,583.0,835.0,2.0,6.0,5.0,7.0,6.0,3.0,6.0,2.0,6.0,3.0,3.0,2.0,Completed
+49.0,New York,US Open,02-09-2010,Grand Slam,Outdoor,Hard,2nd Round,5.0,Nishikori K.,Cilic M.,147.0,13.0,337.0,2855.0,5.0,7.0,7.0,6.0,3.0,6.0,7.0,6.0,6.0,1.0,3.0,2.0,Completed
+49.0,New York,US Open,02-09-2010,Grand Slam,Outdoor,Hard,2nd Round,5.0,Melzer J.,Berankis R.,15.0,124.0,2470.0,428.0,6.0,4.0,6.0,7.0,6.0,3.0,1.0,6.0,7.0,5.0,3.0,2.0,Completed
+49.0,New York,US Open,02-09-2010,Grand Slam,Outdoor,Hard,2nd Round,5.0,Anderson K.,Bellucci T.,77.0,28.0,677.0,1480.0,6.0,7.0,6.0,4.0,5.0,7.0,6.0,4.0,7.0,6.0,3.0,2.0,Completed
+49.0,New York,US Open,03-09-2010,Grand Slam,Outdoor,Hard,2nd Round,5.0,Stakhovsky S.,Harrison R.,36.0,220.0,1183.0,214.0,6.0,3.0,5.0,7.0,3.0,6.0,6.0,3.0,7.0,6.0,3.0,2.0,Completed
+49.0,New York,US Open,03-09-2010,Grand Slam,Outdoor,Hard,2nd Round,5.0,Lopez F.,Paire B.,25.0,163.0,1515.0,294.0,6.0,4.0,6.0,7.0,5.0,7.0,7.0,6.0,6.0,2.0,3.0,2.0,Completed
+49.0,New York,US Open,03-09-2010,Grand Slam,Outdoor,Hard,2nd Round,5.0,Simon G.,Kohlschreiber P.,42.0,31.0,1055.0,1315.0,4.0,6.0,6.0,3.0,1.0,6.0,6.0,1.0,6.0,3.0,3.0,2.0,Completed
+49.0,New York,US Open,04-09-2010,Grand Slam,Outdoor,Hard,3rd Round,5.0,Fish M.,Clement A.,21.0,68.0,1751.0,716.0,4.0,6.0,6.0,3.0,6.0,4.0,1.0,6.0,6.0,3.0,3.0,2.0,Completed
+49.0,New York,US Open,07-09-2010,Grand Slam,Outdoor,Hard,4th Round,5.0,Wawrinka S.,Querrey S.,27.0,22.0,1510.0,1705.0,7.0,6.0,6.0,7.0,7.0,5.0,4.0,6.0,6.0,4.0,3.0,2.0,Completed
+49.0,New York,US Open,07-09-2010,Grand Slam,Outdoor,Hard,4th Round,5.0,Verdasco F.,Ferrer D.,8.0,12.0,3330.0,3065.0,5.0,7.0,6.0,7.0,6.0,3.0,6.0,3.0,7.0,6.0,3.0,2.0,Completed
+49.0,New York,US Open,09-09-2010,Grand Slam,Outdoor,Hard,Quarterfinals,5.0,Youzhny M.,Wawrinka S.,14.0,27.0,2620.0,1510.0,3.0,6.0,7.0,6.0,3.0,6.0,6.0,3.0,6.0,3.0,3.0,2.0,Completed
+49.0,New York,US Open,11-09-2010,Grand Slam,Outdoor,Hard,Semifinals,5.0,Djokovic N.,Federer R.,3.0,2.0,6665.0,7215.0,5.0,7.0,6.0,1.0,5.0,7.0,6.0,2.0,7.0,5.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,17-01-2011,Grand Slam,Outdoor,Hard,1st Round,5.0,Monfils G.,De Bakker T.,12.0,47.0,2560.0,950.0,6.0,7.0,2.0,6.0,7.0,5.0,6.0,2.0,6.0,1.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,17-01-2011,Grand Slam,Outdoor,Hard,1st Round,5.0,Gil F.,Cuevas P.,91.0,64.0,571.0,790.0,6.0,4.0,6.0,7.0,4.0,6.0,6.0,3.0,9.0,7.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,17-01-2011,Grand Slam,Outdoor,Hard,1st Round,5.0,Kubot L.,Querrey S.,72.0,18.0,670.0,1860.0,5.0,7.0,6.0,2.0,3.0,6.0,6.0,1.0,8.0,6.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,17-01-2011,Grand Slam,Outdoor,Hard,1st Round,5.0,Fish M.,Hanescu V.,17.0,50.0,1921.0,925.0,2.0,6.0,4.0,6.0,6.0,3.0,7.0,5.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,17-01-2011,Grand Slam,Outdoor,Hard,1st Round,5.0,Kohlschreiber P.,Kamke T.,35.0,65.0,1195.0,736.0,1.0,6.0,4.0,6.0,7.0,6.0,6.0,4.0,6.0,4.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,17-01-2011,Grand Slam,Outdoor,Hard,1st Round,5.0,Montanes A.,Brown D.,26.0,89.0,1495.0,573.0,6.0,4.0,6.0,2.0,3.0,6.0,2.0,6.0,7.0,5.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,17-01-2011,Grand Slam,Outdoor,Hard,1st Round,5.0,Dodig I.,Karlovic I.,81.0,73.0,606.0,670.0,6.0,4.0,3.0,6.0,6.0,7.0,6.0,4.0,6.0,4.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,18-01-2011,Grand Slam,Outdoor,Hard,1st Round,5.0,Bellucci T.,Mello R.,30.0,77.0,1355.0,627.0,7.0,5.0,7.0,5.0,4.0,6.0,3.0,6.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,18-01-2011,Grand Slam,Outdoor,Hard,1st Round,5.0,Riba P.,Ball C.,71.0,158.0,672.0,344.0,1.0,6.0,7.0,6.0,6.0,2.0,2.0,6.0,6.0,4.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,18-01-2011,Grand Slam,Outdoor,Hard,1st Round,5.0,Baghdatis M.,Zemlja G.,22.0,141.0,1580.0,376.0,3.0,6.0,7.0,5.0,6.0,1.0,4.0,6.0,6.0,2.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,18-01-2011,Grand Slam,Outdoor,Hard,1st Round,5.0,Seppi A.,Clement A.,51.0,113.0,900.0,497.0,3.0,6.0,2.0,6.0,7.0,5.0,6.0,3.0,6.0,2.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,18-01-2011,Grand Slam,Outdoor,Hard,1st Round,5.0,Tsonga J.W.,Petzschner P.,13.0,57.0,2345.0,859.0,4.0,6.0,2.0,6.0,6.0,2.0,6.0,3.0,6.0,4.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,18-01-2011,Grand Slam,Outdoor,Hard,1st Round,5.0,Nalbandian D.,Hewitt L.,21.0,54.0,1610.0,870.0,3.0,6.0,6.0,4.0,3.0,6.0,7.0,6.0,9.0,7.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,19-01-2011,Grand Slam,Outdoor,Hard,2nd Round,5.0,Verdasco F.,Tipsarevic J.,9.0,49.0,3240.0,935.0,2.0,6.0,4.0,6.0,6.0,4.0,7.0,6.0,6.0,0.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,19-01-2011,Grand Slam,Outdoor,Hard,2nd Round,5.0,Almagro N.,Andreev I.,14.0,75.0,2160.0,644.0,7.0,5.0,2.0,6.0,4.0,6.0,7.0,6.0,7.0,5.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,19-01-2011,Grand Slam,Outdoor,Hard,2nd Round,5.0,Federer R.,Simon G.,2.0,34.0,9245.0,1210.0,6.0,2.0,6.0,3.0,4.0,6.0,4.0,6.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,20-01-2011,Grand Slam,Outdoor,Hard,2nd Round,5.0,Youzhny M.,Kavcic B.,10.0,98.0,2920.0,552.0,6.0,3.0,6.0,1.0,5.0,7.0,4.0,6.0,6.0,1.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,20-01-2011,Grand Slam,Outdoor,Hard,2nd Round,5.0,Hernych J.,Bellucci T.,241.0,30.0,196.0,1355.0,6.0,2.0,6.0,7.0,6.0,4.0,6.0,7.0,8.0,6.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,22-01-2011,Grand Slam,Outdoor,Hard,3rd Round,5.0,Dolgopolov O.,Tsonga J.W.,46.0,13.0,953.0,2345.0,3.0,6.0,6.0,3.0,3.0,6.0,6.0,1.0,6.0,1.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,22-01-2011,Grand Slam,Outdoor,Hard,3rd Round,5.0,Cilic M.,Isner J.,15.0,20.0,2140.0,1645.0,4.0,6.0,6.0,2.0,6.0,7.0,7.0,6.0,9.0,7.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,24-01-2011,Grand Slam,Outdoor,Hard,4th Round,5.0,Dolgopolov O.,Soderling R.,46.0,4.0,953.0,5785.0,1.0,6.0,6.0,3.0,6.0,1.0,4.0,6.0,6.0,2.0,3.0,2.0,Completed
+31.0,Paris,French Open,22-05-2011,Grand Slam,Outdoor,Clay,1st Round,5.0,Teixeira M.,Millot V.,181.0,152.0,300.0,378.0,6.0,2.0,5.0,7.0,6.0,7.0,6.0,4.0,6.0,1.0,3.0,2.0,Completed
+31.0,Paris,French Open,23-05-2011,Grand Slam,Outdoor,Clay,1st Round,5.0,Ramos A.,Marti J.,117.0,268.0,470.0,184.0,6.0,3.0,6.0,7.0,4.0,6.0,6.0,1.0,6.0,3.0,3.0,2.0,Completed
+31.0,Paris,French Open,23-05-2011,Grand Slam,Outdoor,Clay,1st Round,5.0,Robert S.,Berdych T.,140.0,6.0,419.0,4200.0,3.0,6.0,3.0,6.0,6.0,2.0,6.0,2.0,9.0,7.0,3.0,2.0,Completed
+31.0,Paris,French Open,24-05-2011,Grand Slam,Outdoor,Clay,1st Round,5.0,Kubot L.,Almagro N.,122.0,12.0,458.0,2225.0,3.0,6.0,2.0,6.0,7.0,6.0,7.0,6.0,6.0,4.0,3.0,2.0,Completed
+31.0,Paris,French Open,24-05-2011,Grand Slam,Outdoor,Clay,1st Round,5.0,Nadal R.,Isner J.,1.0,39.0,12070.0,1070.0,6.0,4.0,6.0,7.0,6.0,7.0,6.0,2.0,6.0,4.0,3.0,2.0,Completed
+31.0,Paris,French Open,24-05-2011,Grand Slam,Outdoor,Clay,1st Round,5.0,Malisse X.,Tursunov D.,40.0,74.0,1070.0,678.0,7.0,5.0,3.0,6.0,6.0,3.0,3.0,6.0,6.0,1.0,3.0,2.0,Completed
+31.0,Paris,French Open,24-05-2011,Grand Slam,Outdoor,Clay,1st Round,5.0,Rosol L.,Roger-Vasselin E.,111.0,133.0,476.0,428.0,3.0,6.0,6.0,2.0,6.0,4.0,3.0,6.0,7.0,5.0,3.0,2.0,Completed
+31.0,Paris,French Open,25-05-2011,Grand Slam,Outdoor,Clay,2nd Round,5.0,Garcia-Lopez G.,Ilhan M.,33.0,123.0,1205.0,458.0,6.0,4.0,1.0,6.0,6.0,2.0,4.0,6.0,11.0,1.0,3.0,2.0,Completed
+31.0,Paris,French Open,26-05-2011,Grand Slam,Outdoor,Clay,2nd Round,5.0,Veic A.,Davydenko N.,227.0,30.0,217.0,1285.0,3.0,6.0,6.0,2.0,7.0,5.0,3.0,6.0,6.0,1.0,3.0,2.0,Completed
+31.0,Paris,French Open,26-05-2011,Grand Slam,Outdoor,Clay,2nd Round,5.0,Chela J.I.,Anderson K.,34.0,35.0,1160.0,1150.0,3.0,6.0,6.0,3.0,6.0,4.0,4.0,6.0,6.0,2.0,3.0,2.0,Completed
+31.0,Paris,French Open,26-05-2011,Grand Slam,Outdoor,Clay,2nd Round,5.0,Rosol L.,Melzer J.,111.0,8.0,476.0,2850.0,6.0,7.0,6.0,4.0,4.0,6.0,7.0,6.0,6.0,4.0,3.0,2.0,Completed
+31.0,Paris,French Open,27-05-2011,Grand Slam,Outdoor,Clay,3rd Round,5.0,Wawrinka S.,Tsonga J.W.,14.0,17.0,1920.0,1570.0,4.0,6.0,6.0,7.0,7.0,6.0,6.0,2.0,6.0,3.0,3.0,2.0,Completed
+31.0,Paris,French Open,29-05-2011,Grand Slam,Outdoor,Clay,4th Round,5.0,Fognini F.,Montanes A.,49.0,38.0,960.0,1110.0,4.0,6.0,6.0,4.0,3.0,6.0,6.0,3.0,11.0,9.0,3.0,2.0,Completed
+31.0,Paris,French Open,30-05-2011,Grand Slam,Outdoor,Clay,4th Round,5.0,Chela J.I.,Falla A.,34.0,120.0,1160.0,462.0,4.0,6.0,6.0,2.0,1.0,6.0,7.0,6.0,6.0,2.0,3.0,2.0,Completed
+31.0,Paris,French Open,30-05-2011,Grand Slam,Outdoor,Clay,4th Round,5.0,Monfils G.,Ferrer D.,9.0,7.0,2465.0,4060.0,6.0,4.0,2.0,6.0,7.0,5.0,1.0,6.0,8.0,6.0,3.0,2.0,Completed
+31.0,Paris,French Open,31-05-2011,Grand Slam,Outdoor,Clay,4th Round,5.0,Murray A.,Troicki V.,4.0,15.0,6085.0,1840.0,4.0,6.0,4.0,6.0,6.0,3.0,6.0,2.0,7.0,5.0,3.0,2.0,Completed
+36.0,London,Wimbledon,20-06-2011,Grand Slam,Outdoor,Grass,1st Round,5.0,Sweeting R.,Andujar P.,69.0,50.0,726.0,960.0,3.0,6.0,4.0,6.0,6.0,1.0,7.0,6.0,6.0,1.0,3.0,2.0,Completed
+36.0,London,Wimbledon,20-06-2011,Grand Slam,Outdoor,Grass,1st Round,5.0,Benneteau J.,Bemelmans R.,77.0,163.0,633.0,346.0,6.0,4.0,6.0,2.0,3.0,6.0,4.0,6.0,6.0,1.0,3.0,2.0,Completed
+36.0,London,Wimbledon,21-06-2011,Grand Slam,Outdoor,Grass,1st Round,5.0,Verdasco F.,Stepanek R.,22.0,60.0,1425.0,873.0,2.0,6.0,4.0,6.0,6.0,3.0,7.0,6.0,9.0,7.0,3.0,2.0,Completed
+36.0,London,Wimbledon,21-06-2011,Grand Slam,Outdoor,Grass,1st Round,5.0,Beck K.,Berlocq C.,156.0,70.0,363.0,717.0,4.0,6.0,7.0,6.0,4.0,6.0,6.0,2.0,6.0,4.0,3.0,2.0,Completed
+36.0,London,Wimbledon,21-06-2011,Grand Slam,Outdoor,Grass,1st Round,5.0,Kubot L.,Clement A.,93.0,143.0,563.0,401.0,6.0,4.0,6.0,2.0,3.0,6.0,5.0,7.0,6.0,4.0,3.0,2.0,Completed
+36.0,London,Wimbledon,21-06-2011,Grand Slam,Outdoor,Grass,1st Round,5.0,Mannarino A.,Niland C.,55.0,181.0,923.0,298.0,4.0,6.0,6.0,4.0,7.0,6.0,4.0,6.0,6.0,4.0,3.0,2.0,Completed
+36.0,London,Wimbledon,21-06-2011,Grand Slam,Outdoor,Grass,1st Round,5.0,Youzhny M.,Monaco J.,17.0,43.0,1740.0,1025.0,4.0,6.0,6.0,2.0,6.0,2.0,4.0,6.0,6.0,4.0,3.0,2.0,Completed
+36.0,London,Wimbledon,21-06-2011,Grand Slam,Outdoor,Grass,1st Round,5.0,Baghdatis M.,Blake J.,30.0,102.0,1295.0,509.0,6.0,4.0,6.0,2.0,6.0,7.0,4.0,6.0,6.0,4.0,3.0,2.0,Completed
+36.0,London,Wimbledon,21-06-2011,Grand Slam,Outdoor,Grass,1st Round,5.0,Rochus O.,De Schepper K.,73.0,234.0,643.0,212.0,6.0,7.0,3.0,6.0,6.0,3.0,6.0,1.0,6.0,4.0,3.0,2.0,Completed
+36.0,London,Wimbledon,21-06-2011,Grand Slam,Outdoor,Grass,1st Round,5.0,Mello R.,Dancevic F.,89.0,164.0,574.0,343.0,3.0,6.0,3.0,6.0,6.0,4.0,7.0,6.0,6.0,2.0,3.0,2.0,Completed
+36.0,London,Wimbledon,21-06-2011,Grand Slam,Outdoor,Grass,1st Round,5.0,Andreev I.,Gabashvili T.,79.0,129.0,630.0,441.0,6.0,4.0,7.0,6.0,6.0,7.0,4.0,6.0,6.0,3.0,3.0,2.0,Completed
+36.0,London,Wimbledon,22-06-2011,Grand Slam,Outdoor,Grass,1st Round,5.0,Anderson K.,Marchenko I.,36.0,114.0,1185.0,478.0,6.0,7.0,7.0,6.0,6.0,4.0,4.0,6.0,6.0,1.0,3.0,2.0,Completed
+36.0,London,Wimbledon,23-06-2011,Grand Slam,Outdoor,Grass,2nd Round,5.0,Soderling R.,Hewitt L.,5.0,130.0,4595.0,440.0,6.0,7.0,3.0,6.0,7.0,5.0,6.0,4.0,6.0,4.0,3.0,2.0,Completed
+36.0,London,Wimbledon,24-06-2011,Grand Slam,Outdoor,Grass,2nd Round,5.0,Ferrer D.,Harrison R.,6.0,122.0,4150.0,458.0,6.0,7.0,6.0,1.0,4.0,6.0,6.0,3.0,6.0,2.0,3.0,2.0,Completed
+36.0,London,Wimbledon,24-06-2011,Grand Slam,Outdoor,Grass,2nd Round,5.0,Tomic B.,Andreev I.,158.0,79.0,357.0,630.0,4.0,6.0,5.0,7.0,6.0,3.0,6.0,4.0,6.0,1.0,3.0,2.0,Completed
+36.0,London,Wimbledon,27-06-2011,Grand Slam,Outdoor,Grass,4th Round,5.0,Lopez F.,Kubot L.,44.0,93.0,1020.0,563.0,3.0,6.0,6.0,7.0,7.0,6.0,7.0,5.0,7.0,5.0,3.0,2.0,Completed
+36.0,London,Wimbledon,29-06-2011,Grand Slam,Outdoor,Grass,Quarterfinals,5.0,Tsonga J.W.,Federer R.,19.0,3.0,1585.0,9230.0,3.0,6.0,6.0,7.0,6.0,4.0,6.0,4.0,6.0,4.0,3.0,2.0,Completed
+50.0,New York,US Open,29-08-2011,Grand Slam,Outdoor,Hard,1st Round,5.0,Petzschner P.,Ramos A.,67.0,71.0,715.0,687.0,7.0,5.0,6.0,7.0,6.0,3.0,6.0,7.0,6.0,3.0,3.0,2.0,Completed
+50.0,New York,US Open,29-08-2011,Grand Slam,Outdoor,Hard,1st Round,5.0,Llodra M.,Hanescu V.,30.0,72.0,1280.0,685.0,6.0,2.0,4.0,6.0,4.0,6.0,6.0,3.0,6.0,2.0,3.0,2.0,Completed
+50.0,New York,US Open,29-08-2011,Grand Slam,Outdoor,Hard,1st Round,5.0,Falla A.,Troicki V.,119.0,16.0,462.0,1935.0,3.0,6.0,6.0,3.0,4.0,6.0,7.0,5.0,7.0,5.0,3.0,2.0,Completed
+50.0,New York,US Open,29-08-2011,Grand Slam,Outdoor,Hard,1st Round,5.0,Sela D.,Bellucci T.,93.0,35.0,580.0,1180.0,4.0,6.0,2.0,6.0,6.0,4.0,6.0,3.0,6.0,0.0,3.0,2.0,Completed
+50.0,New York,US Open,30-08-2011,Grand Slam,Outdoor,Hard,1st Round,5.0,Ferrero J.C.,Andujar P.,105.0,45.0,540.0,952.0,1.0,6.0,7.0,5.0,5.0,7.0,6.0,1.0,6.0,3.0,3.0,2.0,Completed
+50.0,New York,US Open,30-08-2011,Grand Slam,Outdoor,Hard,1st Round,5.0,Kunitsyn I.,Bachinger M.,62.0,86.0,729.0,613.0,2.0,6.0,1.0,6.0,6.0,1.0,6.0,4.0,6.0,4.0,3.0,2.0,Completed
+50.0,New York,US Open,30-08-2011,Grand Slam,Outdoor,Hard,1st Round,5.0,Davydenko N.,Dodig I.,39.0,33.0,1115.0,1207.0,6.0,7.0,6.0,3.0,6.0,0.0,2.0,6.0,6.0,2.0,3.0,2.0,Completed
+50.0,New York,US Open,30-08-2011,Grand Slam,Outdoor,Hard,1st Round,5.0,Darcis S.,Tursunov D.,102.0,43.0,542.0,994.0,6.0,7.0,4.0,6.0,7.0,5.0,6.0,1.0,7.0,6.0,3.0,2.0,Completed
+50.0,New York,US Open,30-08-2011,Grand Slam,Outdoor,Hard,1st Round,5.0,Mahut N.,Farah R.,99.0,277.0,557.0,168.0,3.0,6.0,6.0,7.0,6.0,2.0,6.0,4.0,6.0,0.0,3.0,2.0,Completed
+50.0,New York,US Open,31-08-2011,Grand Slam,Outdoor,Hard,1st Round,5.0,Garcia-Lopez G.,Gimeno-Traver D.,37.0,89.0,1165.0,594.0,6.0,3.0,1.0,6.0,7.0,6.0,4.0,6.0,7.0,6.0,3.0,2.0,Completed
+50.0,New York,US Open,31-08-2011,Grand Slam,Outdoor,Hard,1st Round,5.0,Bogomolov A.,Johnson S.,44.0,525.0,985.0,55.0,4.0,6.0,4.0,6.0,6.0,3.0,7.0,6.0,6.0,3.0,3.0,2.0,Completed
+50.0,New York,US Open,31-08-2011,Grand Slam,Outdoor,Hard,1st Round,5.0,Simon G.,Mello R.,12.0,113.0,2325.0,483.0,3.0,6.0,6.0,3.0,6.0,4.0,3.0,6.0,6.0,4.0,3.0,2.0,Completed
+50.0,New York,US Open,01-09-2011,Grand Slam,Outdoor,Hard,2nd Round,5.0,Ferrero J.C.,Monfils G.,105.0,7.0,540.0,3165.0,7.0,6.0,5.0,7.0,6.0,7.0,6.0,4.0,6.0,4.0,3.0,2.0,Completed
+50.0,New York,US Open,01-09-2011,Grand Slam,Outdoor,Hard,2nd Round,5.0,Dolgopolov O.,Cipolla F.,23.0,108.0,1530.0,527.0,6.0,0.0,7.0,5.0,2.0,6.0,5.0,7.0,6.0,4.0,3.0,2.0,Completed
+50.0,New York,US Open,02-09-2011,Grand Slam,Outdoor,Hard,2nd Round,5.0,Young D.,Wawrinka S.,84.0,14.0,620.0,2035.0,7.0,6.0,3.0,6.0,2.0,6.0,6.0,3.0,7.0,6.0,3.0,2.0,Completed
+50.0,New York,US Open,02-09-2011,Grand Slam,Outdoor,Hard,2nd Round,5.0,Kunitsyn I.,Melzer J.,62.0,17.0,729.0,1830.0,3.0,6.0,6.0,3.0,1.0,6.0,6.0,2.0,7.0,6.0,3.0,2.0,Completed
+50.0,New York,US Open,02-09-2011,Grand Slam,Outdoor,Hard,2nd Round,5.0,Murray A.,Haase R.,4.0,41.0,6535.0,1016.0,6.0,7.0,2.0,6.0,6.0,2.0,6.0,0.0,6.0,4.0,3.0,2.0,Completed
+50.0,New York,US Open,05-09-2011,Grand Slam,Outdoor,Hard,4th Round,5.0,Tsonga J.W.,Fish M.,11.0,8.0,2350.0,2820.0,6.0,4.0,6.0,7.0,3.0,6.0,6.0,4.0,6.0,2.0,3.0,2.0,Completed
+50.0,New York,US Open,10-09-2011,Grand Slam,Outdoor,Hard,Semifinals,5.0,Djokovic N.,Federer R.,1.0,3.0,13920.0,8380.0,6.0,7.0,4.0,6.0,6.0,3.0,6.0,2.0,7.0,5.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,16-01-2012,Grand Slam,Outdoor,Hard,1st Round,5.0,Cipolla F.,Davydenko N.,76.0,52.0,671.0,875.0,6.0,4.0,4.0,6.0,3.0,6.0,6.0,2.0,6.0,1.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,16-01-2012,Grand Slam,Outdoor,Hard,1st Round,5.0,Stakhovsky S.,Marchenko I.,65.0,246.0,755.0,192.0,6.0,3.0,6.0,7.0,4.0,6.0,6.0,3.0,7.0,5.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,16-01-2012,Grand Slam,Outdoor,Hard,1st Round,5.0,Tomic B.,Verdasco F.,38.0,24.0,1048.0,1550.0,4.0,6.0,6.0,7.0,6.0,4.0,6.0,2.0,7.0,5.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,16-01-2012,Grand Slam,Outdoor,Hard,1st Round,5.0,Kohlschreiber P.,Monaco J.,41.0,27.0,1005.0,1335.0,7.0,5.0,4.0,6.0,6.0,3.0,6.0,7.0,6.0,0.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,16-01-2012,Grand Slam,Outdoor,Hard,1st Round,5.0,Dimitrov G.,Chardy J.,78.0,82.0,666.0,652.0,4.0,6.0,6.0,3.0,3.0,6.0,6.0,4.0,6.0,4.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,16-01-2012,Grand Slam,Outdoor,Hard,1st Round,5.0,Young D.,Gojowczyk P.,42.0,248.0,1004.0,192.0,6.0,1.0,6.0,2.0,4.0,6.0,1.0,6.0,6.0,2.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,16-01-2012,Grand Slam,Outdoor,Hard,1st Round,5.0,Lacko L.,Ljubicic I.,119.0,30.0,491.0,1270.0,3.0,6.0,4.0,6.0,6.0,3.0,6.0,4.0,6.0,4.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,16-01-2012,Grand Slam,Outdoor,Hard,1st Round,5.0,Dolgopolov O.,Jones G.,13.0,198.0,2030.0,245.0,1.0,6.0,4.0,6.0,6.0,1.0,6.0,1.0,6.0,2.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,16-01-2012,Grand Slam,Outdoor,Hard,1st Round,5.0,Lu Y.H.,De Voest R.,79.0,126.0,661.0,459.0,6.0,4.0,3.0,6.0,6.0,1.0,3.0,6.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,17-01-2012,Grand Slam,Outdoor,Hard,1st Round,5.0,Golubev A.,Youzhny M.,146.0,35.0,362.0,1105.0,7.0,5.0,6.0,7.0,6.0,4.0,4.0,6.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,17-01-2012,Grand Slam,Outdoor,Hard,1st Round,5.0,Granollers M.,Levine J.,28.0,158.0,1315.0,320.0,6.0,0.0,7.0,6.0,5.0,7.0,5.0,7.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,17-01-2012,Grand Slam,Outdoor,Hard,1st Round,5.0,Simon G.,Udomchoke D.,14.0,201.0,2005.0,242.0,6.0,1.0,3.0,6.0,6.0,7.0,6.0,3.0,6.0,2.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,17-01-2012,Grand Slam,Outdoor,Hard,1st Round,5.0,Troicki V.,Ferrero J.C.,23.0,48.0,1595.0,910.0,4.0,6.0,6.0,7.0,6.0,2.0,7.0,6.0,6.0,2.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,18-01-2012,Grand Slam,Outdoor,Hard,2nd Round,5.0,Isner J.,Nalbandian D.,17.0,87.0,1800.0,630.0,4.0,6.0,6.0,3.0,2.0,6.0,7.0,6.0,10.0,8.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,18-01-2012,Grand Slam,Outdoor,Hard,2nd Round,5.0,Dolgopolov O.,Kamke T.,13.0,98.0,2030.0,578.0,4.0,6.0,6.0,1.0,6.0,1.0,3.0,6.0,8.0,6.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,18-01-2012,Grand Slam,Outdoor,Hard,2nd Round,5.0,Almagro N.,Dimitrov G.,10.0,78.0,2380.0,666.0,4.0,6.0,6.0,3.0,6.0,7.0,6.0,4.0,6.0,0.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,19-01-2012,Grand Slam,Outdoor,Hard,2nd Round,5.0,Llodra M.,Bogomolov A.,46.0,34.0,915.0,1135.0,6.0,1.0,6.0,3.0,4.0,6.0,5.0,7.0,6.0,4.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,19-01-2012,Grand Slam,Outdoor,Hard,2nd Round,5.0,Ferrer D.,Sweeting R.,5.0,68.0,4925.0,716.0,6.0,7.0,6.0,2.0,3.0,6.0,6.0,2.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,19-01-2012,Grand Slam,Outdoor,Hard,2nd Round,5.0,Nishikori K.,Ebden M.,26.0,94.0,1410.0,590.0,3.0,6.0,1.0,6.0,6.0,4.0,6.0,1.0,6.0,1.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,19-01-2012,Grand Slam,Outdoor,Hard,2nd Round,5.0,Kukushkin M.,Troicki V.,92.0,23.0,598.0,1595.0,5.0,7.0,6.0,4.0,6.0,2.0,4.0,6.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,19-01-2012,Grand Slam,Outdoor,Hard,2nd Round,5.0,Benneteau J.,Simon G.,39.0,14.0,1030.0,2005.0,7.0,5.0,7.0,6.0,1.0,6.0,3.0,6.0,6.0,2.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,20-01-2012,Grand Slam,Outdoor,Hard,3rd Round,5.0,Lopez F.,Isner J.,19.0,17.0,1755.0,1800.0,6.0,3.0,6.0,7.0,6.0,4.0,6.0,7.0,6.0,1.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,20-01-2012,Grand Slam,Outdoor,Hard,3rd Round,5.0,Tomic B.,Dolgopolov O.,38.0,13.0,1048.0,2030.0,4.0,6.0,7.0,6.0,7.0,6.0,2.0,6.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,21-01-2012,Grand Slam,Outdoor,Hard,3rd Round,5.0,Kukushkin M.,Monfils G.,92.0,15.0,598.0,1970.0,6.0,2.0,7.0,5.0,5.0,7.0,1.0,6.0,6.0,4.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,23-01-2012,Grand Slam,Outdoor,Hard,4th Round,5.0,Nishikori K.,Tsonga J.W.,26.0,6.0,1410.0,4335.0,2.0,6.0,6.0,2.0,6.0,1.0,3.0,6.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,27-01-2012,Grand Slam,Outdoor,Hard,Semifinals,5.0,Djokovic N.,Murray A.,1.0,4.0,13630.0,7380.0,6.0,3.0,3.0,6.0,6.0,7.0,6.0,1.0,7.0,5.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,29-01-2012,Grand Slam,Outdoor,Hard,The Final,5.0,Djokovic N.,Nadal R.,1.0,2.0,13630.0,9595.0,5.0,7.0,6.0,4.0,6.0,2.0,6.0,7.0,7.0,5.0,3.0,2.0,Completed
+32.0,Paris,French Open,27-05-2012,Grand Slam,Outdoor,Clay,1st Round,5.0,Wawrinka S.,Cipolla F.,21.0,75.0,1505.0,656.0,6.0,3.0,6.0,3.0,4.0,6.0,3.0,6.0,6.0,2.0,3.0,2.0,Completed
+32.0,Paris,French Open,27-05-2012,Grand Slam,Outdoor,Clay,1st Round,5.0,Andujar P.,Hanescu V.,36.0,146.0,1115.0,380.0,6.0,1.0,2.0,6.0,1.0,6.0,6.0,3.0,6.0,1.0,3.0,2.0,Completed
+32.0,Paris,French Open,27-05-2012,Grand Slam,Outdoor,Clay,1st Round,5.0,Muller G.,Sijsling I.,54.0,122.0,852.0,446.0,2.0,6.0,7.0,5.0,3.0,6.0,6.0,4.0,8.0,6.0,3.0,2.0,Completed
+32.0,Paris,French Open,27-05-2012,Grand Slam,Outdoor,Clay,1st Round,5.0,Berrer M.,Melzer J.,114.0,32.0,487.0,1182.0,6.0,7.0,4.0,6.0,6.0,2.0,6.0,2.0,6.0,3.0,3.0,2.0,Completed
+32.0,Paris,French Open,28-05-2012,Grand Slam,Outdoor,Clay,1st Round,5.0,Kukushkin M.,Gulbis E.,53.0,93.0,853.0,596.0,6.0,4.0,7.0,6.0,5.0,7.0,2.0,6.0,6.0,4.0,3.0,2.0,Completed
+32.0,Paris,French Open,28-05-2012,Grand Slam,Outdoor,Clay,1st Round,5.0,Clement A.,Bogomolov A.,139.0,46.0,400.0,926.0,6.0,2.0,3.0,6.0,4.0,6.0,7.0,6.0,5.0,4.0,2.0,2.0,Retired
+32.0,Paris,French Open,28-05-2012,Grand Slam,Outdoor,Clay,1st Round,5.0,Troicki V.,Bellucci T.,28.0,66.0,1325.0,707.0,4.0,6.0,6.0,3.0,5.0,7.0,6.0,3.0,6.0,2.0,3.0,2.0,Completed
+32.0,Paris,French Open,28-05-2012,Grand Slam,Outdoor,Clay,1st Round,5.0,Anderson K.,Machado R.,34.0,80.0,1170.0,632.0,7.0,6.0,6.0,7.0,4.0,6.0,6.0,1.0,11.0,9.0,3.0,2.0,Completed
+32.0,Paris,French Open,28-05-2012,Grand Slam,Outdoor,Clay,1st Round,5.0,Mathieu P.H.,Phau B.,261.0,84.0,185.0,620.0,2.0,6.0,4.0,6.0,6.0,4.0,6.0,3.0,6.0,0.0,3.0,2.0,Completed
+32.0,Paris,French Open,28-05-2012,Grand Slam,Outdoor,Clay,1st Round,5.0,Goffin D.,Stepanek R.,109.0,27.0,500.0,1340.0,6.0,2.0,4.0,6.0,2.0,6.0,6.0,4.0,6.0,2.0,3.0,2.0,Completed
+32.0,Paris,French Open,29-05-2012,Grand Slam,Outdoor,Clay,1st Round,5.0,Chardy J.,Lu Y.H.,55.0,60.0,834.0,770.0,6.0,4.0,6.0,1.0,6.0,7.0,3.0,6.0,11.0,9.0,3.0,2.0,Completed
+32.0,Paris,French Open,29-05-2012,Grand Slam,Outdoor,Clay,1st Round,5.0,Stakhovsky S.,Dolgopolov O.,83.0,19.0,620.0,1665.0,6.0,7.0,6.0,4.0,7.0,6.0,3.0,6.0,6.0,3.0,3.0,2.0,Completed
+32.0,Paris,French Open,30-05-2012,Grand Slam,Outdoor,Clay,2nd Round,5.0,Seppi A.,Kukushkin M.,25.0,53.0,1355.0,853.0,6.0,7.0,6.0,2.0,2.0,6.0,6.0,1.0,6.0,2.0,3.0,2.0,Completed
+32.0,Paris,French Open,30-05-2012,Grand Slam,Outdoor,Clay,2nd Round,5.0,Simon G.,Baker B.,12.0,141.0,2615.0,393.0,6.0,4.0,6.0,1.0,6.0,7.0,1.0,6.0,6.0,0.0,3.0,2.0,Completed
+32.0,Paris,French Open,31-05-2012,Grand Slam,Outdoor,Clay,2nd Round,5.0,Goffin D.,Clement A.,109.0,139.0,500.0,400.0,3.0,6.0,7.0,6.0,0.0,6.0,6.0,2.0,6.0,1.0,3.0,2.0,Completed
+32.0,Paris,French Open,31-05-2012,Grand Slam,Outdoor,Clay,2nd Round,5.0,Fognini F.,Troicki V.,45.0,28.0,965.0,1325.0,6.0,2.0,3.0,6.0,4.0,6.0,6.0,3.0,8.0,6.0,3.0,2.0,Completed
+32.0,Paris,French Open,31-05-2012,Grand Slam,Outdoor,Clay,2nd Round,5.0,Mathieu P.H.,Isner J.,261.0,11.0,185.0,2620.0,6.0,7.0,6.0,4.0,6.0,4.0,3.0,6.0,18.0,16.0,3.0,2.0,Completed
+32.0,Paris,French Open,01-06-2012,Grand Slam,Outdoor,Clay,2nd Round,5.0,Granollers M.,Jaziri M.,23.0,94.0,1385.0,595.0,7.0,6.0,3.0,6.0,6.0,1.0,3.0,6.0,7.0,5.0,3.0,2.0,Completed
+32.0,Paris,French Open,01-06-2012,Grand Slam,Outdoor,Clay,3rd Round,5.0,Berdych T.,Anderson K.,7.0,34.0,4515.0,1170.0,6.0,4.0,3.0,6.0,6.0,7.0,6.0,4.0,6.0,4.0,3.0,2.0,Completed
+32.0,Paris,French Open,01-06-2012,Grand Slam,Outdoor,Clay,3rd Round,5.0,Wawrinka S.,Simon G.,21.0,12.0,1505.0,2615.0,7.0,5.0,6.0,7.0,6.0,7.0,6.0,3.0,6.0,2.0,3.0,2.0,Completed
+32.0,Paris,French Open,01-06-2012,Grand Slam,Outdoor,Clay,3rd Round,5.0,Seppi A.,Verdasco F.,25.0,16.0,1355.0,1765.0,7.0,5.0,3.0,6.0,6.0,3.0,4.0,6.0,6.0,2.0,3.0,2.0,Completed
+32.0,Paris,French Open,02-06-2012,Grand Slam,Outdoor,Clay,3rd Round,5.0,Monaco J.,Raonic M.,15.0,22.0,1945.0,1460.0,6.0,7.0,6.0,3.0,6.0,7.0,6.0,3.0,6.0,4.0,3.0,2.0,Completed
+32.0,Paris,French Open,02-06-2012,Grand Slam,Outdoor,Clay,3rd Round,5.0,Granollers M.,Mathieu P.H.,23.0,261.0,1385.0,185.0,6.0,4.0,6.0,4.0,1.0,6.0,4.0,6.0,6.0,1.0,3.0,2.0,Completed
+32.0,Paris,French Open,03-06-2012,Grand Slam,Outdoor,Clay,4th Round,5.0,Djokovic N.,Seppi A.,1.0,25.0,11800.0,1355.0,4.0,6.0,6.0,7.0,6.0,3.0,7.0,5.0,6.0,3.0,3.0,2.0,Completed
+32.0,Paris,French Open,04-06-2012,Grand Slam,Outdoor,Clay,4th Round,5.0,Tsonga J.W.,Wawrinka S.,5.0,21.0,4965.0,1505.0,6.0,4.0,7.0,6.0,3.0,6.0,3.0,6.0,6.0,4.0,3.0,2.0,Completed
+32.0,Paris,French Open,05-06-2012,Grand Slam,Outdoor,Clay,Quarterfinals,5.0,Djokovic N.,Tsonga J.W.,1.0,5.0,11800.0,4965.0,6.0,1.0,5.0,7.0,5.0,7.0,7.0,6.0,6.0,1.0,3.0,2.0,Completed
+32.0,Paris,French Open,05-06-2012,Grand Slam,Outdoor,Clay,Quarterfinals,5.0,Federer R.,Del Potro J.M.,3.0,9.0,9790.0,2910.0,3.0,6.0,6.0,7.0,6.0,2.0,6.0,0.0,6.0,3.0,3.0,2.0,Completed
+37.0,London,Wimbledon,25-06-2012,Grand Slam,Outdoor,Grass,1st Round,5.0,Klizan M.,Chela J.I.,62.0,83.0,728.0,620.0,7.0,5.0,3.0,6.0,7.0,6.0,1.0,6.0,11.0,9.0,3.0,2.0,Completed
+37.0,London,Wimbledon,25-06-2012,Grand Slam,Outdoor,Grass,1st Round,5.0,Cervantes I.,Cipolla F.,152.0,89.0,354.0,591.0,2.0,6.0,6.0,7.0,6.0,3.0,6.0,2.0,6.0,1.0,3.0,2.0,Completed
+37.0,London,Wimbledon,25-06-2012,Grand Slam,Outdoor,Grass,1st Round,5.0,Troicki V.,Granollers M.,34.0,23.0,1190.0,1530.0,7.0,5.0,7.0,6.0,3.0,6.0,2.0,6.0,8.0,6.0,3.0,2.0,Completed
+37.0,London,Wimbledon,25-06-2012,Grand Slam,Outdoor,Grass,1st Round,5.0,Falla A.,Isner J.,73.0,10.0,664.0,2655.0,6.0,4.0,6.0,7.0,3.0,6.0,7.0,6.0,7.0,5.0,3.0,2.0,Completed
+37.0,London,Wimbledon,25-06-2012,Grand Slam,Outdoor,Grass,1st Round,5.0,Istomin D.,Seppi A.,39.0,26.0,1032.0,1390.0,6.0,7.0,6.0,4.0,3.0,6.0,6.0,3.0,8.0,6.0,3.0,2.0,Completed
+37.0,London,Wimbledon,25-06-2012,Grand Slam,Outdoor,Grass,1st Round,5.0,Rufin G.,Darcis S.,168.0,63.0,307.0,725.0,6.0,4.0,3.0,6.0,5.0,7.0,6.0,4.0,6.0,4.0,3.0,2.0,Completed
+37.0,London,Wimbledon,26-06-2012,Grand Slam,Outdoor,Grass,1st Round,5.0,Jaziri M.,Zopp J.,78.0,95.0,633.0,565.0,4.0,6.0,4.0,6.0,6.0,3.0,6.0,4.0,9.0,7.0,3.0,2.0,Completed
+37.0,London,Wimbledon,26-06-2012,Grand Slam,Outdoor,Grass,1st Round,5.0,Garcia-Lopez G.,Roger-Vasselin E.,92.0,67.0,581.0,697.0,6.0,7.0,6.0,3.0,7.0,6.0,5.0,7.0,10.0,8.0,3.0,2.0,Completed
+37.0,London,Wimbledon,26-06-2012,Grand Slam,Outdoor,Grass,1st Round,5.0,Mahut N.,Lorenzi P.,71.0,86.0,684.0,598.0,6.0,3.0,5.0,7.0,6.0,7.0,7.0,5.0,6.0,2.0,3.0,2.0,Completed
+37.0,London,Wimbledon,26-06-2012,Grand Slam,Outdoor,Grass,1st Round,5.0,Serra F.,Kuznetsov An.,137.0,151.0,392.0,355.0,3.0,6.0,7.0,6.0,6.0,4.0,4.0,6.0,6.0,4.0,3.0,2.0,Completed
+37.0,London,Wimbledon,26-06-2012,Grand Slam,Outdoor,Grass,1st Round,5.0,Almagro N.,Rochus O.,11.0,66.0,2605.0,700.0,6.0,7.0,3.0,6.0,7.0,6.0,6.0,2.0,6.0,4.0,3.0,2.0,Completed
+37.0,London,Wimbledon,26-06-2012,Grand Slam,Outdoor,Grass,1st Round,5.0,Ward J.,Andujar P.,173.0,36.0,297.0,1115.0,4.0,6.0,6.0,0.0,3.0,6.0,6.0,3.0,6.0,3.0,3.0,2.0,Completed
+37.0,London,Wimbledon,26-06-2012,Grand Slam,Outdoor,Grass,1st Round,5.0,Kohlschreiber P.,Haas T.,30.0,50.0,1220.0,848.0,3.0,6.0,7.0,6.0,6.0,7.0,7.0,6.0,6.0,2.0,3.0,2.0,Completed
+37.0,London,Wimbledon,27-06-2012,Grand Slam,Outdoor,Grass,1st Round,5.0,Phau B.,Odesnik W.,88.0,135.0,595.0,404.0,6.0,3.0,3.0,6.0,6.0,7.0,6.0,3.0,6.0,4.0,3.0,2.0,Completed
+37.0,London,Wimbledon,27-06-2012,Grand Slam,Outdoor,Grass,1st Round,5.0,Melzer J.,Wawrinka S.,35.0,24.0,1147.0,1505.0,3.0,6.0,7.0,6.0,2.0,6.0,6.0,4.0,8.0,6.0,3.0,2.0,Completed
+37.0,London,Wimbledon,27-06-2012,Grand Slam,Outdoor,Grass,2nd Round,5.0,Mayer F.,Petzschner P.,29.0,101.0,1230.0,534.0,3.0,6.0,3.0,6.0,6.0,4.0,6.0,2.0,6.0,4.0,3.0,2.0,Completed
+37.0,London,Wimbledon,27-06-2012,Grand Slam,Outdoor,Grass,2nd Round,5.0,Troicki V.,Klizan M.,34.0,62.0,1190.0,728.0,6.0,4.0,4.0,6.0,5.0,7.0,7.0,6.0,6.0,4.0,3.0,2.0,Completed
+37.0,London,Wimbledon,27-06-2012,Grand Slam,Outdoor,Grass,2nd Round,5.0,Janowicz J.,Gulbis E.,136.0,87.0,397.0,596.0,2.0,6.0,6.0,4.0,3.0,6.0,7.0,6.0,9.0,7.0,3.0,2.0,Completed
+37.0,London,Wimbledon,28-06-2012,Grand Slam,Outdoor,Grass,2nd Round,5.0,Lacko L.,Melzer J.,60.0,35.0,763.0,1147.0,6.0,4.0,6.0,7.0,3.0,6.0,6.0,3.0,6.0,4.0,3.0,2.0,Completed
+37.0,London,Wimbledon,28-06-2012,Grand Slam,Outdoor,Grass,2nd Round,5.0,Falla A.,Mahut N.,73.0,71.0,664.0,684.0,6.0,4.0,6.0,3.0,4.0,6.0,4.0,6.0,7.0,5.0,3.0,2.0,Completed
+37.0,London,Wimbledon,28-06-2012,Grand Slam,Outdoor,Grass,2nd Round,5.0,Fish M.,Ward J.,12.0,173.0,2535.0,297.0,6.0,3.0,5.0,7.0,6.0,4.0,6.0,7.0,6.0,3.0,3.0,2.0,Completed
+37.0,London,Wimbledon,28-06-2012,Grand Slam,Outdoor,Grass,2nd Round,5.0,Rosol L.,Nadal R.,100.0,2.0,553.0,10060.0,6.0,7.0,6.0,4.0,6.0,4.0,2.0,6.0,6.0,4.0,3.0,2.0,Completed
+37.0,London,Wimbledon,29-06-2012,Grand Slam,Outdoor,Grass,3rd Round,5.0,Malisse X.,Verdasco F.,75.0,16.0,651.0,1765.0,1.0,6.0,7.0,6.0,6.0,1.0,4.0,6.0,6.0,3.0,3.0,2.0,Completed
+37.0,London,Wimbledon,29-06-2012,Grand Slam,Outdoor,Grass,3rd Round,5.0,Mayer F.,Janowicz J.,29.0,136.0,1230.0,397.0,7.0,6.0,3.0,6.0,2.0,6.0,6.0,3.0,7.0,5.0,3.0,2.0,Completed
+37.0,London,Wimbledon,29-06-2012,Grand Slam,Outdoor,Grass,3rd Round,5.0,Federer R.,Benneteau J.,3.0,32.0,9435.0,1210.0,4.0,6.0,6.0,7.0,6.0,2.0,7.0,6.0,6.0,1.0,3.0,2.0,Completed
+37.0,London,Wimbledon,30-06-2012,Grand Slam,Outdoor,Grass,3rd Round,5.0,Cilic M.,Querrey S.,18.0,64.0,1655.0,705.0,7.0,6.0,6.0,4.0,6.0,7.0,6.0,7.0,17.0,15.0,3.0,2.0,Completed
+37.0,London,Wimbledon,02-07-2012,Grand Slam,Outdoor,Grass,4th Round,5.0,Youzhny M.,Istomin D.,33.0,39.0,1210.0,1032.0,6.0,3.0,5.0,7.0,6.0,4.0,6.0,7.0,7.0,5.0,3.0,2.0,Completed
+51.0,New York,US Open,27-08-2012,Grand Slam,Outdoor,Hard,1st Round,5.0,Smyczek T.,Reynolds B.,179.0,151.0,284.0,350.0,1.0,6.0,6.0,4.0,6.0,2.0,4.0,6.0,6.0,4.0,3.0,2.0,Completed
+51.0,New York,US Open,27-08-2012,Grand Slam,Outdoor,Hard,1st Round,5.0,Mathieu P.H.,Andreev I.,128.0,100.0,438.0,551.0,2.0,6.0,4.0,6.0,7.0,6.0,7.0,6.0,6.0,1.0,3.0,2.0,Completed
+51.0,New York,US Open,28-08-2012,Grand Slam,Outdoor,Hard,1st Round,5.0,Simon G.,Russell M.,17.0,107.0,1890.0,527.0,7.0,6.0,3.0,6.0,5.0,7.0,6.0,4.0,6.0,1.0,3.0,2.0,Completed
+51.0,New York,US Open,28-08-2012,Grand Slam,Outdoor,Hard,1st Round,5.0,Cilic M.,Matosevic M.,13.0,62.0,2185.0,740.0,5.0,7.0,2.0,6.0,6.0,4.0,6.0,2.0,6.0,4.0,3.0,2.0,Completed
+51.0,New York,US Open,28-08-2012,Grand Slam,Outdoor,Hard,1st Round,5.0,Raonic M.,Giraldo S.,16.0,46.0,1900.0,933.0,6.0,3.0,4.0,6.0,3.0,6.0,6.0,4.0,6.0,4.0,3.0,2.0,Completed
+51.0,New York,US Open,28-08-2012,Grand Slam,Outdoor,Hard,1st Round,5.0,Petzschner P.,Mahut N.,106.0,60.0,534.0,744.0,1.0,6.0,4.0,6.0,6.0,4.0,7.0,5.0,7.0,6.0,3.0,2.0,Completed
+51.0,New York,US Open,28-08-2012,Grand Slam,Outdoor,Hard,1st Round,5.0,Garcia-Lopez G.,Monaco J.,68.0,11.0,681.0,2735.0,3.0,6.0,1.0,6.0,6.0,4.0,7.0,6.0,7.0,6.0,3.0,2.0,Completed
+51.0,New York,US Open,28-08-2012,Grand Slam,Outdoor,Hard,1st Round,5.0,Fognini F.,Roger-Vasselin E.,59.0,104.0,745.0,536.0,3.0,6.0,5.0,7.0,6.0,4.0,6.0,4.0,7.0,5.0,3.0,2.0,Completed
+51.0,New York,US Open,28-08-2012,Grand Slam,Outdoor,Hard,1st Round,5.0,Baghdatis M.,Bachinger M.,39.0,115.0,995.0,482.0,6.0,2.0,4.0,6.0,6.0,4.0,6.0,7.0,7.0,6.0,3.0,2.0,Completed
+51.0,New York,US Open,28-08-2012,Grand Slam,Outdoor,Hard,1st Round,5.0,Dutra Silva R.,Gabashvili T.,112.0,174.0,499.0,289.0,4.0,6.0,6.0,4.0,6.0,7.0,6.0,3.0,7.0,5.0,3.0,2.0,Completed
+51.0,New York,US Open,29-08-2012,Grand Slam,Outdoor,Hard,1st Round,5.0,Dolgopolov O.,Levine J.,15.0,76.0,1905.0,651.0,3.0,6.0,4.0,6.0,6.0,4.0,6.0,1.0,6.0,2.0,3.0,2.0,Completed
+51.0,New York,US Open,29-08-2012,Grand Slam,Outdoor,Hard,1st Round,5.0,Muller G.,Youzhny M.,53.0,29.0,821.0,1290.0,2.0,6.0,3.0,6.0,7.0,5.0,7.0,6.0,7.0,6.0,3.0,2.0,Completed
+51.0,New York,US Open,29-08-2012,Grand Slam,Outdoor,Hard,1st Round,5.0,Tipsarevic J.,Rufin G.,9.0,129.0,3285.0,431.0,4.0,6.0,3.0,6.0,6.0,2.0,6.0,3.0,6.0,2.0,3.0,2.0,Completed
+51.0,New York,US Open,29-08-2012,Grand Slam,Outdoor,Hard,1st Round,5.0,Gulbis E.,Haas T.,145.0,21.0,366.0,1633.0,3.0,6.0,4.0,6.0,6.0,4.0,7.0,5.0,6.0,3.0,3.0,2.0,Completed
+51.0,New York,US Open,29-08-2012,Grand Slam,Outdoor,Hard,1st Round,5.0,Klahn B.,Melzer J.,489.0,36.0,68.0,1067.0,4.0,6.0,6.0,3.0,7.0,5.0,5.0,7.0,6.0,4.0,3.0,2.0,Completed
+51.0,New York,US Open,30-08-2012,Grand Slam,Outdoor,Hard,2nd Round,5.0,Almagro N.,Petzschner P.,12.0,106.0,2305.0,534.0,6.0,3.0,5.0,7.0,5.0,7.0,6.0,4.0,6.0,4.0,3.0,2.0,Completed
+51.0,New York,US Open,30-08-2012,Grand Slam,Outdoor,Hard,2nd Round,5.0,Lopez F.,Andujar P.,31.0,37.0,1220.0,1065.0,6.0,4.0,6.0,1.0,6.0,7.0,3.0,6.0,7.0,5.0,3.0,2.0,Completed
+51.0,New York,US Open,30-08-2012,Grand Slam,Outdoor,Hard,2nd Round,5.0,Fish M.,Davydenko N.,25.0,47.0,1535.0,920.0,4.0,6.0,6.0,7.0,6.0,2.0,6.0,1.0,6.0,2.0,3.0,2.0,Completed
+51.0,New York,US Open,30-08-2012,Grand Slam,Outdoor,Hard,2nd Round,5.0,Cilic M.,Brands D.,13.0,123.0,2185.0,451.0,6.0,3.0,6.0,2.0,5.0,7.0,4.0,6.0,7.0,5.0,3.0,2.0,Completed
+51.0,New York,US Open,31-08-2012,Grand Slam,Outdoor,Hard,2nd Round,5.0,Hewitt L.,Muller G.,125.0,53.0,445.0,821.0,3.0,6.0,7.0,6.0,6.0,7.0,7.0,5.0,6.0,4.0,3.0,2.0,Completed
+51.0,New York,US Open,31-08-2012,Grand Slam,Outdoor,Hard,2nd Round,5.0,Wawrinka S.,Darcis S.,19.0,74.0,1730.0,655.0,6.0,7.0,6.0,3.0,4.0,6.0,6.0,1.0,7.0,5.0,3.0,2.0,Completed
+51.0,New York,US Open,31-08-2012,Grand Slam,Outdoor,Hard,2nd Round,5.0,Kohlschreiber P.,Paire B.,20.0,49.0,1685.0,860.0,6.0,7.0,6.0,3.0,3.0,6.0,6.0,2.0,7.0,6.0,3.0,2.0,Completed
+51.0,New York,US Open,03-09-2012,Grand Slam,Outdoor,Hard,3rd Round,5.0,Kohlschreiber P.,Isner J.,20.0,10.0,1685.0,2880.0,6.0,4.0,3.0,6.0,4.0,6.0,6.0,3.0,6.0,4.0,3.0,2.0,Completed
+51.0,New York,US Open,06-09-2012,Grand Slam,Outdoor,Hard,Quarterfinals,5.0,Ferrer D.,Tipsarevic J.,5.0,9.0,5375.0,3285.0,6.0,3.0,6.0,7.0,2.0,6.0,6.0,3.0,7.0,6.0,3.0,2.0,Completed
+51.0,New York,US Open,10-09-2012,Grand Slam,Outdoor,Hard,The Final,5.0,Murray A.,Djokovic N.,4.0,2.0,7290.0,11270.0,7.0,6.0,7.0,5.0,2.0,6.0,3.0,6.0,6.0,2.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,14-01-2013,Grand Slam,Outdoor,Hard,1st Round,5.0,Almagro N.,Johnson S.,11.0,175.0,2515.0,302.0,7.0,5.0,6.0,7.0,6.0,2.0,6.0,7.0,6.0,2.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,14-01-2013,Grand Slam,Outdoor,Hard,1st Round,5.0,Gimeno-Traver D.,Kubot L.,71.0,76.0,704.0,675.0,6.0,7.0,6.0,4.0,6.0,0.0,4.0,6.0,6.0,4.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,14-01-2013,Grand Slam,Outdoor,Hard,1st Round,5.0,Roger-Vasselin E.,Bemelmans R.,101.0,114.0,539.0,486.0,6.0,3.0,6.0,7.0,2.0,6.0,7.0,5.0,11.0,9.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,14-01-2013,Grand Slam,Outdoor,Hard,1st Round,5.0,Verdasco F.,Goffin D.,24.0,49.0,1445.0,843.0,6.0,3.0,3.0,6.0,4.0,6.0,6.0,3.0,6.0,4.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,14-01-2013,Grand Slam,Outdoor,Hard,1st Round,5.0,Youzhny M.,Ebden M.,25.0,108.0,1335.0,509.0,4.0,6.0,6.0,7.0,6.0,2.0,7.0,6.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,14-01-2013,Grand Slam,Outdoor,Hard,1st Round,5.0,Baker B.,Bogomolov A.,57.0,133.0,776.0,422.0,7.0,6.0,6.0,3.0,6.0,7.0,3.0,6.0,6.0,2.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,14-01-2013,Grand Slam,Outdoor,Hard,1st Round,5.0,Ito T.,Millman J.,84.0,184.0,633.0,279.0,6.0,4.0,6.0,4.0,3.0,6.0,0.0,6.0,7.0,5.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,14-01-2013,Grand Slam,Outdoor,Hard,1st Round,5.0,Stepanek R.,Troicki V.,34.0,37.0,1090.0,1030.0,5.0,7.0,4.0,6.0,6.0,3.0,6.0,3.0,7.0,5.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,14-01-2013,Grand Slam,Outdoor,Hard,1st Round,5.0,Bautista R.,Fognini F.,56.0,47.0,786.0,880.0,6.0,0.0,2.0,6.0,6.0,4.0,3.0,6.0,6.0,1.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,14-01-2013,Grand Slam,Outdoor,Hard,1st Round,5.0,Baghdatis M.,Ramos A.,35.0,51.0,1070.0,830.0,6.0,7.0,7.0,6.0,6.0,4.0,3.0,6.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,15-01-2013,Grand Slam,Outdoor,Hard,1st Round,5.0,Mayer F.,Williams R.,28.0,194.0,1215.0,253.0,2.0,6.0,3.0,6.0,6.0,2.0,7.0,6.0,6.0,1.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,15-01-2013,Grand Slam,Outdoor,Hard,1st Round,5.0,Duckworth J.,Mitchell B.,223.0,334.0,210.0,131.0,6.0,4.0,7.0,6.0,4.0,6.0,5.0,7.0,8.0,6.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,15-01-2013,Grand Slam,Outdoor,Hard,1st Round,5.0,Nieminen J.,Haas T.,70.0,21.0,710.0,1720.0,7.0,6.0,4.0,6.0,6.0,3.0,4.0,6.0,8.0,6.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,16-01-2013,Grand Slam,Outdoor,Hard,2nd Round,5.0,Janowicz J.,Devvarman S.,26.0,551.0,1299.0,52.0,6.0,7.0,3.0,6.0,6.0,1.0,6.0,0.0,7.0,5.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,16-01-2013,Grand Slam,Outdoor,Hard,2nd Round,5.0,Melzer J.,Bautista R.,29.0,56.0,1177.0,786.0,6.0,7.0,6.0,3.0,6.0,7.0,6.0,3.0,6.0,2.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,16-01-2013,Grand Slam,Outdoor,Hard,2nd Round,5.0,Donskoy E.,Youzhny M.,82.0,25.0,637.0,1335.0,3.0,6.0,7.0,6.0,6.0,2.0,3.0,6.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,16-01-2013,Grand Slam,Outdoor,Hard,2nd Round,5.0,Tipsarevic J.,Lacko L.,9.0,44.0,3090.0,917.0,6.0,3.0,6.0,4.0,3.0,6.0,4.0,6.0,7.0,5.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,17-01-2013,Grand Slam,Outdoor,Hard,2nd Round,5.0,Seppi A.,Istomin D.,23.0,50.0,1595.0,840.0,7.0,6.0,5.0,7.0,6.0,7.0,7.0,6.0,6.0,2.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,17-01-2013,Grand Slam,Outdoor,Hard,2nd Round,5.0,Kavcic B.,Duckworth J.,93.0,223.0,569.0,210.0,3.0,6.0,6.0,3.0,6.0,4.0,6.0,7.0,10.0,8.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,17-01-2013,Grand Slam,Outdoor,Hard,2nd Round,5.0,Monfils G.,Lu Y.H.,86.0,61.0,600.0,759.0,7.0,6.0,4.0,6.0,0.0,6.0,6.0,1.0,8.0,6.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,17-01-2013,Grand Slam,Outdoor,Hard,2nd Round,5.0,Dodig I.,Nieminen J.,74.0,70.0,692.0,710.0,6.0,3.0,6.0,7.0,6.0,3.0,6.0,7.0,6.0,1.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,18-01-2013,Grand Slam,Outdoor,Hard,3rd Round,5.0,Tipsarevic J.,Benneteau J.,9.0,38.0,3090.0,1015.0,3.0,6.0,6.0,4.0,2.0,6.0,6.0,4.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,18-01-2013,Grand Slam,Outdoor,Hard,3rd Round,5.0,Anderson K.,Verdasco F.,31.0,24.0,1170.0,1445.0,4.0,6.0,6.0,3.0,4.0,6.0,7.0,6.0,6.0,2.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,19-01-2013,Grand Slam,Outdoor,Hard,3rd Round,5.0,Chardy J.,Del Potro J.M.,36.0,7.0,1063.0,4480.0,6.0,3.0,6.0,3.0,6.0,7.0,3.0,6.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,19-01-2013,Grand Slam,Outdoor,Hard,3rd Round,5.0,Seppi A.,Cilic M.,23.0,14.0,1595.0,2210.0,6.0,7.0,6.0,3.0,2.0,6.0,6.0,4.0,6.0,2.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,19-01-2013,Grand Slam,Outdoor,Hard,3rd Round,5.0,Simon G.,Monfils G.,16.0,86.0,2145.0,600.0,6.0,4.0,6.0,4.0,4.0,6.0,1.0,6.0,8.0,6.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,20-01-2013,Grand Slam,Outdoor,Hard,4th Round,5.0,Djokovic N.,Wawrinka S.,1.0,17.0,12920.0,1900.0,1.0,6.0,7.0,5.0,6.0,4.0,6.0,7.0,12.0,10.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,22-01-2013,Grand Slam,Outdoor,Hard,Quarterfinals,5.0,Ferrer D.,Almagro N.,5.0,11.0,6505.0,2515.0,4.0,6.0,4.0,6.0,7.0,5.0,7.0,6.0,6.0,2.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,23-01-2013,Grand Slam,Outdoor,Hard,Quarterfinals,5.0,Federer R.,Tsonga J.W.,2.0,8.0,10265.0,3375.0,7.0,6.0,4.0,6.0,7.0,6.0,3.0,6.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,25-01-2013,Grand Slam,Outdoor,Hard,Semifinals,5.0,Murray A.,Federer R.,3.0,2.0,8000.0,10265.0,6.0,4.0,6.0,7.0,6.0,3.0,6.0,7.0,6.0,2.0,3.0,2.0,Completed
+32.0,Paris,French Open,26-05-2013,Grand Slam,Outdoor,Clay,1st Round,5.0,Simon G.,Hewitt L.,18.0,86.0,1895.0,610.0,3.0,6.0,1.0,6.0,6.0,4.0,6.0,1.0,7.0,5.0,3.0,2.0,Completed
+32.0,Paris,French Open,26-05-2013,Grand Slam,Outdoor,Clay,1st Round,5.0,Seppi A.,Mayer L.,22.0,73.0,1530.0,682.0,6.0,7.0,6.0,4.0,6.0,3.0,6.0,7.0,6.0,4.0,3.0,2.0,Completed
+32.0,Paris,French Open,27-05-2013,Grand Slam,Outdoor,Clay,1st Round,5.0,Kamke T.,Lorenzi P.,72.0,70.0,686.0,701.0,6.0,3.0,6.0,3.0,3.0,6.0,0.0,6.0,6.0,3.0,3.0,2.0,Completed
+32.0,Paris,French Open,27-05-2013,Grand Slam,Outdoor,Clay,1st Round,5.0,Cuevas P.,Mannarino A.,762.0,110.0,21.0,502.0,6.0,3.0,2.0,6.0,6.0,3.0,5.0,7.0,7.0,5.0,3.0,2.0,Completed
+32.0,Paris,French Open,27-05-2013,Grand Slam,Outdoor,Clay,1st Round,5.0,Lopez F.,Granollers M.,43.0,33.0,930.0,1145.0,7.0,5.0,2.0,6.0,6.0,4.0,4.0,6.0,6.0,4.0,3.0,2.0,Completed
+32.0,Paris,French Open,27-05-2013,Grand Slam,Outdoor,Clay,1st Round,5.0,Gimeno-Traver D.,Monaco J.,49.0,17.0,857.0,1910.0,4.0,6.0,4.0,6.0,7.0,6.0,6.0,4.0,6.0,4.0,3.0,2.0,Completed
+32.0,Paris,French Open,27-05-2013,Grand Slam,Outdoor,Clay,1st Round,5.0,Nieminen J.,Mathieu P.H.,38.0,69.0,1075.0,708.0,6.0,4.0,4.0,6.0,7.0,6.0,4.0,6.0,6.0,2.0,3.0,2.0,Completed
+32.0,Paris,French Open,27-05-2013,Grand Slam,Outdoor,Clay,1st Round,5.0,Monfils G.,Berdych T.,81.0,6.0,640.0,4685.0,7.0,6.0,6.0,4.0,6.0,7.0,6.0,7.0,7.0,5.0,3.0,2.0,Completed
+32.0,Paris,French Open,27-05-2013,Grand Slam,Outdoor,Clay,1st Round,5.0,Montanes A.,Johnson S.,47.0,130.0,880.0,423.0,6.0,4.0,3.0,6.0,6.0,3.0,3.0,6.0,6.0,1.0,3.0,2.0,Completed
+32.0,Paris,French Open,28-05-2013,Grand Slam,Outdoor,Clay,1st Round,5.0,Pella G.,Dodig I.,83.0,51.0,635.0,843.0,4.0,6.0,6.0,4.0,6.0,3.0,2.0,6.0,12.0,10.0,3.0,2.0,Completed
+32.0,Paris,French Open,29-05-2013,Grand Slam,Outdoor,Clay,1st Round,5.0,Zeballos H.,Pospisil V.,46.0,103.0,884.0,533.0,7.0,6.0,6.0,4.0,6.0,7.0,2.0,6.0,8.0,6.0,3.0,2.0,Completed
+32.0,Paris,French Open,29-05-2013,Grand Slam,Outdoor,Clay,2nd Round,5.0,Troicki V.,Gimeno-Traver D.,57.0,49.0,800.0,857.0,4.0,6.0,7.0,6.0,6.0,0.0,6.0,7.0,6.0,4.0,3.0,2.0,Completed
+32.0,Paris,French Open,29-05-2013,Grand Slam,Outdoor,Clay,2nd Round,5.0,Seppi A.,Kavcic B.,22.0,104.0,1530.0,529.0,6.0,0.0,7.0,6.0,6.0,7.0,4.0,6.0,6.0,3.0,3.0,2.0,Completed
+32.0,Paris,French Open,29-05-2013,Grand Slam,Outdoor,Clay,2nd Round,5.0,Robredo T.,Sijsling I.,34.0,62.0,1095.0,762.0,6.0,7.0,4.0,6.0,6.0,3.0,6.0,1.0,6.0,1.0,3.0,2.0,Completed
+32.0,Paris,French Open,29-05-2013,Grand Slam,Outdoor,Clay,2nd Round,5.0,Benneteau J.,Kamke T.,32.0,72.0,1200.0,686.0,7.0,6.0,7.0,5.0,5.0,7.0,0.0,6.0,6.0,4.0,3.0,2.0,Completed
+32.0,Paris,French Open,31-05-2013,Grand Slam,Outdoor,Clay,2nd Round,5.0,Isner J.,Harrison R.,21.0,92.0,1690.0,579.0,5.0,7.0,6.0,7.0,6.0,3.0,6.0,1.0,8.0,6.0,3.0,2.0,Completed
+32.0,Paris,French Open,31-05-2013,Grand Slam,Outdoor,Clay,2nd Round,5.0,Tipsarevic J.,Verdasco F.,12.0,53.0,2480.0,830.0,7.0,6.0,6.0,1.0,3.0,6.0,5.0,7.0,8.0,6.0,3.0,2.0,Completed
+32.0,Paris,French Open,31-05-2013,Grand Slam,Outdoor,Clay,3rd Round,5.0,Robredo T.,Monfils G.,34.0,81.0,1095.0,640.0,2.0,6.0,6.0,7.0,6.0,2.0,7.0,6.0,6.0,2.0,3.0,2.0,Completed
+32.0,Paris,French Open,31-05-2013,Grand Slam,Outdoor,Clay,3rd Round,5.0,Simon G.,Querrey S.,18.0,20.0,1895.0,1730.0,2.0,6.0,6.0,3.0,2.0,6.0,7.0,6.0,6.0,2.0,3.0,2.0,Completed
+32.0,Paris,French Open,01-06-2013,Grand Slam,Outdoor,Clay,3rd Round,5.0,Haas T.,Isner J.,14.0,21.0,2340.0,1690.0,7.0,5.0,7.0,6.0,4.0,6.0,6.0,7.0,10.0,8.0,3.0,2.0,Completed
+32.0,Paris,French Open,02-06-2013,Grand Slam,Outdoor,Clay,4th Round,5.0,Robredo T.,Almagro N.,34.0,13.0,1095.0,2375.0,6.0,7.0,3.0,6.0,6.0,4.0,6.0,4.0,6.0,4.0,3.0,2.0,Completed
+32.0,Paris,French Open,02-06-2013,Grand Slam,Outdoor,Clay,4th Round,5.0,Federer R.,Simon G.,3.0,18.0,8000.0,1895.0,6.0,1.0,4.0,6.0,2.0,6.0,6.0,2.0,6.0,3.0,3.0,2.0,Completed
+32.0,Paris,French Open,03-06-2013,Grand Slam,Outdoor,Clay,4th Round,5.0,Wawrinka S.,Gasquet R.,10.0,9.0,2630.0,3090.0,6.0,7.0,4.0,6.0,6.0,4.0,7.0,5.0,8.0,6.0,3.0,2.0,Completed
+32.0,Paris,French Open,07-06-2013,Grand Slam,Outdoor,Clay,Semifinals,5.0,Nadal R.,Djokovic N.,4.0,1.0,6895.0,12310.0,6.0,4.0,3.0,6.0,6.0,1.0,6.0,7.0,9.0,7.0,3.0,2.0,Completed
+37.0,London,Wimbledon,24-06-2013,Grand Slam,Outdoor,Grass,1st Round,5.0,Reister J.,Rosol L.,121.0,35.0,461.0,1091.0,6.0,3.0,4.0,6.0,7.0,6.0,6.0,7.0,6.0,4.0,3.0,2.0,Completed
+37.0,London,Wimbledon,25-06-2013,Grand Slam,Outdoor,Grass,1st Round,5.0,Dodig I.,Kohlschreiber P.,49.0,18.0,888.0,1885.0,4.0,6.0,6.0,7.0,7.0,6.0,6.0,3.0,2.0,1.0,2.0,2.0,Retired
+37.0,London,Wimbledon,25-06-2013,Grand Slam,Outdoor,Grass,1st Round,5.0,Kudla D.,Duckworth J.,105.0,174.0,538.0,291.0,6.0,4.0,6.0,2.0,3.0,6.0,4.0,6.0,6.0,1.0,3.0,2.0,Completed
+37.0,London,Wimbledon,25-06-2013,Grand Slam,Outdoor,Grass,1st Round,5.0,Levine J.,Pella G.,112.0,76.0,503.0,674.0,6.0,4.0,6.0,2.0,4.0,6.0,3.0,6.0,4.0,3.0,2.0,2.0,Retired
+37.0,London,Wimbledon,25-06-2013,Grand Slam,Outdoor,Grass,1st Round,5.0,Tomic B.,Querrey S.,59.0,19.0,780.0,1810.0,7.0,6.0,7.0,6.0,3.0,6.0,2.0,6.0,6.0,3.0,3.0,2.0,Completed
+37.0,London,Wimbledon,25-06-2013,Grand Slam,Outdoor,Grass,1st Round,5.0,Wang J.,Odesnik W.,151.0,107.0,358.0,534.0,7.0,6.0,4.0,6.0,6.0,2.0,3.0,6.0,7.0,5.0,3.0,2.0,Completed
+37.0,London,Wimbledon,25-06-2013,Grand Slam,Outdoor,Grass,1st Round,5.0,Seppi A.,Istomin D.,28.0,47.0,1380.0,915.0,7.0,6.0,7.0,6.0,5.0,7.0,3.0,6.0,6.0,3.0,3.0,2.0,Completed
+37.0,London,Wimbledon,25-06-2013,Grand Slam,Outdoor,Grass,1st Round,5.0,Giraldo S.,Zeballos H.,91.0,52.0,570.0,859.0,3.0,6.0,7.0,6.0,6.0,7.0,6.0,1.0,6.0,3.0,3.0,2.0,Completed
+37.0,London,Wimbledon,25-06-2013,Grand Slam,Outdoor,Grass,1st Round,5.0,Brands D.,Gimeno-Traver D.,57.0,56.0,803.0,807.0,7.0,6.0,6.0,7.0,6.0,7.0,6.0,1.0,6.0,4.0,3.0,2.0,Completed
+37.0,London,Wimbledon,25-06-2013,Grand Slam,Outdoor,Grass,1st Round,5.0,Reynolds B.,Johnson S.,156.0,98.0,346.0,556.0,1.0,6.0,7.0,6.0,6.0,3.0,6.0,7.0,6.0,4.0,3.0,2.0,Completed
+37.0,London,Wimbledon,26-06-2013,Grand Slam,Outdoor,Grass,2nd Round,5.0,Youzhny M.,Pospisil V.,26.0,103.0,1415.0,546.0,6.0,2.0,6.0,7.0,7.0,6.0,3.0,6.0,6.0,4.0,3.0,2.0,Completed
+37.0,London,Wimbledon,28-06-2013,Grand Slam,Outdoor,Grass,2nd Round,5.0,Zemlja G.,Dimitrov G.,55.0,31.0,816.0,1330.0,3.0,6.0,7.0,6.0,3.0,6.0,6.0,4.0,11.0,9.0,3.0,2.0,Completed
+37.0,London,Wimbledon,29-06-2013,Grand Slam,Outdoor,Grass,3rd Round,5.0,Seppi A.,Nishikori K.,28.0,11.0,1380.0,2495.0,3.0,6.0,6.0,2.0,6.0,7.0,6.0,1.0,6.0,4.0,3.0,2.0,Completed
+37.0,London,Wimbledon,29-06-2013,Grand Slam,Outdoor,Grass,3rd Round,5.0,Ferrer D.,Dolgopolov O.,4.0,24.0,7220.0,1500.0,6.0,7.0,7.0,6.0,2.0,6.0,6.0,1.0,6.0,2.0,3.0,2.0,Completed
+37.0,London,Wimbledon,01-07-2013,Grand Slam,Outdoor,Grass,4th Round,5.0,Janowicz J.,Melzer J.,22.0,37.0,1549.0,1085.0,3.0,6.0,7.0,6.0,6.0,4.0,4.0,6.0,6.0,4.0,3.0,2.0,Completed
+37.0,London,Wimbledon,01-07-2013,Grand Slam,Outdoor,Grass,4th Round,5.0,Kubot L.,Mannarino A.,130.0,111.0,440.0,511.0,4.0,6.0,6.0,3.0,3.0,6.0,6.0,3.0,6.0,4.0,3.0,2.0,Completed
+37.0,London,Wimbledon,03-07-2013,Grand Slam,Outdoor,Grass,Quarterfinals,5.0,Murray A.,Verdasco F.,2.0,54.0,8560.0,825.0,4.0,6.0,3.0,6.0,6.0,1.0,6.0,4.0,7.0,5.0,3.0,2.0,Completed
+37.0,London,Wimbledon,05-07-2013,Grand Slam,Outdoor,Grass,Semifinals,5.0,Djokovic N.,Del Potro J.M.,1.0,8.0,11830.0,3960.0,7.0,5.0,4.0,6.0,7.0,6.0,6.0,7.0,6.0,3.0,3.0,2.0,Completed
+51.0,New York,US Open,26-08-2013,Grand Slam,Outdoor,Hard,1st Round,5.0,Tomic B.,Ramos A.,52.0,75.0,870.0,695.0,6.0,3.0,3.0,6.0,4.0,6.0,7.0,6.0,6.0,3.0,3.0,2.0,Completed
+51.0,New York,US Open,26-08-2013,Grand Slam,Outdoor,Hard,1st Round,5.0,Rufin G.,Struff J.L.,91.0,96.0,589.0,563.0,7.0,6.0,6.0,3.0,2.0,6.0,2.0,6.0,6.0,1.0,3.0,2.0,Completed
+51.0,New York,US Open,26-08-2013,Grand Slam,Outdoor,Hard,1st Round,5.0,Davydenko N.,Williams R.,42.0,115.0,1030.0,488.0,6.0,3.0,4.0,6.0,1.0,6.0,7.0,5.0,6.0,0.0,3.0,2.0,Completed
+51.0,New York,US Open,26-08-2013,Grand Slam,Outdoor,Hard,1st Round,5.0,Haider-Maurer A.,Gulbis E.,88.0,33.0,600.0,1191.0,3.0,6.0,6.0,3.0,1.0,6.0,7.0,6.0,6.0,4.0,3.0,2.0,Completed
+51.0,New York,US Open,26-08-2013,Grand Slam,Outdoor,Hard,1st Round,5.0,Dodig I.,Verdasco F.,38.0,30.0,1125.0,1325.0,6.0,3.0,7.0,5.0,1.0,6.0,4.0,6.0,6.0,3.0,3.0,2.0,Completed
+51.0,New York,US Open,26-08-2013,Grand Slam,Outdoor,Hard,1st Round,5.0,Sela D.,Kuznetsov An.,77.0,83.0,656.0,616.0,7.0,6.0,6.0,3.0,6.0,7.0,5.0,7.0,6.0,4.0,3.0,2.0,Completed
+51.0,New York,US Open,27-08-2013,Grand Slam,Outdoor,Hard,1st Round,5.0,Sousa J.,Dimitrov G.,95.0,29.0,583.0,1375.0,3.0,6.0,6.0,3.0,6.0,4.0,5.0,7.0,6.0,2.0,3.0,2.0,Completed
+51.0,New York,US Open,27-08-2013,Grand Slam,Outdoor,Hard,1st Round,5.0,Chardy J.,Stakhovsky S.,36.0,94.0,1130.0,585.0,6.0,4.0,4.0,6.0,6.0,2.0,4.0,6.0,6.0,4.0,3.0,2.0,Completed
+51.0,New York,US Open,27-08-2013,Grand Slam,Outdoor,Hard,1st Round,5.0,Berlocq C.,Giraldo S.,48.0,85.0,905.0,611.0,6.0,3.0,3.0,6.0,6.0,7.0,6.0,4.0,6.0,2.0,3.0,2.0,Completed
+51.0,New York,US Open,27-08-2013,Grand Slam,Outdoor,Hard,1st Round,5.0,Dutra Silva R.,Pospisil V.,134.0,40.0,422.0,1051.0,4.0,6.0,3.0,6.0,7.0,6.0,6.0,2.0,7.0,6.0,3.0,2.0,Completed
+51.0,New York,US Open,28-08-2013,Grand Slam,Outdoor,Hard,1st Round,5.0,Devvarman S.,Lacko L.,114.0,84.0,491.0,615.0,4.0,6.0,6.0,1.0,6.0,2.0,4.0,6.0,6.0,4.0,3.0,2.0,Completed
+51.0,New York,US Open,29-08-2013,Grand Slam,Outdoor,Hard,1st Round,5.0,Granollers M.,Zopp J.,43.0,256.0,975.0,178.0,6.0,1.0,3.0,6.0,1.0,6.0,6.0,3.0,6.0,4.0,3.0,2.0,Completed
+51.0,New York,US Open,29-08-2013,Grand Slam,Outdoor,Hard,1st Round,5.0,Bogomolov A.,Paire B.,73.0,28.0,696.0,1415.0,7.0,5.0,2.0,6.0,6.0,4.0,5.0,7.0,7.0,6.0,3.0,2.0,Completed
+51.0,New York,US Open,29-08-2013,Grand Slam,Outdoor,Hard,1st Round,5.0,Karlovic I.,Blake J.,79.0,100.0,637.0,553.0,6.0,7.0,3.0,6.0,6.0,4.0,7.0,6.0,7.0,6.0,3.0,2.0,Completed
+51.0,New York,US Open,30-08-2013,Grand Slam,Outdoor,Hard,2nd Round,5.0,Granollers M.,Ram R.,43.0,128.0,975.0,439.0,3.0,6.0,4.0,6.0,6.0,2.0,6.0,3.0,7.0,5.0,3.0,2.0,Completed
+51.0,New York,US Open,30-08-2013,Grand Slam,Outdoor,Hard,2nd Round,5.0,Smyczek T.,Bogomolov A.,109.0,73.0,507.0,696.0,3.0,6.0,7.0,6.0,2.0,6.0,6.0,4.0,6.0,4.0,3.0,2.0,Completed
+51.0,New York,US Open,30-08-2013,Grand Slam,Outdoor,Hard,2nd Round,5.0,Sousa J.,Nieminen J.,95.0,41.0,583.0,1050.0,1.0,6.0,6.0,3.0,3.0,6.0,6.0,3.0,6.0,4.0,3.0,2.0,Completed
+51.0,New York,US Open,30-08-2013,Grand Slam,Outdoor,Hard,2nd Round,5.0,Donskoy E.,Gojowczyk P.,102.0,146.0,532.0,371.0,6.0,3.0,6.0,4.0,3.0,6.0,4.0,6.0,6.0,3.0,3.0,2.0,Completed
+51.0,New York,US Open,31-08-2013,Grand Slam,Outdoor,Hard,2nd Round,5.0,Hewitt L.,Del Potro J.M.,66.0,6.0,730.0,4740.0,6.0,4.0,5.0,7.0,3.0,6.0,7.0,6.0,6.0,1.0,3.0,2.0,Completed
+51.0,New York,US Open,01-09-2013,Grand Slam,Outdoor,Hard,3rd Round,5.0,Istomin D.,Seppi A.,65.0,23.0,750.0,1550.0,6.0,3.0,6.0,4.0,2.0,6.0,3.0,6.0,6.0,1.0,3.0,2.0,Completed
+51.0,New York,US Open,01-09-2013,Grand Slam,Outdoor,Hard,3rd Round,5.0,Granollers M.,Smyczek T.,43.0,109.0,975.0,507.0,6.0,4.0,4.0,6.0,0.0,6.0,6.0,3.0,7.0,5.0,3.0,2.0,Completed
+51.0,New York,US Open,02-09-2013,Grand Slam,Outdoor,Hard,4th Round,5.0,Gasquet R.,Raonic M.,9.0,11.0,2625.0,2555.0,6.0,7.0,7.0,6.0,2.0,6.0,7.0,6.0,7.0,5.0,3.0,2.0,Completed
+51.0,New York,US Open,03-09-2013,Grand Slam,Outdoor,Hard,4th Round,5.0,Youzhny M.,Hewitt L.,24.0,66.0,1475.0,730.0,6.0,3.0,3.0,6.0,6.0,7.0,6.0,4.0,7.0,5.0,3.0,2.0,Completed
+51.0,New York,US Open,04-09-2013,Grand Slam,Outdoor,Hard,Quarterfinals,5.0,Gasquet R.,Ferrer D.,9.0,4.0,2625.0,7210.0,6.0,3.0,6.0,1.0,4.0,6.0,2.0,6.0,6.0,3.0,3.0,2.0,Completed
+51.0,New York,US Open,07-09-2013,Grand Slam,Outdoor,Hard,Semifinals,5.0,Djokovic N.,Wawrinka S.,1.0,10.0,10980.0,2610.0,2.0,6.0,7.0,6.0,3.0,6.0,6.0,3.0,6.0,4.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,13-01-2014,Grand Slam,Outdoor,Hard,1st Round,5.0,Nieminen J.,Sela D.,39.0,68.0,1090.0,706.0,3.0,6.0,7.0,6.0,6.0,7.0,6.0,3.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,13-01-2014,Grand Slam,Outdoor,Hard,1st Round,5.0,Mannarino A.,Johnson S.,71.0,147.0,692.0,378.0,3.0,6.0,6.0,3.0,6.0,0.0,5.0,7.0,6.0,4.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,13-01-2014,Grand Slam,Outdoor,Hard,1st Round,5.0,Anderson K.,Vesely J.,21.0,83.0,1580.0,636.0,2.0,6.0,6.0,7.0,6.0,4.0,6.0,4.0,6.0,4.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,13-01-2014,Grand Slam,Outdoor,Hard,1st Round,5.0,Ebden M.,Mahut N.,67.0,46.0,711.0,958.0,6.0,3.0,7.0,5.0,4.0,6.0,0.0,6.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,13-01-2014,Grand Slam,Outdoor,Hard,1st Round,5.0,Benneteau J.,Carreno-Busta P.,38.0,63.0,1090.0,739.0,6.0,3.0,3.0,6.0,4.0,6.0,6.0,1.0,6.0,2.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,13-01-2014,Grand Slam,Outdoor,Hard,1st Round,5.0,Robredo T.,Rosol L.,18.0,47.0,1810.0,956.0,6.0,1.0,6.0,7.0,3.0,6.0,7.0,6.0,8.0,6.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,13-01-2014,Grand Slam,Outdoor,Hard,1st Round,5.0,Janowicz J.,Thompson J.,20.0,319.0,1615.0,139.0,1.0,6.0,4.0,6.0,6.0,4.0,6.0,2.0,6.0,1.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,13-01-2014,Grand Slam,Outdoor,Hard,1st Round,5.0,Davydenko N.,Kubot L.,61.0,72.0,760.0,686.0,3.0,6.0,6.0,3.0,3.0,6.0,6.0,3.0,6.0,4.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,14-01-2014,Grand Slam,Outdoor,Hard,1st Round,5.0,Nishikori K.,Matosevic M.,17.0,54.0,1915.0,856.0,6.0,3.0,5.0,7.0,6.0,2.0,4.0,6.0,6.0,2.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,14-01-2014,Grand Slam,Outdoor,Hard,1st Round,5.0,Seppi A.,Hewitt L.,25.0,43.0,1360.0,1010.0,7.0,6.0,6.0,3.0,5.0,7.0,5.0,7.0,7.0,5.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,14-01-2014,Grand Slam,Outdoor,Hard,1st Round,5.0,Millot V.,Odesnik W.,267.0,139.0,170.0,410.0,7.0,5.0,4.0,6.0,6.0,7.0,6.0,1.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,14-01-2014,Grand Slam,Outdoor,Hard,1st Round,5.0,Simon G.,Brands D.,19.0,59.0,1790.0,779.0,6.0,7.0,6.0,4.0,3.0,6.0,6.0,3.0,16.0,14.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,14-01-2014,Grand Slam,Outdoor,Hard,1st Round,5.0,Cilic M.,Granollers M.,36.0,222.0,1130.0,215.0,4.0,6.0,4.0,6.0,6.0,3.0,6.0,3.0,6.0,2.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,15-01-2014,Grand Slam,Outdoor,Hard,2nd Round,5.0,Mayer F.,Youzhny M.,37.0,15.0,1110.0,2145.0,6.0,4.0,3.0,6.0,6.0,3.0,3.0,6.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,16-01-2014,Grand Slam,Outdoor,Hard,2nd Round,5.0,Young D.,Seppi A.,91.0,25.0,595.0,1360.0,6.0,4.0,2.0,6.0,6.0,3.0,4.0,6.0,7.0,5.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,16-01-2014,Grand Slam,Outdoor,Hard,2nd Round,5.0,Simon G.,Cilic M.,19.0,36.0,1790.0,1130.0,4.0,6.0,7.0,6.0,6.0,7.0,6.0,1.0,6.0,2.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,16-01-2014,Grand Slam,Outdoor,Hard,2nd Round,5.0,Gabashvili T.,Verdasco F.,79.0,33.0,651.0,1235.0,7.0,6.0,3.0,6.0,2.0,6.0,6.0,4.0,6.0,4.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,16-01-2014,Grand Slam,Outdoor,Hard,2nd Round,5.0,Bautista R.,Del Potro J.M.,62.0,5.0,750.0,5415.0,4.0,6.0,6.0,3.0,5.0,7.0,6.0,4.0,7.0,5.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,16-01-2014,Grand Slam,Outdoor,Hard,2nd Round,5.0,Paire B.,Kyrgios N.,28.0,183.0,1300.0,277.0,6.0,7.0,6.0,7.0,6.0,4.0,6.0,2.0,6.0,2.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,17-01-2014,Grand Slam,Outdoor,Hard,3rd Round,5.0,Anderson K.,Roger-Vasselin E.,21.0,40.0,1580.0,1038.0,3.0,6.0,4.0,6.0,6.0,3.0,7.0,6.0,7.0,5.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,21-01-2014,Grand Slam,Outdoor,Hard,Quarterfinals,5.0,Wawrinka S.,Djokovic N.,8.0,2.0,3890.0,12260.0,2.0,6.0,6.0,4.0,6.0,2.0,3.0,6.0,9.0,7.0,3.0,2.0,Completed
+32.0,Paris,French Open,25-05-2014,Grand Slam,Outdoor,Clay,1st Round,5.0,Youzhny M.,Carreno-Busta P.,16.0,68.0,2065.0,729.0,3.0,6.0,1.0,6.0,6.0,3.0,6.0,4.0,6.0,0.0,3.0,2.0,Completed
+32.0,Paris,French Open,25-05-2014,Grand Slam,Outdoor,Clay,1st Round,5.0,Nieminen J.,Przysiezny M.,60.0,102.0,790.0,572.0,6.0,7.0,6.0,4.0,6.0,7.0,6.0,3.0,6.0,4.0,3.0,2.0,Completed
+32.0,Paris,French Open,25-05-2014,Grand Slam,Outdoor,Clay,1st Round,5.0,Stepanek R.,Arguello F.,43.0,114.0,1040.0,512.0,6.0,7.0,3.0,6.0,6.0,4.0,6.0,3.0,6.0,2.0,3.0,2.0,Completed
+32.0,Paris,French Open,26-05-2014,Grand Slam,Outdoor,Clay,1st Round,5.0,Bagnis F.,Benneteau J.,143.0,45.0,398.0,1035.0,6.0,1.0,6.0,2.0,1.0,6.0,3.0,6.0,18.0,16.0,3.0,2.0,Completed
+32.0,Paris,French Open,26-05-2014,Grand Slam,Outdoor,Clay,1st Round,5.0,Bellucci T.,Becker B.,108.0,69.0,540.0,713.0,6.0,2.0,6.0,4.0,3.0,6.0,4.0,6.0,6.0,2.0,3.0,2.0,Completed
+32.0,Paris,French Open,27-05-2014,Grand Slam,Outdoor,Clay,1st Round,5.0,Michon A.,Klahn B.,206.0,71.0,238.0,705.0,6.0,1.0,6.0,7.0,5.0,7.0,6.0,1.0,6.0,4.0,3.0,2.0,Completed
+32.0,Paris,French Open,27-05-2014,Grand Slam,Outdoor,Clay,1st Round,5.0,Haider-Maurer A.,Brands D.,104.0,131.0,553.0,430.0,4.0,6.0,4.0,6.0,6.0,2.0,6.0,3.0,6.0,4.0,3.0,2.0,Completed
+32.0,Paris,French Open,28-05-2014,Grand Slam,Outdoor,Clay,1st Round,5.0,Johnson S.,Lokoli L.,64.0,406.0,748.0,104.0,4.0,6.0,6.0,7.0,7.0,6.0,6.0,3.0,6.0,3.0,3.0,2.0,Completed
+32.0,Paris,French Open,28-05-2014,Grand Slam,Outdoor,Clay,2nd Round,5.0,Granollers M.,Dolgopolov O.,229.0,21.0,210.0,1645.0,1.0,6.0,3.0,6.0,6.0,3.0,6.0,0.0,6.0,2.0,3.0,2.0,Completed
+32.0,Paris,French Open,28-05-2014,Grand Slam,Outdoor,Clay,2nd Round,5.0,Klizan M.,Haase R.,59.0,50.0,795.0,910.0,6.0,1.0,3.0,6.0,6.0,1.0,1.0,6.0,7.0,5.0,3.0,2.0,Completed
+32.0,Paris,French Open,29-05-2014,Grand Slam,Outdoor,Clay,2nd Round,5.0,Verdasco F.,Cuevas P.,25.0,136.0,1420.0,416.0,4.0,6.0,6.0,7.0,7.0,5.0,6.0,4.0,6.0,3.0,3.0,2.0,Completed
+32.0,Paris,French Open,30-05-2014,Grand Slam,Outdoor,Clay,3rd Round,5.0,Raonic M.,Simon G.,9.0,30.0,2975.0,1225.0,4.0,6.0,6.0,3.0,2.0,6.0,6.0,2.0,7.0,5.0,3.0,2.0,Completed
+32.0,Paris,French Open,31-05-2014,Grand Slam,Outdoor,Clay,3rd Round,5.0,Monfils G.,Fognini F.,28.0,15.0,1390.0,2155.0,5.0,7.0,6.0,2.0,6.0,4.0,0.0,6.0,6.0,2.0,3.0,2.0,Completed
+32.0,Paris,French Open,31-05-2014,Grand Slam,Outdoor,Clay,3rd Round,5.0,Garcia-Lopez G.,Young D.,41.0,79.0,1063.0,647.0,6.0,2.0,6.0,4.0,2.0,6.0,6.0,7.0,6.0,4.0,3.0,2.0,Completed
+32.0,Paris,French Open,01-06-2014,Grand Slam,Outdoor,Clay,3rd Round,5.0,Murray A.,Kohlschreiber P.,8.0,24.0,4120.0,1485.0,3.0,6.0,6.0,3.0,6.0,3.0,4.0,6.0,12.0,10.0,3.0,2.0,Completed
+32.0,Paris,French Open,01-06-2014,Grand Slam,Outdoor,Clay,4th Round,5.0,Gulbis E.,Federer R.,17.0,4.0,2050.0,5125.0,6.0,7.0,7.0,6.0,6.0,2.0,4.0,6.0,6.0,3.0,3.0,2.0,Completed
+32.0,Paris,French Open,04-06-2014,Grand Slam,Outdoor,Clay,Quarterfinals,5.0,Murray A.,Monfils G.,8.0,28.0,4120.0,1390.0,6.0,4.0,6.0,1.0,4.0,6.0,1.0,6.0,6.0,0.0,3.0,2.0,Completed
+37.0,London,Wimbledon,23-06-2014,Grand Slam,Outdoor,Grass,1st Round,5.0,Mayer L.,Seppi A.,64.0,36.0,784.0,1105.0,6.0,3.0,2.0,6.0,4.0,6.0,7.0,6.0,6.0,4.0,3.0,2.0,Completed
+37.0,London,Wimbledon,23-06-2014,Grand Slam,Outdoor,Grass,1st Round,5.0,Hernych J.,Kamke T.,285.0,87.0,165.0,629.0,6.0,3.0,6.0,7.0,6.0,3.0,5.0,7.0,6.0,4.0,3.0,2.0,Completed
+37.0,London,Wimbledon,23-06-2014,Grand Slam,Outdoor,Grass,1st Round,5.0,Fognini F.,Kuznetsov Al.,15.0,148.0,2155.0,394.0,2.0,6.0,1.0,6.0,6.0,4.0,6.0,1.0,9.0,7.0,3.0,2.0,Completed
+37.0,London,Wimbledon,24-06-2014,Grand Slam,Outdoor,Grass,1st Round,5.0,Janowicz J.,Devvarman S.,25.0,125.0,1510.0,462.0,4.0,6.0,6.0,3.0,6.0,3.0,3.0,6.0,6.0,3.0,3.0,2.0,Completed
+37.0,London,Wimbledon,24-06-2014,Grand Slam,Outdoor,Grass,1st Round,5.0,Lajovic D.,Garcia-Lopez G.,84.0,34.0,650.0,1163.0,7.0,6.0,6.0,2.0,3.0,6.0,3.0,6.0,6.0,3.0,3.0,2.0,Completed
+37.0,London,Wimbledon,24-06-2014,Grand Slam,Outdoor,Grass,1st Round,5.0,Lu Y.H.,Nedovyesov A.,47.0,102.0,958.0,560.0,6.0,4.0,4.0,6.0,6.0,4.0,1.0,6.0,6.0,1.0,3.0,2.0,Completed
+37.0,London,Wimbledon,24-06-2014,Grand Slam,Outdoor,Grass,1st Round,5.0,Tsonga J.W.,Melzer J.,17.0,49.0,1775.0,940.0,6.0,1.0,3.0,6.0,3.0,6.0,6.0,2.0,6.0,4.0,3.0,2.0,Completed
+37.0,London,Wimbledon,24-06-2014,Grand Slam,Outdoor,Grass,1st Round,5.0,Gasquet R.,Duckworth J.,14.0,161.0,2415.0,346.0,6.0,7.0,6.0,3.0,3.0,6.0,6.0,0.0,6.0,1.0,3.0,2.0,Completed
+37.0,London,Wimbledon,24-06-2014,Grand Slam,Outdoor,Grass,1st Round,5.0,Reister J.,Russell M.,110.0,94.0,535.0,593.0,6.0,4.0,6.0,4.0,6.0,7.0,4.0,6.0,7.0,5.0,3.0,2.0,Completed
+37.0,London,Wimbledon,25-06-2014,Grand Slam,Outdoor,Grass,2nd Round,5.0,Chardy J.,Matosevic M.,42.0,58.0,1015.0,827.0,6.0,7.0,7.0,6.0,7.0,6.0,4.0,6.0,7.0,5.0,3.0,2.0,Completed
+37.0,London,Wimbledon,25-06-2014,Grand Slam,Outdoor,Grass,2nd Round,5.0,Kuznetsov An.,Ferrer D.,118.0,7.0,519.0,4190.0,6.0,7.0,6.0,0.0,3.0,6.0,6.0,3.0,6.0,2.0,3.0,2.0,Completed
+37.0,London,Wimbledon,26-06-2014,Grand Slam,Outdoor,Grass,2nd Round,5.0,Bolelli S.,Kohlschreiber P.,132.0,28.0,445.0,1440.0,4.0,6.0,6.0,4.0,6.0,3.0,2.0,6.0,7.0,5.0,3.0,2.0,Completed
+37.0,London,Wimbledon,26-06-2014,Grand Slam,Outdoor,Grass,2nd Round,5.0,Vesely J.,Monfils G.,68.0,21.0,741.0,1635.0,7.0,6.0,6.0,3.0,6.0,7.0,6.0,7.0,6.0,4.0,3.0,2.0,Completed
+37.0,London,Wimbledon,26-06-2014,Grand Slam,Outdoor,Grass,2nd Round,5.0,Kyrgios N.,Gasquet R.,144.0,14.0,400.0,2415.0,3.0,6.0,6.0,7.0,6.0,4.0,7.0,5.0,10.0,8.0,3.0,2.0,Completed
+37.0,London,Wimbledon,26-06-2014,Grand Slam,Outdoor,Grass,2nd Round,5.0,Tsonga J.W.,Querrey S.,17.0,67.0,1775.0,755.0,4.0,6.0,7.0,6.0,6.0,7.0,6.0,3.0,14.0,12.0,3.0,2.0,Completed
+37.0,London,Wimbledon,27-06-2014,Grand Slam,Outdoor,Grass,2nd Round,5.0,Giraldo S.,Granollers M.,35.0,224.0,1118.0,216.0,4.0,6.0,7.0,6.0,1.0,6.0,6.0,1.0,7.0,5.0,3.0,2.0,Completed
+37.0,London,Wimbledon,27-06-2014,Grand Slam,Outdoor,Grass,2nd Round,5.0,Janowicz J.,Hewitt L.,25.0,48.0,1510.0,950.0,7.0,5.0,6.0,4.0,6.0,7.0,4.0,6.0,6.0,3.0,3.0,2.0,Completed
+37.0,London,Wimbledon,27-06-2014,Grand Slam,Outdoor,Grass,3rd Round,5.0,Anderson K.,Fognini F.,18.0,15.0,1745.0,2155.0,4.0,6.0,6.0,4.0,2.0,6.0,6.0,2.0,6.0,1.0,3.0,2.0,Completed
+37.0,London,Wimbledon,27-06-2014,Grand Slam,Outdoor,Grass,3rd Round,5.0,Dimitrov G.,Dolgopolov O.,13.0,19.0,2595.0,1680.0,6.0,7.0,6.0,4.0,2.0,6.0,6.0,4.0,6.0,1.0,3.0,2.0,Completed
+37.0,London,Wimbledon,28-06-2014,Grand Slam,Outdoor,Grass,3rd Round,5.0,Robredo T.,Janowicz J.,22.0,25.0,1630.0,1510.0,6.0,2.0,6.0,4.0,6.0,7.0,4.0,6.0,6.0,3.0,3.0,2.0,Completed
+37.0,London,Wimbledon,30-06-2014,Grand Slam,Outdoor,Grass,3rd Round,5.0,Nishikori K.,Bolelli S.,12.0,132.0,2690.0,445.0,3.0,6.0,6.0,3.0,4.0,6.0,7.0,6.0,6.0,4.0,3.0,2.0,Completed
+37.0,London,Wimbledon,02-07-2014,Grand Slam,Outdoor,Grass,Quarterfinals,5.0,Djokovic N.,Cilic M.,2.0,29.0,12330.0,1350.0,6.0,1.0,3.0,6.0,6.0,7.0,6.0,2.0,6.0,2.0,3.0,2.0,Completed
+37.0,London,Wimbledon,06-07-2014,Grand Slam,Outdoor,Grass,The Final,5.0,Djokovic N.,Federer R.,2.0,4.0,12330.0,4945.0,6.0,7.0,6.0,4.0,7.0,6.0,5.0,7.0,6.0,4.0,3.0,2.0,Completed
+51.0,New York,US Open,25-08-2014,Grand Slam,Outdoor,Hard,1st Round,5.0,Paire B.,Benneteau J.,98.0,28.0,590.0,1285.0,7.0,6.0,5.0,7.0,6.0,4.0,4.0,6.0,6.0,4.0,3.0,2.0,Completed
+51.0,New York,US Open,25-08-2014,Grand Slam,Outdoor,Hard,1st Round,5.0,Verdasco F.,Rola B.,37.0,87.0,1100.0,638.0,6.0,3.0,3.0,6.0,7.0,5.0,1.0,6.0,6.0,4.0,3.0,2.0,Completed
+51.0,New York,US Open,25-08-2014,Grand Slam,Outdoor,Hard,1st Round,5.0,Bolelli S.,Pospisil V.,85.0,46.0,642.0,965.0,2.0,6.0,6.0,4.0,6.0,2.0,3.0,6.0,6.0,3.0,3.0,2.0,Completed
+51.0,New York,US Open,25-08-2014,Grand Slam,Outdoor,Hard,1st Round,5.0,Mathieu P.H.,Muller G.,81.0,68.0,649.0,753.0,6.0,7.0,7.0,5.0,7.0,6.0,6.0,7.0,6.0,1.0,3.0,2.0,Completed
+51.0,New York,US Open,26-08-2014,Grand Slam,Outdoor,Hard,1st Round,5.0,Querrey S.,Gonzalez M.,57.0,82.0,820.0,649.0,6.0,2.0,4.0,6.0,6.0,4.0,4.0,6.0,6.0,3.0,3.0,2.0,Completed
+51.0,New York,US Open,26-08-2014,Grand Slam,Outdoor,Hard,1st Round,5.0,Struff J.L.,Kukushkin M.,77.0,50.0,680.0,917.0,2.0,6.0,3.0,6.0,6.0,3.0,6.0,3.0,7.0,5.0,3.0,2.0,Completed
+51.0,New York,US Open,26-08-2014,Grand Slam,Outdoor,Hard,1st Round,5.0,Bautista R.,Haider-Maurer A.,19.0,110.0,1800.0,534.0,5.0,7.0,7.0,6.0,1.0,6.0,7.0,5.0,6.0,1.0,3.0,2.0,Completed
+51.0,New York,US Open,27-08-2014,Grand Slam,Outdoor,Hard,1st Round,5.0,Lopez F.,Dodig I.,21.0,53.0,1770.0,850.0,1.0,6.0,7.0,5.0,2.0,6.0,6.0,4.0,1.0,1.0,2.0,2.0,Retired
+51.0,New York,US Open,27-08-2014,Grand Slam,Outdoor,Hard,1st Round,5.0,Anderson K.,Cuevas P.,20.0,40.0,1795.0,1059.0,6.0,3.0,6.0,7.0,4.0,6.0,6.0,2.0,7.0,6.0,3.0,2.0,Completed
+51.0,New York,US Open,27-08-2014,Grand Slam,Outdoor,Hard,1st Round,5.0,Klizan M.,Darcis S.,65.0,364.0,775.0,119.0,3.0,6.0,2.0,6.0,7.0,6.0,7.0,5.0,6.0,4.0,3.0,2.0,Completed
+51.0,New York,US Open,27-08-2014,Grand Slam,Outdoor,Hard,1st Round,5.0,Kudryavtsev A.,Donskoy E.,146.0,118.0,393.0,513.0,2.0,6.0,7.0,6.0,3.0,6.0,6.0,3.0,6.0,4.0,3.0,2.0,Completed
+51.0,New York,US Open,27-08-2014,Grand Slam,Outdoor,Hard,1st Round,5.0,Sousa J.,Dancevic F.,38.0,135.0,1077.0,439.0,7.0,6.0,3.0,6.0,6.0,2.0,4.0,6.0,7.0,6.0,3.0,2.0,Completed
+51.0,New York,US Open,28-08-2014,Grand Slam,Outdoor,Hard,2nd Round,5.0,Robredo T.,Bolelli S.,18.0,85.0,1825.0,642.0,5.0,7.0,6.0,7.0,6.0,4.0,6.0,3.0,6.0,2.0,3.0,2.0,Completed
+51.0,New York,US Open,28-08-2014,Grand Slam,Outdoor,Hard,2nd Round,5.0,Kuznetsov An.,Verdasco F.,96.0,37.0,592.0,1100.0,6.0,3.0,4.0,6.0,4.0,6.0,7.0,5.0,6.0,3.0,3.0,2.0,Completed
+51.0,New York,US Open,29-08-2014,Grand Slam,Outdoor,Hard,2nd Round,5.0,Thiem D.,Gulbis E.,45.0,12.0,985.0,2580.0,4.0,6.0,3.0,6.0,6.0,4.0,6.0,3.0,6.0,3.0,3.0,2.0,Completed
+51.0,New York,US Open,29-08-2014,Grand Slam,Outdoor,Hard,2nd Round,5.0,Berdych T.,Klizan M.,7.0,65.0,4060.0,775.0,6.0,3.0,4.0,6.0,6.0,2.0,3.0,6.0,6.0,3.0,3.0,2.0,Completed
+51.0,New York,US Open,29-08-2014,Grand Slam,Outdoor,Hard,2nd Round,5.0,Granollers M.,Karlovic I.,42.0,30.0,1010.0,1220.0,7.0,6.0,6.0,7.0,7.0,6.0,3.0,6.0,6.0,4.0,3.0,2.0,Completed
+51.0,New York,US Open,02-09-2014,Grand Slam,Outdoor,Hard,4th Round,5.0,Nishikori K.,Raonic M.,11.0,6.0,2680.0,4225.0,4.0,6.0,7.0,6.0,6.0,7.0,7.0,5.0,6.0,4.0,3.0,2.0,Completed
+51.0,New York,US Open,02-09-2014,Grand Slam,Outdoor,Hard,4th Round,5.0,Cilic M.,Simon G.,16.0,31.0,1845.0,1180.0,5.0,7.0,7.0,6.0,6.0,4.0,3.0,6.0,6.0,3.0,3.0,2.0,Completed
+51.0,New York,US Open,03-09-2014,Grand Slam,Outdoor,Hard,Quarterfinals,5.0,Nishikori K.,Wawrinka S.,11.0,4.0,2680.0,5985.0,3.0,6.0,7.0,5.0,7.0,6.0,6.0,7.0,6.0,4.0,3.0,2.0,Completed
+51.0,New York,US Open,05-09-2014,Grand Slam,Outdoor,Hard,Quarterfinals,5.0,Federer R.,Monfils G.,3.0,24.0,7490.0,1530.0,4.0,6.0,3.0,6.0,6.0,4.0,7.0,5.0,6.0,2.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,19-01-2015,Grand Slam,Outdoor,Hard,1st Round,5.0,Berankis R.,Sijsling I.,85.0,84.0,615.0,619.0,2.0,6.0,6.0,4.0,7.0,6.0,6.0,7.0,6.0,4.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,19-01-2015,Grand Slam,Outdoor,Hard,1st Round,5.0,Lacko L.,Gonzalez M.,99.0,98.0,553.0,554.0,4.0,6.0,6.0,2.0,7.0,5.0,6.0,7.0,6.0,1.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,19-01-2015,Grand Slam,Outdoor,Hard,1st Round,5.0,Matosevic M.,Kudryavtsev A.,81.0,127.0,628.0,439.0,6.0,4.0,6.0,7.0,4.0,6.0,7.0,5.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,19-01-2015,Grand Slam,Outdoor,Hard,1st Round,5.0,Seppi A.,Istomin D.,46.0,50.0,915.0,850.0,5.0,7.0,6.0,3.0,2.0,6.0,6.0,1.0,6.0,4.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,19-01-2015,Grand Slam,Outdoor,Hard,1st Round,5.0,Duckworth J.,Kavcic B.,120.0,102.0,468.0,545.0,6.0,2.0,5.0,7.0,7.0,6.0,3.0,6.0,6.0,2.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,19-01-2015,Grand Slam,Outdoor,Hard,1st Round,5.0,Baghdatis M.,Gabashvili T.,78.0,67.0,658.0,730.0,6.0,2.0,6.0,7.0,3.0,6.0,6.0,4.0,6.0,4.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,19-01-2015,Grand Slam,Outdoor,Hard,1st Round,5.0,Rosol L.,De Schepper K.,30.0,94.0,1210.0,565.0,4.0,6.0,6.0,2.0,6.0,7.0,6.0,3.0,6.0,4.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,19-01-2015,Grand Slam,Outdoor,Hard,1st Round,5.0,Sela D.,Struff J.L.,106.0,57.0,520.0,801.0,6.0,4.0,4.0,6.0,3.0,6.0,6.0,3.0,7.0,5.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,19-01-2015,Grand Slam,Outdoor,Hard,1st Round,5.0,Kokkinakis T.,Gulbis E.,147.0,13.0,361.0,2455.0,5.0,7.0,6.0,0.0,1.0,6.0,7.0,6.0,8.0,6.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,19-01-2015,Grand Slam,Outdoor,Hard,1st Round,5.0,Kyrgios N.,Delbonis F.,53.0,62.0,830.0,775.0,7.0,6.0,3.0,6.0,6.0,3.0,6.0,7.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,20-01-2015,Grand Slam,Outdoor,Hard,1st Round,5.0,Lopez F.,Kudla D.,14.0,123.0,2130.0,452.0,3.0,6.0,6.0,2.0,4.0,6.0,6.0,2.0,10.0,8.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,20-01-2015,Grand Slam,Outdoor,Hard,1st Round,5.0,Soeda G.,Ymer E.,92.0,212.0,571.0,230.0,1.0,6.0,6.0,4.0,4.0,6.0,6.0,3.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,20-01-2015,Grand Slam,Outdoor,Hard,1st Round,5.0,Stakhovsky S.,Lajovic D.,71.0,68.0,699.0,711.0,6.0,3.0,4.0,6.0,6.0,4.0,6.0,7.0,6.0,4.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,20-01-2015,Grand Slam,Outdoor,Hard,1st Round,5.0,Pospisil V.,Querrey S.,60.0,35.0,785.0,1090.0,6.0,3.0,6.0,7.0,2.0,6.0,6.0,4.0,6.0,4.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,20-01-2015,Grand Slam,Outdoor,Hard,1st Round,5.0,Monfils G.,Pouille L.,19.0,117.0,1770.0,486.0,6.0,7.0,3.0,6.0,6.0,4.0,6.0,1.0,6.0,4.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,21-01-2015,Grand Slam,Outdoor,Hard,2nd Round,5.0,Jaziri M.,Roger-Vasselin E.,75.0,119.0,676.0,470.0,1.0,6.0,6.0,3.0,6.0,4.0,1.0,6.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,21-01-2015,Grand Slam,Outdoor,Hard,2nd Round,5.0,Groth S.,Kokkinakis T.,82.0,147.0,625.0,361.0,3.0,6.0,6.0,3.0,7.0,5.0,3.0,6.0,6.0,1.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,21-01-2015,Grand Slam,Outdoor,Hard,2nd Round,5.0,Nadal R.,Smyczek T.,3.0,112.0,6585.0,502.0,6.0,2.0,3.0,6.0,6.0,7.0,6.0,3.0,7.0,5.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,22-01-2015,Grand Slam,Outdoor,Hard,2nd Round,5.0,Janowicz J.,Monfils G.,44.0,19.0,925.0,1770.0,6.0,4.0,1.0,6.0,6.0,7.0,6.0,3.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,22-01-2015,Grand Slam,Outdoor,Hard,2nd Round,5.0,Becker B.,Hewitt L.,41.0,87.0,973.0,595.0,2.0,6.0,1.0,6.0,6.0,3.0,6.0,4.0,6.0,2.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,23-01-2015,Grand Slam,Outdoor,Hard,3rd Round,5.0,Dimitrov G.,Baghdatis M.,11.0,78.0,3645.0,658.0,4.0,6.0,6.0,3.0,3.0,6.0,6.0,3.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,25-01-2015,Grand Slam,Outdoor,Hard,4th Round,5.0,Kyrgios N.,Seppi A.,53.0,46.0,830.0,915.0,5.0,7.0,4.0,6.0,6.0,3.0,7.0,6.0,8.0,6.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,26-01-2015,Grand Slam,Outdoor,Hard,4th Round,5.0,Raonic M.,Lopez F.,8.0,14.0,4575.0,2130.0,6.0,4.0,4.0,6.0,6.0,3.0,6.0,7.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,30-01-2015,Grand Slam,Outdoor,Hard,Semifinals,5.0,Djokovic N.,Wawrinka S.,1.0,4.0,11405.0,5370.0,7.0,6.0,3.0,6.0,6.0,4.0,4.0,6.0,6.0,0.0,3.0,2.0,Completed
+33.0,Paris,French Open,24-05-2015,Grand Slam,Outdoor,Clay,1st Round,5.0,Johnson S.,Garcia-Lopez G.,56.0,24.0,850.0,1335.0,6.0,3.0,6.0,3.0,6.0,7.0,3.0,6.0,6.0,3.0,3.0,2.0,Completed
+33.0,Paris,French Open,25-05-2015,Grand Slam,Outdoor,Clay,1st Round,5.0,Becker B.,Bemelmans R.,48.0,95.0,965.0,546.0,6.0,3.0,6.0,7.0,2.0,6.0,7.0,6.0,6.0,2.0,3.0,2.0,Completed
+33.0,Paris,French Open,25-05-2015,Grand Slam,Outdoor,Clay,1st Round,5.0,Monaco J.,Delbonis F.,35.0,82.0,1170.0,627.0,6.0,7.0,6.0,2.0,6.0,1.0,6.0,7.0,6.0,2.0,3.0,2.0,Completed
+33.0,Paris,French Open,25-05-2015,Grand Slam,Outdoor,Clay,1st Round,5.0,Paire B.,Elias G.,71.0,152.0,698.0,342.0,5.0,7.0,6.0,3.0,4.0,6.0,6.0,4.0,6.0,2.0,3.0,2.0,Completed
+33.0,Paris,French Open,25-05-2015,Grand Slam,Outdoor,Clay,1st Round,5.0,Edmund K.,Robert S.,121.0,558.0,447.0,56.0,2.0,6.0,6.0,4.0,6.0,3.0,5.0,7.0,6.0,2.0,3.0,2.0,Completed
+33.0,Paris,French Open,26-05-2015,Grand Slam,Outdoor,Clay,1st Round,5.0,Mayer L.,Vesely J.,22.0,41.0,1580.0,1053.0,3.0,6.0,7.0,6.0,6.0,3.0,5.0,7.0,6.0,2.0,3.0,2.0,Completed
+33.0,Paris,French Open,26-05-2015,Grand Slam,Outdoor,Clay,1st Round,5.0,Arnaboldi A.,Duckworth J.,187.0,83.0,261.0,626.0,4.0,6.0,6.0,7.0,7.0,6.0,7.0,6.0,6.0,0.0,3.0,2.0,Completed
+33.0,Paris,French Open,26-05-2015,Grand Slam,Outdoor,Clay,1st Round,5.0,Berlocq C.,Marchenko I.,111.0,127.0,480.0,427.0,4.0,6.0,3.0,6.0,6.0,3.0,7.0,5.0,6.0,2.0,3.0,2.0,Completed
+33.0,Paris,French Open,27-05-2015,Grand Slam,Outdoor,Clay,1st Round,5.0,Muller G.,Lorenzi P.,55.0,86.0,868.0,617.0,4.0,6.0,4.0,6.0,7.0,6.0,7.0,6.0,6.0,4.0,3.0,2.0,Completed
+33.0,Paris,French Open,27-05-2015,Grand Slam,Outdoor,Clay,2nd Round,5.0,Becker B.,Verdasco F.,48.0,34.0,965.0,1180.0,6.0,4.0,0.0,6.0,1.0,6.0,7.0,5.0,10.0,8.0,3.0,2.0,Completed
+33.0,Paris,French Open,27-05-2015,Grand Slam,Outdoor,Clay,2nd Round,5.0,Monfils G.,Schwartzman D.,14.0,62.0,2065.0,785.0,4.0,6.0,6.0,4.0,4.0,6.0,6.0,2.0,6.0,3.0,3.0,2.0,Completed
+33.0,Paris,French Open,28-05-2015,Grand Slam,Outdoor,Clay,2nd Round,5.0,Kokkinakis T.,Tomic B.,84.0,26.0,619.0,1320.0,3.0,6.0,3.0,6.0,6.0,3.0,6.0,4.0,8.0,6.0,3.0,2.0,Completed
+33.0,Paris,French Open,28-05-2015,Grand Slam,Outdoor,Clay,2nd Round,5.0,Andujar P.,Kohlschreiber P.,42.0,28.0,1050.0,1285.0,6.0,1.0,7.0,6.0,3.0,6.0,3.0,6.0,6.0,4.0,3.0,2.0,Completed
+33.0,Paris,French Open,28-05-2015,Grand Slam,Outdoor,Clay,2nd Round,5.0,Coric B.,Robredo T.,46.0,19.0,970.0,1755.0,7.0,5.0,3.0,6.0,6.0,2.0,4.0,6.0,6.0,4.0,3.0,2.0,Completed
+33.0,Paris,French Open,29-05-2015,Grand Slam,Outdoor,Clay,2nd Round,5.0,Gasquet R.,Berlocq C.,21.0,111.0,1625.0,480.0,3.0,6.0,6.0,3.0,6.0,1.0,4.0,6.0,6.0,1.0,3.0,2.0,Completed
+33.0,Paris,French Open,29-05-2015,Grand Slam,Outdoor,Clay,3rd Round,5.0,Simon G.,Mahut N.,13.0,116.0,2210.0,469.0,6.0,2.0,6.0,7.0,6.0,7.0,6.0,3.0,6.0,1.0,3.0,2.0,Completed
+33.0,Paris,French Open,29-05-2015,Grand Slam,Outdoor,Clay,3rd Round,5.0,Monfils G.,Cuevas P.,14.0,23.0,2065.0,1502.0,4.0,6.0,7.0,6.0,3.0,6.0,6.0,4.0,6.0,3.0,3.0,2.0,Completed
+33.0,Paris,French Open,30-05-2015,Grand Slam,Outdoor,Clay,3rd Round,5.0,Ferrer D.,Bolelli S.,8.0,60.0,4490.0,826.0,6.0,3.0,1.0,6.0,5.0,7.0,6.0,0.0,6.0,1.0,3.0,2.0,Completed
+33.0,Paris,French Open,02-06-2015,Grand Slam,Outdoor,Clay,Quarterfinals,5.0,Tsonga J.W.,Nishikori K.,15.0,5.0,2045.0,5220.0,6.0,1.0,6.0,4.0,4.0,6.0,3.0,6.0,6.0,3.0,3.0,2.0,Completed
+33.0,Paris,French Open,06-06-2015,Grand Slam,Outdoor,Clay,Semifinals,5.0,Djokovic N.,Murray A.,1.0,3.0,13845.0,7040.0,6.0,3.0,6.0,3.0,5.0,7.0,5.0,7.0,6.0,1.0,3.0,2.0,Completed
+39.0,London,Wimbledon,29-06-2015,Grand Slam,Outdoor,Grass,1st Round,5.0,Broady L.,Matosevic M.,182.0,138.0,282.0,391.0,5.0,7.0,4.0,6.0,6.0,3.0,6.0,2.0,6.0,3.0,3.0,2.0,Completed
+39.0,London,Wimbledon,29-06-2015,Grand Slam,Outdoor,Grass,1st Round,5.0,Verdasco F.,Klizan M.,43.0,39.0,1045.0,1100.0,4.0,6.0,6.0,2.0,6.0,3.0,6.0,7.0,13.0,11.0,3.0,2.0,Completed
+39.0,London,Wimbledon,29-06-2015,Grand Slam,Outdoor,Grass,1st Round,5.0,Nieminen J.,Hewitt L.,92.0,118.0,564.0,465.0,3.0,6.0,6.0,3.0,4.0,6.0,6.0,0.0,11.0,9.0,3.0,2.0,Completed
+39.0,London,Wimbledon,29-06-2015,Grand Slam,Outdoor,Grass,1st Round,5.0,Nishikori K.,Bolelli S.,5.0,55.0,5660.0,871.0,6.0,3.0,6.0,7.0,6.0,2.0,3.0,6.0,6.0,3.0,3.0,2.0,Completed
+39.0,London,Wimbledon,29-06-2015,Grand Slam,Outdoor,Grass,1st Round,5.0,Tomic B.,Struff J.L.,26.0,112.0,1355.0,478.0,6.0,3.0,3.0,6.0,2.0,6.0,6.0,2.0,6.0,3.0,3.0,2.0,Completed
+39.0,London,Wimbledon,29-06-2015,Grand Slam,Outdoor,Grass,1st Round,5.0,De Schepper K.,Smith J.P.,163.0,160.0,320.0,323.0,4.0,6.0,4.0,6.0,7.0,6.0,6.0,4.0,6.0,4.0,3.0,2.0,Completed
+39.0,London,Wimbledon,29-06-2015,Grand Slam,Outdoor,Grass,1st Round,5.0,Johnson S.,Lacko L.,52.0,94.0,895.0,548.0,6.0,3.0,6.0,7.0,4.0,6.0,6.0,1.0,6.0,4.0,3.0,2.0,Completed
+39.0,London,Wimbledon,29-06-2015,Grand Slam,Outdoor,Grass,1st Round,5.0,Herbert P.H.,Chung H.,151.0,79.0,353.0,671.0,1.0,6.0,6.0,2.0,3.0,6.0,6.0,2.0,10.0,8.0,3.0,2.0,Completed
+39.0,London,Wimbledon,29-06-2015,Grand Slam,Outdoor,Grass,1st Round,5.0,Kudla D.,Cuevas P.,105.0,23.0,496.0,1502.0,6.0,7.0,4.0,6.0,6.0,3.0,6.0,2.0,6.0,2.0,3.0,2.0,Completed
+39.0,London,Wimbledon,29-06-2015,Grand Slam,Outdoor,Grass,1st Round,5.0,Zverev A.,Gabashvili T.,74.0,53.0,689.0,882.0,6.0,3.0,1.0,6.0,6.0,3.0,3.0,6.0,9.0,7.0,3.0,2.0,Completed
+39.0,London,Wimbledon,30-06-2015,Grand Slam,Outdoor,Grass,1st Round,5.0,Tsonga J.W.,Muller G.,12.0,44.0,2565.0,1023.0,7.0,6.0,6.0,7.0,6.0,4.0,3.0,6.0,6.0,2.0,3.0,2.0,Completed
+39.0,London,Wimbledon,30-06-2015,Grand Slam,Outdoor,Grass,1st Round,5.0,Duckworth J.,Jaziri M.,87.0,84.0,594.0,622.0,7.0,6.0,6.0,2.0,3.0,6.0,3.0,6.0,7.0,5.0,3.0,2.0,Completed
+39.0,London,Wimbledon,30-06-2015,Grand Slam,Outdoor,Grass,1st Round,5.0,Pospisil V.,Millot V.,56.0,213.0,870.0,234.0,7.0,6.0,3.0,6.0,6.0,7.0,7.0,6.0,6.0,3.0,3.0,2.0,Completed
+39.0,London,Wimbledon,30-06-2015,Grand Slam,Outdoor,Grass,1st Round,5.0,Coric B.,Stakhovsky S.,40.0,49.0,1080.0,929.0,4.0,6.0,7.0,6.0,6.0,2.0,1.0,6.0,9.0,7.0,3.0,2.0,Completed
+39.0,London,Wimbledon,30-06-2015,Grand Slam,Outdoor,Grass,1st Round,5.0,Andujar P.,Garcia-Lopez G.,37.0,32.0,1125.0,1210.0,3.0,6.0,6.0,4.0,3.0,6.0,7.0,5.0,6.0,4.0,3.0,2.0,Completed
+39.0,London,Wimbledon,30-06-2015,Grand Slam,Outdoor,Grass,1st Round,5.0,Bedene A.,Stepanek R.,75.0,203.0,688.0,242.0,7.0,5.0,1.0,6.0,4.0,6.0,6.0,3.0,6.0,4.0,3.0,2.0,Completed
+39.0,London,Wimbledon,01-07-2015,Grand Slam,Outdoor,Grass,2nd Round,5.0,Baghdatis M.,Millman J.,54.0,120.0,880.0,463.0,6.0,7.0,2.0,6.0,6.0,3.0,6.0,2.0,6.0,4.0,3.0,2.0,Completed
+39.0,London,Wimbledon,01-07-2015,Grand Slam,Outdoor,Grass,2nd Round,5.0,Verdasco F.,Thiem D.,43.0,30.0,1045.0,1235.0,5.0,7.0,6.0,4.0,5.0,7.0,6.0,3.0,6.0,4.0,3.0,2.0,Completed
+39.0,London,Wimbledon,01-07-2015,Grand Slam,Outdoor,Grass,2nd Round,5.0,Cilic M.,Berankis R.,9.0,90.0,3540.0,577.0,6.0,3.0,4.0,6.0,7.0,6.0,4.0,6.0,7.0,5.0,3.0,2.0,Completed
+39.0,London,Wimbledon,02-07-2015,Grand Slam,Outdoor,Grass,2nd Round,5.0,Bautista R.,Paire B.,22.0,68.0,1545.0,745.0,2.0,6.0,4.0,6.0,6.0,3.0,6.0,3.0,6.0,3.0,3.0,2.0,Completed
+39.0,London,Wimbledon,02-07-2015,Grand Slam,Outdoor,Grass,2nd Round,5.0,Basilashvili N.,Lopez F.,153.0,16.0,351.0,1935.0,7.0,5.0,3.0,6.0,6.0,3.0,2.0,6.0,6.0,4.0,3.0,2.0,Completed
+39.0,London,Wimbledon,02-07-2015,Grand Slam,Outdoor,Grass,2nd Round,5.0,Seppi A.,Coric B.,27.0,40.0,1280.0,1080.0,4.0,6.0,6.0,4.0,6.0,7.0,6.0,1.0,6.0,1.0,3.0,2.0,Completed
+39.0,London,Wimbledon,02-07-2015,Grand Slam,Outdoor,Grass,2nd Round,5.0,Andujar P.,Rosol L.,37.0,41.0,1125.0,1067.0,6.0,4.0,1.0,6.0,4.0,6.0,7.0,6.0,6.0,4.0,3.0,2.0,Completed
+39.0,London,Wimbledon,02-07-2015,Grand Slam,Outdoor,Grass,2nd Round,5.0,Karlovic I.,Dolgopolov O.,25.0,70.0,1385.0,740.0,5.0,7.0,6.0,3.0,6.0,4.0,6.0,7.0,13.0,11.0,3.0,2.0,Completed
+39.0,London,Wimbledon,03-07-2015,Grand Slam,Outdoor,Grass,3rd Round,5.0,Kudla D.,Giraldo S.,105.0,60.0,496.0,790.0,6.0,2.0,6.0,7.0,2.0,6.0,6.0,1.0,6.0,3.0,3.0,2.0,Completed
+39.0,London,Wimbledon,04-07-2015,Grand Slam,Outdoor,Grass,3rd Round,5.0,Cilic M.,Isner J.,9.0,17.0,3540.0,1890.0,7.0,6.0,6.0,7.0,6.0,4.0,6.0,7.0,12.0,10.0,3.0,2.0,Completed
+39.0,London,Wimbledon,04-07-2015,Grand Slam,Outdoor,Grass,3rd Round,5.0,Pospisil V.,Ward J.,56.0,111.0,870.0,483.0,6.0,4.0,3.0,6.0,2.0,6.0,6.0,3.0,8.0,6.0,3.0,2.0,Completed
+39.0,London,Wimbledon,04-07-2015,Grand Slam,Outdoor,Grass,3rd Round,3.0,Simon G.,Monfils G.,13.0,18.0,2435.0,1885.0,3.0,6.0,6.0,3.0,7.0,6.0,2.0,6.0,6.0,2.0,3.0,2.0,Completed
+39.0,London,Wimbledon,06-07-2015,Grand Slam,Outdoor,Grass,4th Round,5.0,Pospisil V.,Troicki V.,56.0,24.0,870.0,1494.0,4.0,6.0,6.0,7.0,6.0,4.0,6.0,3.0,6.0,3.0,3.0,2.0,Completed
+39.0,London,Wimbledon,07-07-2015,Grand Slam,Outdoor,Grass,4th Round,5.0,Djokovic N.,Anderson K.,1.0,14.0,13845.0,2090.0,6.0,7.0,6.0,7.0,6.0,1.0,6.0,4.0,7.0,5.0,3.0,2.0,Completed
+39.0,London,Wimbledon,08-07-2015,Grand Slam,Outdoor,Grass,Quarterfinals,5.0,Gasquet R.,Wawrinka S.,20.0,4.0,1610.0,5790.0,6.0,4.0,4.0,6.0,3.0,6.0,6.0,4.0,11.0,9.0,3.0,2.0,Completed
+52.0,New York,US Open,31-08-2015,Grand Slam,Outdoor,Hard,1st Round,5.0,Paire B.,Nishikori K.,41.0,4.0,1052.0,6205.0,6.0,4.0,3.0,6.0,4.0,6.0,7.0,6.0,6.0,4.0,3.0,2.0,Completed
+52.0,New York,US Open,31-08-2015,Grand Slam,Outdoor,Hard,1st Round,5.0,Berankis R.,Sousa J.,78.0,46.0,661.0,986.0,6.0,2.0,6.0,2.0,4.0,6.0,2.0,6.0,7.0,6.0,3.0,2.0,Completed
+52.0,New York,US Open,31-08-2015,Grand Slam,Outdoor,Hard,1st Round,5.0,Verdasco F.,Haas T.,42.0,506.0,1020.0,73.0,3.0,6.0,6.0,1.0,6.0,7.0,6.0,3.0,6.0,1.0,3.0,2.0,Completed
+52.0,New York,US Open,31-08-2015,Grand Slam,Outdoor,Hard,1st Round,5.0,Haider-Maurer A.,Pospisil V.,52.0,45.0,870.0,1000.0,6.0,4.0,3.0,6.0,6.0,7.0,6.0,0.0,6.0,1.0,3.0,2.0,Completed
+52.0,New York,US Open,01-09-2015,Grand Slam,Outdoor,Hard,1st Round,5.0,Haase R.,Brown D.,79.0,85.0,645.0,614.0,4.0,6.0,4.0,6.0,6.0,3.0,7.0,5.0,6.0,4.0,3.0,2.0,Completed
+52.0,New York,US Open,01-09-2015,Grand Slam,Outdoor,Hard,1st Round,5.0,Young D.,Simon G.,68.0,11.0,730.0,2730.0,2.0,6.0,4.0,6.0,6.0,4.0,6.0,4.0,6.0,4.0,3.0,2.0,Completed
+52.0,New York,US Open,01-09-2015,Grand Slam,Outdoor,Hard,1st Round,5.0,Nishioka Y.,Mathieu P.H.,128.0,80.0,430.0,638.0,6.0,4.0,2.0,6.0,6.0,7.0,6.0,1.0,6.0,2.0,3.0,2.0,Completed
+52.0,New York,US Open,01-09-2015,Grand Slam,Outdoor,Hard,1st Round,5.0,Gasquet R.,Kokkinakis T.,12.0,71.0,2240.0,709.0,4.0,6.0,6.0,1.0,4.0,6.0,6.0,3.0,2.0,0.0,2.0,2.0,Retired
+52.0,New York,US Open,01-09-2015,Grand Slam,Outdoor,Hard,1st Round,5.0,Kohlschreiber P.,Zverev A.,29.0,82.0,1230.0,634.0,6.0,7.0,6.0,2.0,6.0,0.0,2.0,6.0,6.0,4.0,3.0,2.0,Completed
+52.0,New York,US Open,01-09-2015,Grand Slam,Outdoor,Hard,1st Round,5.0,Garcia-Lopez G.,Tipsarevic J.,31.0,429.0,1190.0,96.0,7.0,6.0,4.0,6.0,4.0,6.0,6.0,3.0,6.0,1.0,3.0,2.0,Completed
+52.0,New York,US Open,02-09-2015,Grand Slam,Outdoor,Hard,2nd Round,5.0,Bautista R.,Carreno-Busta P.,23.0,54.0,1510.0,855.0,4.0,6.0,6.0,4.0,6.0,0.0,2.0,6.0,6.0,4.0,3.0,2.0,Completed
+52.0,New York,US Open,02-09-2015,Grand Slam,Outdoor,Hard,2nd Round,5.0,Goffin D.,Berankis R.,15.0,78.0,2130.0,661.0,5.0,7.0,6.0,4.0,3.0,6.0,6.0,2.0,6.0,1.0,3.0,2.0,Completed
+52.0,New York,US Open,02-09-2015,Grand Slam,Outdoor,Hard,2nd Round,5.0,Lopez F.,Fish M.,19.0,581.0,1665.0,55.0,2.0,6.0,6.0,3.0,1.0,6.0,7.0,5.0,6.0,3.0,3.0,2.0,Completed
+52.0,New York,US Open,02-09-2015,Grand Slam,Outdoor,Hard,2nd Round,5.0,Kukushkin M.,Dimitrov G.,56.0,17.0,842.0,1735.0,6.0,3.0,7.0,6.0,2.0,6.0,4.0,6.0,6.0,4.0,3.0,2.0,Completed
+52.0,New York,US Open,03-09-2015,Grand Slam,Outdoor,Hard,2nd Round,5.0,Vesely J.,Karlovic I.,48.0,21.0,962.0,1620.0,7.0,6.0,3.0,6.0,3.0,6.0,6.0,2.0,7.0,6.0,3.0,2.0,Completed
+52.0,New York,US Open,03-09-2015,Grand Slam,Outdoor,Hard,2nd Round,5.0,Murray A.,Mannarino A.,3.0,35.0,8840.0,1140.0,5.0,7.0,4.0,6.0,6.0,1.0,6.0,3.0,6.0,1.0,3.0,2.0,Completed
+52.0,New York,US Open,03-09-2015,Grand Slam,Outdoor,Hard,2nd Round,5.0,Tomic B.,Hewitt L.,24.0,355.0,1465.0,130.0,6.0,3.0,6.0,2.0,3.0,6.0,5.0,7.0,7.0,5.0,3.0,2.0,Completed
+52.0,New York,US Open,04-09-2015,Grand Slam,Outdoor,Hard,3rd Round,5.0,Cilic M.,Kukushkin M.,9.0,56.0,3550.0,842.0,6.0,7.0,7.0,6.0,6.0,3.0,6.0,7.0,6.0,1.0,3.0,2.0,Completed
+52.0,New York,US Open,05-09-2015,Grand Slam,Outdoor,Hard,3rd Round,5.0,Fognini F.,Nadal R.,32.0,8.0,1165.0,3680.0,3.0,6.0,4.0,6.0,6.0,4.0,6.0,3.0,6.0,4.0,3.0,2.0,Completed
+52.0,New York,US Open,05-09-2015,Grand Slam,Outdoor,Hard,3rd Round,5.0,Young D.,Troicki V.,68.0,22.0,730.0,1559.0,4.0,6.0,0.0,6.0,7.0,6.0,6.0,2.0,6.0,4.0,3.0,2.0,Completed
+52.0,New York,US Open,08-09-2015,Grand Slam,Outdoor,Hard,Quarterfinals,5.0,Cilic M.,Tsonga J.W.,9.0,18.0,3550.0,1675.0,6.0,4.0,6.0,4.0,3.0,6.0,6.0,7.0,6.0,4.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,18-01-2016,Grand Slam,Outdoor,Hard,1st Round,5.0,Dzumhur D.,Edmund K.,81.0,88.0,661.0,625.0,1.0,6.0,7.0,6.0,4.0,6.0,6.0,3.0,6.0,1.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,18-01-2016,Grand Slam,Outdoor,Hard,1st Round,5.0,Olivo R.,Vesely J.,174.0,50.0,296.0,840.0,7.0,6.0,2.0,6.0,1.0,6.0,6.0,4.0,6.0,4.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,18-01-2016,Grand Slam,Outdoor,Hard,1st Round,5.0,Bautista R.,Klizan M.,21.0,43.0,1640.0,955.0,6.0,2.0,6.0,3.0,4.0,6.0,2.0,6.0,6.0,2.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,19-01-2016,Grand Slam,Outdoor,Hard,1st Round,5.0,Chardy J.,Gulbis E.,31.0,79.0,1255.0,661.0,7.0,5.0,2.0,6.0,6.0,7.0,6.0,3.0,13.0,11.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,19-01-2016,Grand Slam,Outdoor,Hard,1st Round,5.0,Pella G.,Darcis S.,75.0,110.0,693.0,538.0,2.0,6.0,3.0,6.0,6.0,3.0,7.0,5.0,6.0,1.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,19-01-2016,Grand Slam,Outdoor,Hard,1st Round,5.0,Robredo T.,Jaziri M.,42.0,104.0,1000.0,566.0,7.0,5.0,3.0,6.0,4.0,6.0,7.0,6.0,8.0,6.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,19-01-2016,Grand Slam,Outdoor,Hard,1st Round,5.0,Verdasco F.,Nadal R.,45.0,5.0,900.0,5230.0,7.0,6.0,4.0,6.0,3.0,6.0,7.0,6.0,6.0,2.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,19-01-2016,Grand Slam,Outdoor,Hard,1st Round,5.0,Rosol L.,Daniel T.,51.0,99.0,827.0,603.0,7.0,6.0,7.0,5.0,5.0,7.0,6.0,7.0,6.0,1.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,19-01-2016,Grand Slam,Outdoor,Hard,1st Round,5.0,Sock J.,Fritz T.,22.0,155.0,1525.0,372.0,6.0,4.0,3.0,6.0,0.0,6.0,6.0,3.0,6.0,4.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,19-01-2016,Grand Slam,Outdoor,Hard,1st Round,5.0,Troicki V.,Munoz-De La Nava D.,26.0,71.0,1475.0,718.0,4.0,6.0,4.0,6.0,6.0,1.0,7.0,6.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,20-01-2016,Grand Slam,Outdoor,Hard,2nd Round,5.0,Delbonis F.,Olivo R.,53.0,174.0,815.0,296.0,7.0,6.0,3.0,6.0,6.0,7.0,7.0,5.0,6.0,2.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,20-01-2016,Grand Slam,Outdoor,Hard,2nd Round,5.0,Simon G.,Donskoy E.,15.0,91.0,2145.0,620.0,6.0,3.0,5.0,7.0,7.0,6.0,4.0,6.0,7.0,5.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,20-01-2016,Grand Slam,Outdoor,Hard,2nd Round,5.0,Bautista R.,Lajovic D.,21.0,77.0,1640.0,678.0,4.0,6.0,6.0,2.0,4.0,6.0,6.0,2.0,6.0,1.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,21-01-2016,Grand Slam,Outdoor,Hard,2nd Round,5.0,Robert S.,Ram R.,225.0,93.0,233.0,617.0,6.0,1.0,6.0,7.0,4.0,6.0,7.0,5.0,7.0,5.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,21-01-2016,Grand Slam,Outdoor,Hard,2nd Round,5.0,Lopez F.,Pella G.,19.0,75.0,1690.0,693.0,7.0,6.0,6.0,7.0,7.0,6.0,6.0,7.0,6.0,4.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,21-01-2016,Grand Slam,Outdoor,Hard,2nd Round,5.0,Millman J.,Muller G.,95.0,38.0,611.0,1105.0,4.0,6.0,6.0,4.0,6.0,2.0,4.0,6.0,7.0,5.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,24-01-2016,Grand Slam,Outdoor,Hard,4th Round,5.0,Djokovic N.,Simon G.,1.0,15.0,16790.0,2145.0,6.0,3.0,6.0,7.0,6.0,4.0,4.0,6.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,24-01-2016,Grand Slam,Outdoor,Hard,4th Round,5.0,Berdych T.,Bautista R.,6.0,21.0,4560.0,1640.0,4.0,6.0,6.0,4.0,6.0,3.0,1.0,6.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,25-01-2016,Grand Slam,Outdoor,Hard,4th Round,5.0,Raonic M.,Wawrinka S.,14.0,4.0,2270.0,6865.0,6.0,4.0,6.0,3.0,5.0,7.0,4.0,6.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,29-01-2016,Grand Slam,Outdoor,Hard,Semifinals,5.0,Murray A.,Raonic M.,2.0,14.0,8945.0,2270.0,4.0,6.0,7.0,5.0,6.0,7.0,6.0,4.0,6.0,2.0,3.0,2.0,Completed
+33.0,Paris,French Open,22-05-2016,Grand Slam,Outdoor,Clay,1st Round,5.0,Paire B.,Albot R.,21.0,137.0,1641.0,423.0,6.0,2.0,4.0,6.0,6.0,4.0,1.0,6.0,6.0,4.0,3.0,2.0,Completed
+33.0,Paris,French Open,23-05-2016,Grand Slam,Outdoor,Clay,1st Round,5.0,Wawrinka S.,Rosol L.,4.0,59.0,6315.0,815.0,4.0,6.0,6.0,1.0,3.0,6.0,6.0,3.0,6.0,4.0,3.0,2.0,Completed
+33.0,Paris,French Open,23-05-2016,Grand Slam,Outdoor,Clay,1st Round,5.0,Pavlasek A.,Carballes Baena R.,132.0,114.0,442.0,523.0,6.0,2.0,4.0,6.0,6.0,3.0,1.0,6.0,6.0,1.0,3.0,2.0,Completed
+33.0,Paris,French Open,23-05-2016,Grand Slam,Outdoor,Clay,1st Round,5.0,Troicki V.,Dimitrov G.,24.0,36.0,1535.0,1150.0,2.0,6.0,6.0,3.0,5.0,7.0,7.0,5.0,6.0,3.0,3.0,2.0,Completed
+33.0,Paris,French Open,23-05-2016,Grand Slam,Outdoor,Clay,1st Round,5.0,Daniel T.,Klizan M.,93.0,45.0,614.0,960.0,3.0,6.0,4.0,6.0,7.0,5.0,6.0,4.0,3.0,0.0,2.0,2.0,Retired
+33.0,Paris,French Open,23-05-2016,Grand Slam,Outdoor,Clay,1st Round,5.0,Dodig I.,Youzhny M.,77.0,78.0,708.0,707.0,6.0,4.0,5.0,7.0,7.0,5.0,2.0,6.0,6.0,3.0,3.0,2.0,Completed
+33.0,Paris,French Open,23-05-2016,Grand Slam,Outdoor,Clay,1st Round,5.0,Brown D.,Sela D.,116.0,62.0,520.0,781.0,6.0,7.0,6.0,4.0,7.0,6.0,4.0,6.0,6.0,4.0,3.0,2.0,Completed
+33.0,Paris,French Open,23-05-2016,Grand Slam,Outdoor,Clay,1st Round,5.0,Sock J.,Haase R.,25.0,86.0,1505.0,685.0,6.0,3.0,7.0,5.0,3.0,6.0,6.0,7.0,6.0,2.0,3.0,2.0,Completed
+33.0,Paris,French Open,24-05-2016,Grand Slam,Outdoor,Clay,1st Round,5.0,Murray A.,Stepanek R.,2.0,128.0,8435.0,459.0,3.0,6.0,3.0,6.0,6.0,0.0,6.0,3.0,7.0,5.0,3.0,2.0,Completed
+33.0,Paris,French Open,24-05-2016,Grand Slam,Outdoor,Clay,1st Round,5.0,Mathieu P.H.,Giraldo S.,65.0,122.0,771.0,499.0,6.0,4.0,6.0,7.0,6.0,4.0,1.0,6.0,6.0,3.0,3.0,2.0,Completed
+33.0,Paris,French Open,25-05-2016,Grand Slam,Outdoor,Clay,2nd Round,5.0,Karlovic I.,Thompson J.,28.0,94.0,1280.0,608.0,6.0,7.0,6.0,3.0,7.0,6.0,6.0,7.0,12.0,10.0,3.0,2.0,Completed
+33.0,Paris,French Open,25-05-2016,Grand Slam,Outdoor,Clay,2nd Round,5.0,Murray A.,Bourgue M.,2.0,164.0,8435.0,326.0,6.0,2.0,2.0,6.0,4.0,6.0,6.0,2.0,6.0,3.0,3.0,2.0,Completed
+33.0,Paris,French Open,25-05-2016,Grand Slam,Outdoor,Clay,2nd Round,5.0,Simon G.,Pella G.,18.0,48.0,1945.0,899.0,4.0,6.0,1.0,6.0,7.0,5.0,7.0,6.0,6.0,4.0,3.0,2.0,Completed
+33.0,Paris,French Open,26-05-2016,Grand Slam,Outdoor,Clay,2nd Round,5.0,Bedene A.,Carreno Busta P.,66.0,43.0,765.0,995.0,7.0,6.0,6.0,3.0,4.0,6.0,5.0,7.0,6.0,2.0,3.0,2.0,Completed
+33.0,Paris,French Open,26-05-2016,Grand Slam,Outdoor,Clay,2nd Round,5.0,Tsonga J.W.,Baghdatis M.,7.0,39.0,3355.0,1067.0,6.0,7.0,3.0,6.0,6.0,3.0,6.0,2.0,6.0,2.0,3.0,2.0,Completed
+33.0,Paris,French Open,27-05-2016,Grand Slam,Outdoor,Clay,3rd Round,5.0,Ramos-Vinolas A.,Sock J.,55.0,25.0,853.0,1505.0,6.0,7.0,6.0,4.0,6.0,4.0,4.0,6.0,6.0,4.0,3.0,2.0,Completed
+33.0,Paris,French Open,27-05-2016,Grand Slam,Outdoor,Clay,3rd Round,5.0,Nishikori K.,Verdasco F.,6.0,52.0,4470.0,855.0,6.0,3.0,6.0,4.0,3.0,6.0,2.0,6.0,6.0,4.0,3.0,2.0,Completed
+33.0,Paris,French Open,27-05-2016,Grand Slam,Outdoor,Clay,3rd Round,5.0,Isner J.,Gabashvili T.,17.0,79.0,1965.0,706.0,7.0,6.0,4.0,6.0,2.0,6.0,6.0,4.0,6.0,2.0,3.0,2.0,Completed
+33.0,Paris,French Open,28-05-2016,Grand Slam,Outdoor,Clay,3rd Round,5.0,Goffin D.,Almagro N.,13.0,49.0,2570.0,899.0,6.0,2.0,4.0,6.0,6.0,3.0,4.0,6.0,6.0,2.0,3.0,2.0,Completed
+39.0,London,Wimbledon,27-06-2016,Grand Slam,Outdoor,Grass,1st Round,5.0,Almagro N.,Dutra Silva R.,47.0,386.0,944.0,114.0,6.0,3.0,7.0,6.0,5.0,7.0,3.0,6.0,6.0,3.0,3.0,2.0,Completed
+39.0,London,Wimbledon,27-06-2016,Grand Slam,Outdoor,Grass,1st Round,5.0,Dzumhur D.,Kudla D.,87.0,66.0,660.0,770.0,7.0,6.0,7.0,5.0,2.0,6.0,1.0,6.0,6.0,3.0,3.0,2.0,Completed
+39.0,London,Wimbledon,27-06-2016,Grand Slam,Outdoor,Grass,1st Round,5.0,Istomin D.,Anderson K.,116.0,25.0,531.0,1505.0,4.0,6.0,6.0,7.0,6.0,4.0,7.0,6.0,6.0,3.0,3.0,2.0,Completed
+39.0,London,Wimbledon,27-06-2016,Grand Slam,Outdoor,Grass,1st Round,5.0,Querrey S.,Rosol L.,41.0,73.0,1075.0,740.0,6.0,7.0,6.0,7.0,6.0,4.0,6.0,2.0,12.0,10.0,3.0,2.0,Completed
+39.0,London,Wimbledon,27-06-2016,Grand Slam,Outdoor,Grass,1st Round,5.0,Bellucci T.,Bemelmans R.,62.0,193.0,790.0,280.0,3.0,6.0,6.0,4.0,6.0,3.0,1.0,6.0,8.0,6.0,3.0,2.0,Completed
+39.0,London,Wimbledon,27-06-2016,Grand Slam,Outdoor,Grass,1st Round,5.0,Haase R.,Schwartzman D.,98.0,71.0,615.0,746.0,2.0,6.0,6.0,2.0,6.0,3.0,2.0,6.0,7.0,5.0,3.0,2.0,Completed
+39.0,London,Wimbledon,27-06-2016,Grand Slam,Outdoor,Grass,1st Round,5.0,Chardy J.,Monfils G.,34.0,16.0,1175.0,2110.0,6.0,7.0,6.0,0.0,4.0,6.0,6.0,1.0,6.0,2.0,3.0,2.0,Completed
+39.0,London,Wimbledon,27-06-2016,Grand Slam,Outdoor,Grass,1st Round,5.0,Kuznetsov An.,Cuevas P.,42.0,24.0,1013.0,1555.0,6.0,3.0,3.0,6.0,5.0,7.0,6.0,3.0,6.0,4.0,3.0,2.0,Completed
+39.0,London,Wimbledon,28-06-2016,Grand Slam,Outdoor,Grass,1st Round,5.0,Brown D.,Lajovic D.,85.0,82.0,673.0,691.0,4.0,6.0,6.0,3.0,3.0,6.0,6.0,3.0,6.0,4.0,3.0,2.0,Completed
+39.0,London,Wimbledon,28-06-2016,Grand Slam,Outdoor,Grass,1st Round,5.0,Paire B.,Skugor F.,23.0,194.0,1596.0,279.0,3.0,6.0,7.0,6.0,2.0,6.0,6.0,3.0,10.0,8.0,3.0,2.0,Completed
+39.0,London,Wimbledon,28-06-2016,Grand Slam,Outdoor,Grass,1st Round,5.0,Millman J.,Montanes A.,67.0,120.0,770.0,508.0,7.0,5.0,4.0,6.0,5.0,7.0,6.0,4.0,6.0,3.0,3.0,2.0,Completed
+39.0,London,Wimbledon,28-06-2016,Grand Slam,Outdoor,Grass,1st Round,5.0,Sousa J.,Tursunov D.,31.0,453.0,1275.0,85.0,3.0,6.0,7.0,6.0,4.0,6.0,6.0,3.0,7.0,5.0,3.0,2.0,Completed
+39.0,London,Wimbledon,28-06-2016,Grand Slam,Outdoor,Grass,1st Round,5.0,Muller G.,Giraldo S.,39.0,129.0,1090.0,464.0,4.0,6.0,6.0,7.0,7.0,6.0,6.0,3.0,15.0,13.0,3.0,2.0,Completed
+39.0,London,Wimbledon,29-06-2016,Grand Slam,Outdoor,Grass,1st Round,5.0,Tomic B.,Verdasco F.,19.0,53.0,1760.0,900.0,4.0,6.0,6.0,3.0,6.0,3.0,3.0,6.0,6.0,4.0,3.0,2.0,Completed
+39.0,London,Wimbledon,30-06-2016,Grand Slam,Outdoor,Grass,1st Round,5.0,Barton M.,Olivetti A.,248.0,793.0,212.0,24.0,6.0,7.0,7.0,6.0,6.0,3.0,6.0,7.0,14.0,12.0,3.0,2.0,Completed
+39.0,London,Wimbledon,30-06-2016,Grand Slam,Outdoor,Grass,1st Round,5.0,Fognini F.,Delbonis F.,35.0,38.0,1170.0,1105.0,6.0,4.0,1.0,6.0,6.0,7.0,6.0,2.0,6.0,3.0,3.0,2.0,Completed
+39.0,London,Wimbledon,30-06-2016,Grand Slam,Outdoor,Grass,2nd Round,5.0,Ramos-Vinolas A.,Troicki V.,36.0,27.0,1165.0,1405.0,3.0,6.0,6.0,3.0,6.0,3.0,2.0,6.0,6.0,3.0,3.0,2.0,Completed
+39.0,London,Wimbledon,01-07-2016,Grand Slam,Outdoor,Grass,2nd Round,5.0,Kyrgios N.,Brown D.,18.0,85.0,1855.0,673.0,6.0,7.0,6.0,1.0,2.0,6.0,6.0,4.0,6.0,4.0,3.0,2.0,Completed
+39.0,London,Wimbledon,01-07-2016,Grand Slam,Outdoor,Grass,2nd Round,5.0,Lopez F.,Fognini F.,21.0,35.0,1630.0,1170.0,3.0,6.0,6.0,7.0,6.0,3.0,6.0,3.0,6.0,3.0,3.0,2.0,Completed
+39.0,London,Wimbledon,02-07-2016,Grand Slam,Outdoor,Grass,2nd Round,5.0,Zverev A.,Youzhny M.,28.0,70.0,1385.0,753.0,6.0,4.0,3.0,6.0,6.0,0.0,4.0,6.0,6.0,2.0,3.0,2.0,Completed
+39.0,London,Wimbledon,03-07-2016,Grand Slam,Outdoor,Grass,3rd Round,5.0,Tsonga J.W.,Isner J.,12.0,17.0,2725.0,2055.0,6.0,7.0,3.0,6.0,7.0,6.0,6.0,2.0,19.0,17.0,3.0,2.0,Completed
+39.0,London,Wimbledon,04-07-2016,Grand Slam,Outdoor,Grass,4th Round,5.0,Raonic M.,Goffin D.,7.0,11.0,3175.0,2780.0,4.0,6.0,3.0,6.0,6.0,4.0,6.0,4.0,6.0,4.0,3.0,2.0,Completed
+39.0,London,Wimbledon,04-07-2016,Grand Slam,Outdoor,Grass,4th Round,5.0,Pouille L.,Tomic B.,30.0,19.0,1311.0,1760.0,6.0,4.0,4.0,6.0,3.0,6.0,6.0,4.0,10.0,8.0,3.0,2.0,Completed
+39.0,London,Wimbledon,05-07-2016,Grand Slam,Outdoor,Grass,4th Round,5.0,Berdych T.,Vesely J.,9.0,64.0,2950.0,780.0,4.0,6.0,6.0,3.0,7.0,6.0,6.0,7.0,6.0,3.0,3.0,2.0,Completed
+39.0,London,Wimbledon,06-07-2016,Grand Slam,Outdoor,Grass,Quarterfinals,5.0,Federer R.,Cilic M.,3.0,13.0,6425.0,2695.0,6.0,7.0,4.0,6.0,6.0,3.0,7.0,6.0,6.0,3.0,3.0,2.0,Completed
+39.0,London,Wimbledon,06-07-2016,Grand Slam,Outdoor,Grass,Quarterfinals,5.0,Murray A.,Tsonga J.W.,2.0,12.0,8915.0,2725.0,7.0,6.0,6.0,1.0,3.0,6.0,4.0,6.0,6.0,1.0,3.0,2.0,Completed
+39.0,London,Wimbledon,08-07-2016,Grand Slam,Outdoor,Grass,Semifinals,5.0,Raonic M.,Federer R.,7.0,3.0,3175.0,6425.0,6.0,3.0,6.0,7.0,4.0,6.0,7.0,5.0,6.0,3.0,3.0,2.0,Completed
+52.0,New York,US Open,29-08-2016,Grand Slam,Outdoor,Hard,1st Round,5.0,Darcis S.,Thompson J.,106.0,91.0,562.0,633.0,5.0,7.0,3.0,6.0,7.0,6.0,6.0,4.0,7.0,5.0,3.0,2.0,Completed
+52.0,New York,US Open,29-08-2016,Grand Slam,Outdoor,Hard,1st Round,5.0,Stakhovsky S.,Elias G.,92.0,60.0,631.0,806.0,6.0,1.0,3.0,6.0,2.0,6.0,6.0,3.0,7.0,6.0,3.0,2.0,Completed
+52.0,New York,US Open,29-08-2016,Grand Slam,Outdoor,Hard,1st Round,5.0,Ramos-Vinolas A.,Benneteau J.,33.0,248.0,1330.0,214.0,3.0,6.0,6.0,3.0,6.0,3.0,2.0,6.0,6.0,1.0,3.0,2.0,Completed
+52.0,New York,US Open,29-08-2016,Grand Slam,Outdoor,Hard,1st Round,5.0,Isner J.,Tiafoe F.,21.0,125.0,1645.0,484.0,3.0,6.0,4.0,6.0,7.0,6.0,6.0,2.0,7.0,6.0,3.0,2.0,Completed
+52.0,New York,US Open,29-08-2016,Grand Slam,Outdoor,Hard,1st Round,5.0,Delbonis F.,Baker B.,43.0,312.0,1015.0,157.0,3.0,6.0,6.0,7.0,6.0,4.0,6.0,2.0,6.0,2.0,3.0,2.0,Completed
+52.0,New York,US Open,29-08-2016,Grand Slam,Outdoor,Hard,1st Round,5.0,Satral J.,Mcdonald M.,226.0,406.0,237.0,107.0,4.0,6.0,3.0,6.0,6.0,3.0,6.0,2.0,6.0,2.0,3.0,2.0,Completed
+52.0,New York,US Open,29-08-2016,Grand Slam,Outdoor,Hard,1st Round,5.0,Paire B.,Lajovic D.,34.0,59.0,1305.0,806.0,6.0,2.0,2.0,6.0,3.0,6.0,7.0,5.0,6.0,1.0,3.0,2.0,Completed
+52.0,New York,US Open,29-08-2016,Grand Slam,Outdoor,Hard,1st Round,5.0,Cuevas P.,Sela D.,20.0,80.0,1745.0,691.0,6.0,3.0,6.0,2.0,0.0,6.0,5.0,7.0,6.0,3.0,3.0,2.0,Completed
+52.0,New York,US Open,29-08-2016,Grand Slam,Outdoor,Hard,1st Round,5.0,Sock J.,Fritz T.,27.0,53.0,1450.0,829.0,7.0,6.0,7.0,5.0,3.0,6.0,1.0,6.0,6.0,4.0,3.0,2.0,Completed
+52.0,New York,US Open,29-08-2016,Grand Slam,Outdoor,Hard,1st Round,5.0,Duckworth J.,Haase R.,195.0,62.0,289.0,798.0,4.0,6.0,7.0,5.0,6.0,3.0,4.0,6.0,6.0,3.0,3.0,2.0,Completed
+52.0,New York,US Open,29-08-2016,Grand Slam,Outdoor,Hard,1st Round,5.0,Vesely J.,Myneni S.,49.0,143.0,928.0,410.0,7.0,6.0,4.0,6.0,2.0,6.0,6.0,2.0,7.0,5.0,3.0,2.0,Completed
+52.0,New York,US Open,30-08-2016,Grand Slam,Outdoor,Hard,1st Round,5.0,Troicki V.,Albot R.,32.0,97.0,1340.0,608.0,5.0,7.0,3.0,6.0,6.0,4.0,6.0,4.0,7.0,6.0,3.0,2.0,Completed
+52.0,New York,US Open,30-08-2016,Grand Slam,Outdoor,Hard,1st Round,5.0,Giannessi A.,Kudla D.,243.0,128.0,217.0,464.0,0.0,6.0,6.0,4.0,6.0,1.0,1.0,6.0,6.0,0.0,3.0,2.0,Completed
+52.0,New York,US Open,30-08-2016,Grand Slam,Outdoor,Hard,1st Round,5.0,Fognini F.,Gabashvili T.,38.0,105.0,1155.0,571.0,6.0,7.0,3.0,6.0,7.0,6.0,7.0,5.0,6.0,4.0,3.0,2.0,Completed
+52.0,New York,US Open,30-08-2016,Grand Slam,Outdoor,Hard,1st Round,5.0,Karlovic I.,Lu Y.H.,23.0,73.0,1570.0,720.0,4.0,6.0,7.0,6.0,6.0,7.0,7.0,6.0,7.0,5.0,3.0,2.0,Completed
+52.0,New York,US Open,30-08-2016,Grand Slam,Outdoor,Hard,1st Round,5.0,Johnson S.,Donskoy E.,22.0,79.0,1635.0,691.0,4.0,6.0,1.0,6.0,7.0,6.0,6.0,3.0,6.0,3.0,3.0,2.0,Completed
+52.0,New York,US Open,30-08-2016,Grand Slam,Outdoor,Hard,1st Round,5.0,Thiem D.,Millman J.,10.0,66.0,3205.0,760.0,6.0,3.0,2.0,6.0,5.0,7.0,6.0,4.0,6.0,3.0,3.0,2.0,Completed
+52.0,New York,US Open,31-08-2016,Grand Slam,Outdoor,Hard,2nd Round,5.0,Pouille L.,Chiudinelli M.,25.0,144.0,1481.0,408.0,4.0,6.0,3.0,6.0,7.0,6.0,6.0,2.0,6.0,0.0,3.0,2.0,Completed
+52.0,New York,US Open,01-09-2016,Grand Slam,Outdoor,Hard,2nd Round,5.0,Carreno Busta P.,Tipsarevic J.,39.0,250.0,1110.0,208.0,3.0,6.0,4.0,6.0,6.0,1.0,6.0,4.0,6.0,4.0,3.0,2.0,Completed
+52.0,New York,US Open,01-09-2016,Grand Slam,Outdoor,Hard,2nd Round,5.0,Lorenzi P.,Simon G.,40.0,31.0,1110.0,1385.0,3.0,6.0,6.0,2.0,6.0,2.0,6.0,7.0,7.0,6.0,3.0,2.0,Completed
+52.0,New York,US Open,02-09-2016,Grand Slam,Outdoor,Hard,2nd Round,5.0,Dimitrov G.,Chardy J.,24.0,55.0,1555.0,825.0,4.0,6.0,6.0,4.0,3.0,6.0,6.0,4.0,6.0,2.0,3.0,2.0,Completed
+52.0,New York,US Open,02-09-2016,Grand Slam,Outdoor,Hard,2nd Round,5.0,Ferrer D.,Fognini F.,13.0,38.0,2660.0,1155.0,6.0,0.0,4.0,6.0,5.0,7.0,6.0,1.0,6.0,4.0,3.0,2.0,Completed
+52.0,New York,US Open,02-09-2016,Grand Slam,Outdoor,Hard,3rd Round,5.0,Pouille L.,Bautista Agut R.,25.0,17.0,1481.0,2040.0,3.0,6.0,7.0,5.0,2.0,6.0,7.0,5.0,6.0,1.0,3.0,2.0,Completed
+52.0,New York,US Open,03-09-2016,Grand Slam,Outdoor,Hard,3rd Round,5.0,Wawrinka S.,Evans D.,3.0,64.0,4980.0,775.0,4.0,6.0,6.0,3.0,6.0,7.0,7.0,6.0,6.0,2.0,3.0,2.0,Completed
+52.0,New York,US Open,04-09-2016,Grand Slam,Outdoor,Hard,4th Round,5.0,Pouille L.,Nadal R.,25.0,5.0,1481.0,4850.0,6.0,1.0,2.0,6.0,6.0,4.0,3.0,6.0,7.0,6.0,3.0,2.0,Completed
+52.0,New York,US Open,07-09-2016,Grand Slam,Outdoor,Hard,Quarterfinals,5.0,Nishikori K.,Murray A.,7.0,2.0,4165.0,9305.0,1.0,6.0,6.0,4.0,4.0,6.0,6.0,1.0,7.0,5.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,16-01-2017,Grand Slam,Outdoor,Hard,1st Round,5.0,De Minaur A.,Melzer G.,301.0,87.0,164.0,648.0,5.0,7.0,6.0,3.0,2.0,6.0,7.0,6.0,6.0,1.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,16-01-2017,Grand Slam,Outdoor,Hard,1st Round,5.0,Troicki V.,Dzumhur D.,35.0,78.0,1225.0,694.0,6.0,4.0,6.0,4.0,2.0,6.0,2.0,6.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,16-01-2017,Grand Slam,Outdoor,Hard,1st Round,5.0,Nishikori K.,Kuznetsov An.,5.0,45.0,5010.0,1015.0,5.0,7.0,6.0,1.0,6.0,4.0,6.0,7.0,6.0,2.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,16-01-2017,Grand Slam,Outdoor,Hard,1st Round,5.0,Cilic M.,Janowicz J.,7.0,273.0,3605.0,186.0,4.0,6.0,4.0,6.0,6.0,2.0,6.0,2.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,16-01-2017,Grand Slam,Outdoor,Hard,1st Round,5.0,Lacko L.,Ramos-Vinolas A.,121.0,26.0,486.0,1435.0,4.0,6.0,7.0,5.0,1.0,6.0,6.0,4.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,16-01-2017,Grand Slam,Outdoor,Hard,1st Round,5.0,Rubin N.,Fratangelo B.,200.0,113.0,274.0,519.0,6.0,7.0,7.0,5.0,3.0,6.0,6.0,2.0,6.0,2.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,16-01-2017,Grand Slam,Outdoor,Hard,1st Round,5.0,Wawrinka S.,Klizan M.,4.0,34.0,5155.0,1230.0,4.0,6.0,6.0,4.0,7.0,5.0,4.0,6.0,6.0,4.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,17-01-2017,Grand Slam,Outdoor,Hard,1st Round,5.0,Dutra Silva R.,Donaldson J.,439.0,101.0,92.0,596.0,3.0,6.0,0.0,6.0,6.0,1.0,6.0,4.0,6.0,4.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,17-01-2017,Grand Slam,Outdoor,Hard,1st Round,5.0,Zverev A.,Haase R.,24.0,57.0,1655.0,808.0,6.0,2.0,3.0,6.0,5.0,7.0,6.0,3.0,6.0,2.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,17-01-2017,Grand Slam,Outdoor,Hard,1st Round,5.0,Goffin D.,Opelka R.,11.0,208.0,2750.0,267.0,6.0,4.0,4.0,6.0,6.0,2.0,4.0,6.0,6.0,4.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,17-01-2017,Grand Slam,Outdoor,Hard,1st Round,5.0,Carreno Busta P.,Polansky P.,31.0,132.0,1370.0,454.0,6.0,0.0,3.0,6.0,3.0,6.0,6.0,2.0,3.0,0.0,2.0,2.0,Retired
+6.0,Melbourne,Australian Open,17-01-2017,Grand Slam,Outdoor,Hard,1st Round,5.0,Thompson J.,Sousa J.,76.0,37.0,699.0,1135.0,6.0,7.0,4.0,6.0,6.0,3.0,6.0,2.0,6.0,1.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,17-01-2017,Grand Slam,Outdoor,Hard,1st Round,5.0,Karlovic I.,Zeballos H.,21.0,68.0,1795.0,725.0,6.0,7.0,3.0,6.0,7.0,5.0,6.0,2.0,22.0,20.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,18-01-2017,Grand Slam,Outdoor,Hard,2nd Round,5.0,Zverev M.,Isner J.,50.0,19.0,894.0,1850.0,6.0,7.0,6.0,7.0,6.0,4.0,7.0,6.0,9.0,7.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,18-01-2017,Grand Slam,Outdoor,Hard,2nd Round,5.0,Troicki V.,Lorenzi P.,35.0,43.0,1225.0,1033.0,6.0,3.0,1.0,6.0,7.0,6.0,3.0,6.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,18-01-2017,Grand Slam,Outdoor,Hard,2nd Round,5.0,Seppi A.,Kyrgios N.,89.0,13.0,635.0,2460.0,1.0,6.0,6.0,7.0,6.0,4.0,6.0,2.0,10.0,8.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,19-01-2017,Grand Slam,Outdoor,Hard,2nd Round,5.0,Istomin D.,Djokovic N.,117.0,2.0,498.0,11780.0,7.0,6.0,5.0,7.0,2.0,6.0,7.0,6.0,6.0,4.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,19-01-2017,Grand Slam,Outdoor,Hard,2nd Round,5.0,Paire B.,Fognini F.,47.0,48.0,960.0,945.0,7.0,6.0,4.0,6.0,6.0,3.0,3.0,6.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,21-01-2017,Grand Slam,Outdoor,Hard,3rd Round,5.0,Istomin D.,Carreno Busta P.,117.0,31.0,498.0,1370.0,6.0,4.0,4.0,6.0,6.0,4.0,4.0,6.0,6.0,2.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,21-01-2017,Grand Slam,Outdoor,Hard,3rd Round,5.0,Nadal R.,Zverev A.,9.0,24.0,3195.0,1655.0,4.0,6.0,6.0,3.0,6.0,7.0,6.0,3.0,6.0,2.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,22-01-2017,Grand Slam,Outdoor,Hard,4th Round,5.0,Federer R.,Nishikori K.,17.0,5.0,1980.0,5010.0,6.0,7.0,6.0,4.0,6.0,1.0,4.0,6.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,26-01-2017,Grand Slam,Outdoor,Hard,Semifinals,5.0,Federer R.,Wawrinka S.,17.0,4.0,1980.0,5155.0,7.0,5.0,6.0,3.0,1.0,6.0,4.0,6.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,27-01-2017,Grand Slam,Outdoor,Hard,Semifinals,5.0,Nadal R.,Dimitrov G.,9.0,15.0,3195.0,2135.0,6.0,3.0,5.0,7.0,7.0,6.0,6.0,7.0,6.0,4.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,29-01-2017,Grand Slam,Outdoor,Hard,The Final,5.0,Federer R.,Nadal R.,17.0,9.0,1980.0,3195.0,6.0,4.0,3.0,6.0,6.0,1.0,3.0,6.0,6.0,3.0,3.0,2.0,Completed
+33.0,Paris,French Open,28-05-2017,Grand Slam,Outdoor,Clay,1st Round,5.0,Trungelliti M.,Halys Q.,162.0,126.0,348.0,453.0,3.0,6.0,6.0,7.0,7.0,6.0,6.0,4.0,6.0,4.0,3.0,2.0,Completed
+33.0,Paris,French Open,28-05-2017,Grand Slam,Outdoor,Clay,1st Round,5.0,Pouille L.,Benneteau J.,17.0,98.0,2320.0,554.0,7.0,6.0,3.0,6.0,4.0,6.0,6.0,3.0,6.0,4.0,3.0,2.0,Completed
+33.0,Paris,French Open,29-05-2017,Grand Slam,Outdoor,Clay,1st Round,5.0,Schwartzman D.,Rublev A.,41.0,118.0,1005.0,483.0,0.0,6.0,6.0,4.0,6.0,2.0,6.0,7.0,9.0,7.0,3.0,2.0,Completed
+33.0,Paris,French Open,29-05-2017,Grand Slam,Outdoor,Clay,1st Round,5.0,Johnson S.,Sugita Y.,26.0,78.0,1565.0,674.0,6.0,3.0,6.0,3.0,6.0,7.0,6.0,7.0,6.0,3.0,3.0,2.0,Completed
+33.0,Paris,French Open,29-05-2017,Grand Slam,Outdoor,Clay,1st Round,5.0,Dutra Silva R.,Youzhny M.,380.0,86.0,121.0,624.0,4.0,6.0,7.0,6.0,2.0,6.0,7.0,6.0,6.0,2.0,3.0,2.0,Completed
+33.0,Paris,French Open,29-05-2017,Grand Slam,Outdoor,Clay,1st Round,5.0,Ferrer D.,Young D.,33.0,51.0,1185.0,910.0,5.0,7.0,6.0,3.0,4.0,6.0,6.0,3.0,13.0,11.0,3.0,2.0,Completed
+33.0,Paris,French Open,29-05-2017,Grand Slam,Outdoor,Clay,1st Round,5.0,Estrella Burgos V.,Gabashvili T.,90.0,146.0,595.0,401.0,6.0,7.0,2.0,6.0,7.0,6.0,6.0,3.0,6.0,2.0,3.0,2.0,Completed
+33.0,Paris,French Open,29-05-2017,Grand Slam,Outdoor,Clay,1st Round,5.0,Fognini F.,Tiafoe F.,29.0,68.0,1350.0,769.0,6.0,4.0,6.0,3.0,3.0,6.0,1.0,6.0,6.0,0.0,3.0,2.0,Completed
+33.0,Paris,French Open,30-05-2017,Grand Slam,Outdoor,Clay,1st Round,5.0,Klizan M.,Lokoli L.,50.0,285.0,925.0,183.0,7.0,6.0,6.0,3.0,4.0,6.0,0.0,6.0,6.0,4.0,3.0,2.0,Completed
+33.0,Paris,French Open,30-05-2017,Grand Slam,Outdoor,Clay,1st Round,5.0,Monteiro T.,Muller A.,95.0,330.0,570.0,145.0,7.0,6.0,2.0,6.0,4.0,6.0,7.0,6.0,6.0,0.0,3.0,2.0,Completed
+33.0,Paris,French Open,01-06-2017,Grand Slam,Outdoor,Clay,2nd Round,5.0,Lopez F.,Ferrer D.,36.0,33.0,1115.0,1185.0,7.0,5.0,3.0,6.0,7.0,5.0,4.0,6.0,6.0,4.0,3.0,2.0,Completed
+33.0,Paris,French Open,01-06-2017,Grand Slam,Outdoor,Clay,2nd Round,5.0,Verdasco F.,Herbert P.H.,37.0,82.0,1085.0,662.0,6.0,3.0,3.0,6.0,4.0,6.0,6.0,3.0,6.0,3.0,3.0,2.0,Completed
+33.0,Paris,French Open,02-06-2017,Grand Slam,Outdoor,Clay,3rd Round,5.0,Djokovic N.,Schwartzman D.,2.0,41.0,7445.0,1005.0,5.0,7.0,6.0,3.0,3.0,6.0,6.0,1.0,6.0,1.0,3.0,2.0,Completed
+33.0,Paris,French Open,02-06-2017,Grand Slam,Outdoor,Clay,3rd Round,5.0,Ramos-Vinolas A.,Pouille L.,20.0,17.0,2065.0,2320.0,6.0,2.0,3.0,6.0,5.0,7.0,6.0,2.0,6.0,1.0,3.0,2.0,Completed
+33.0,Paris,French Open,03-06-2017,Grand Slam,Outdoor,Clay,3rd Round,5.0,Anderson K.,Edmund K.,56.0,49.0,845.0,933.0,6.0,7.0,7.0,6.0,5.0,7.0,6.0,1.0,6.0,4.0,3.0,2.0,Completed
+33.0,Paris,French Open,04-06-2017,Grand Slam,Outdoor,Clay,3rd Round,5.0,Nishikori K.,Chung H.,9.0,67.0,3650.0,781.0,7.0,5.0,6.0,4.0,6.0,7.0,0.0,6.0,6.0,4.0,3.0,2.0,Completed
+33.0,Paris,French Open,04-06-2017,Grand Slam,Outdoor,Clay,4th Round,5.0,Carreno Busta P.,Raonic M.,21.0,6.0,2045.0,4450.0,4.0,6.0,7.0,6.0,6.0,7.0,6.0,4.0,8.0,6.0,3.0,2.0,Completed
+33.0,Paris,French Open,09-06-2017,Grand Slam,Outdoor,Clay,Semifinals,5.0,Wawrinka S.,Murray A.,3.0,1.0,5695.0,10370.0,6.0,7.0,6.0,3.0,5.0,7.0,7.0,6.0,6.0,1.0,3.0,2.0,Completed
+40.0,London,Wimbledon,03-07-2017,Grand Slam,Outdoor,Grass,1st Round,5.0,Khachanov K.,Kuznetsov An.,34.0,76.0,1176.0,676.0,7.0,6.0,2.0,6.0,6.0,3.0,1.0,6.0,6.0,2.0,3.0,2.0,Completed
+40.0,London,Wimbledon,03-07-2017,Grand Slam,Outdoor,Grass,1st Round,5.0,Bedene A.,Karlovic I.,58.0,23.0,853.0,1835.0,6.0,7.0,7.0,6.0,6.0,7.0,7.0,6.0,8.0,6.0,3.0,2.0,Completed
+40.0,London,Wimbledon,03-07-2017,Grand Slam,Outdoor,Grass,1st Round,5.0,Vesely J.,Marchenko I.,48.0,117.0,950.0,472.0,6.0,1.0,4.0,6.0,4.0,6.0,7.0,5.0,6.0,1.0,3.0,2.0,Completed
+40.0,London,Wimbledon,04-07-2017,Grand Slam,Outdoor,Grass,1st Round,5.0,Darcis S.,Berankis R.,61.0,196.0,831.0,280.0,4.0,6.0,6.0,3.0,2.0,6.0,6.0,4.0,6.0,3.0,3.0,2.0,Completed
+40.0,London,Wimbledon,04-07-2017,Grand Slam,Outdoor,Grass,1st Round,5.0,Rublev A.,Travaglia S.,95.0,155.0,585.0,355.0,6.0,7.0,6.0,3.0,7.0,5.0,1.0,6.0,7.0,5.0,3.0,2.0,Completed
+40.0,London,Wimbledon,04-07-2017,Grand Slam,Outdoor,Grass,1st Round,5.0,Sela D.,Granollers M.,90.0,112.0,615.0,505.0,4.0,6.0,6.0,3.0,1.0,6.0,6.0,2.0,6.0,1.0,3.0,2.0,Completed
+40.0,London,Wimbledon,05-07-2017,Grand Slam,Outdoor,Grass,2nd Round,5.0,Muller G.,Rosol L.,26.0,214.0,1675.0,249.0,7.0,5.0,6.0,7.0,4.0,6.0,6.0,3.0,9.0,7.0,3.0,2.0,Completed
+40.0,London,Wimbledon,05-07-2017,Grand Slam,Outdoor,Grass,2nd Round,5.0,Bemelmans R.,Medvedev D.,124.0,49.0,457.0,922.0,6.0,4.0,6.0,2.0,3.0,6.0,2.0,6.0,6.0,3.0,3.0,2.0,Completed
+40.0,London,Wimbledon,06-07-2017,Grand Slam,Outdoor,Grass,2nd Round,5.0,Sela D.,Isner J.,90.0,21.0,615.0,1930.0,6.0,7.0,7.0,6.0,5.0,7.0,7.0,6.0,6.0,3.0,3.0,2.0,Completed
+40.0,London,Wimbledon,06-07-2017,Grand Slam,Outdoor,Grass,2nd Round,5.0,Zverev M.,Kukushkin M.,30.0,118.0,1396.0,465.0,6.0,1.0,6.0,2.0,2.0,6.0,3.0,6.0,6.0,4.0,3.0,2.0,Completed
+40.0,London,Wimbledon,06-07-2017,Grand Slam,Outdoor,Grass,2nd Round,5.0,Mannarino A.,Sugita Y.,51.0,44.0,896.0,967.0,6.0,1.0,5.0,7.0,4.0,6.0,7.0,6.0,6.0,2.0,3.0,2.0,Completed
+40.0,London,Wimbledon,06-07-2017,Grand Slam,Outdoor,Grass,2nd Round,5.0,Ramos-Vinolas A.,Rublev A.,22.0,95.0,1885.0,585.0,7.0,5.0,6.0,7.0,4.0,6.0,6.0,3.0,6.0,4.0,3.0,2.0,Completed
+40.0,London,Wimbledon,06-07-2017,Grand Slam,Outdoor,Grass,2nd Round,5.0,Ofner S.,Sock J.,216.0,18.0,248.0,2335.0,6.0,3.0,6.0,4.0,3.0,6.0,2.0,6.0,6.0,2.0,3.0,2.0,Completed
+40.0,London,Wimbledon,08-07-2017,Grand Slam,Outdoor,Grass,3rd Round,5.0,Mannarino A.,Monfils G.,51.0,14.0,896.0,2695.0,7.0,6.0,4.0,6.0,5.0,7.0,6.0,3.0,6.0,2.0,3.0,2.0,Completed
+40.0,London,Wimbledon,08-07-2017,Grand Slam,Outdoor,Grass,3rd Round,5.0,Querrey S.,Tsonga J.W.,28.0,10.0,1495.0,3075.0,6.0,2.0,3.0,6.0,7.0,6.0,1.0,6.0,7.0,5.0,3.0,2.0,Completed
+40.0,London,Wimbledon,10-07-2017,Grand Slam,Outdoor,Grass,4th Round,5.0,Querrey S.,Anderson K.,28.0,42.0,1495.0,970.0,5.0,7.0,7.0,6.0,6.0,3.0,6.0,7.0,6.0,3.0,3.0,2.0,Completed
+40.0,London,Wimbledon,10-07-2017,Grand Slam,Outdoor,Grass,4th Round,5.0,Berdych T.,Thiem D.,15.0,8.0,2570.0,3895.0,6.0,3.0,6.0,7.0,6.0,3.0,3.0,6.0,6.0,3.0,3.0,2.0,Completed
+40.0,London,Wimbledon,10-07-2017,Grand Slam,Outdoor,Grass,4th Round,5.0,Muller G.,Nadal R.,26.0,2.0,1675.0,7285.0,6.0,3.0,6.0,4.0,3.0,6.0,4.0,6.0,15.0,13.0,3.0,2.0,Completed
+40.0,London,Wimbledon,10-07-2017,Grand Slam,Outdoor,Grass,4th Round,5.0,Raonic M.,Zverev A.,7.0,12.0,4150.0,3070.0,4.0,6.0,7.0,5.0,4.0,6.0,7.0,5.0,6.0,1.0,3.0,2.0,Completed
+40.0,London,Wimbledon,12-07-2017,Grand Slam,Outdoor,Grass,Quarterfinals,5.0,Cilic M.,Muller G.,6.0,26.0,4235.0,1675.0,3.0,6.0,7.0,6.0,7.0,5.0,5.0,7.0,6.0,1.0,3.0,2.0,Completed
+40.0,London,Wimbledon,12-07-2017,Grand Slam,Outdoor,Grass,Quarterfinals,5.0,Querrey S.,Murray A.,28.0,1.0,1495.0,9390.0,3.0,6.0,6.0,4.0,6.0,7.0,6.0,1.0,6.0,1.0,3.0,2.0,Completed
+53.0,New York,US Open,28-08-2017,Grand Slam,Outdoor,Hard,1st Round,5.0,Ramos-Vinolas A.,Istomin D.,24.0,86.0,1815.0,634.0,4.0,6.0,7.0,6.0,7.0,5.0,6.0,7.0,7.0,5.0,3.0,2.0,Completed
+53.0,New York,US Open,28-08-2017,Grand Slam,Outdoor,Hard,1st Round,5.0,Zverev M.,Kwiatkowski T.S.,27.0,710.0,1484.0,32.0,7.0,6.0,4.0,6.0,4.0,6.0,7.0,5.0,6.0,3.0,3.0,2.0,Completed
+53.0,New York,US Open,28-08-2017,Grand Slam,Outdoor,Hard,1st Round,5.0,Tipsarevic J.,Kokkinakis T.,67.0,222.0,736.0,235.0,6.0,7.0,3.0,6.0,6.0,1.0,7.0,6.0,6.0,3.0,3.0,2.0,Completed
+53.0,New York,US Open,28-08-2017,Grand Slam,Outdoor,Hard,1st Round,5.0,Mahut N.,Fucsovics M.,115.0,117.0,491.0,483.0,6.0,3.0,2.0,6.0,6.0,4.0,2.0,6.0,7.0,6.0,3.0,2.0,Completed
+53.0,New York,US Open,28-08-2017,Grand Slam,Outdoor,Hard,1st Round,5.0,Thompson J.,Sock J.,73.0,16.0,691.0,2345.0,6.0,2.0,7.0,6.0,1.0,6.0,5.0,7.0,6.0,4.0,3.0,2.0,Completed
+53.0,New York,US Open,30-08-2017,Grand Slam,Outdoor,Hard,1st Round,5.0,Federer R.,Tiafoe F.,3.0,70.0,7145.0,705.0,4.0,6.0,6.0,2.0,6.0,1.0,1.0,6.0,6.0,4.0,3.0,2.0,Completed
+53.0,New York,US Open,30-08-2017,Grand Slam,Outdoor,Hard,1st Round,5.0,Daniel T.,Paul T.,121.0,159.0,465.0,364.0,6.0,1.0,4.0,6.0,4.0,6.0,6.0,2.0,6.0,2.0,3.0,2.0,Completed
+53.0,New York,US Open,30-08-2017,Grand Slam,Outdoor,Hard,1st Round,5.0,Dolgopolov O.,Struff J.L.,64.0,49.0,751.0,953.0,3.0,6.0,6.0,3.0,6.0,2.0,1.0,6.0,6.0,3.0,3.0,2.0,Completed
+53.0,New York,US Open,30-08-2017,Grand Slam,Outdoor,Hard,1st Round,5.0,Troicki V.,Gombos N.,52.0,84.0,920.0,639.0,3.0,6.0,6.0,3.0,3.0,6.0,6.0,4.0,6.0,3.0,3.0,2.0,Completed
+53.0,New York,US Open,30-08-2017,Grand Slam,Outdoor,Hard,1st Round,5.0,Jaziri M.,Monteiro T.,80.0,113.0,650.0,495.0,7.0,6.0,4.0,6.0,6.0,3.0,5.0,7.0,6.0,4.0,3.0,2.0,Completed
+53.0,New York,US Open,30-08-2017,Grand Slam,Outdoor,Hard,1st Round,5.0,Giraldo S.,Millot V.,129.0,164.0,441.0,349.0,6.0,1.0,6.0,0.0,4.0,6.0,4.0,6.0,6.0,4.0,3.0,2.0,Completed
+53.0,New York,US Open,30-08-2017,Grand Slam,Outdoor,Hard,2nd Round,5.0,Pouille L.,Donaldson J.,20.0,51.0,2210.0,928.0,7.0,5.0,6.0,4.0,4.0,6.0,3.0,6.0,6.0,4.0,3.0,2.0,Completed
+53.0,New York,US Open,30-08-2017,Grand Slam,Outdoor,Hard,2nd Round,5.0,Mahut N.,Ramos-Vinolas A.,115.0,24.0,491.0,1815.0,4.0,6.0,6.0,4.0,4.0,6.0,6.0,3.0,6.0,0.0,3.0,2.0,Completed
+53.0,New York,US Open,30-08-2017,Grand Slam,Outdoor,Hard,2nd Round,5.0,Zverev M.,Paire B.,27.0,41.0,1484.0,1085.0,6.0,3.0,6.0,2.0,3.0,6.0,6.0,7.0,7.0,5.0,3.0,2.0,Completed
+53.0,New York,US Open,31-08-2017,Grand Slam,Outdoor,Hard,2nd Round,5.0,Albot R.,Lu Y.H.,138.0,63.0,405.0,761.0,6.0,2.0,7.0,6.0,5.0,7.0,0.0,6.0,7.0,6.0,3.0,2.0,Completed
+53.0,New York,US Open,31-08-2017,Grand Slam,Outdoor,Hard,2nd Round,5.0,Fabbiano T.,Thompson J.,82.0,73.0,646.0,691.0,2.0,6.0,6.0,2.0,3.0,6.0,6.0,4.0,6.0,2.0,3.0,2.0,Completed
+53.0,New York,US Open,31-08-2017,Grand Slam,Outdoor,Hard,2nd Round,5.0,Goffin D.,Pella G.,14.0,72.0,2525.0,692.0,3.0,6.0,7.0,6.0,6.0,7.0,7.0,6.0,6.0,3.0,3.0,2.0,Completed
+53.0,New York,US Open,31-08-2017,Grand Slam,Outdoor,Hard,2nd Round,5.0,Federer R.,Youzhny M.,3.0,101.0,7145.0,541.0,6.0,1.0,6.0,7.0,4.0,6.0,6.0,4.0,6.0,2.0,3.0,2.0,Completed
+53.0,New York,US Open,31-08-2017,Grand Slam,Outdoor,Hard,2nd Round,5.0,Monfils G.,Young D.,22.0,57.0,1915.0,830.0,6.0,3.0,6.0,7.0,6.0,4.0,2.0,6.0,7.0,5.0,3.0,2.0,Completed
+53.0,New York,US Open,04-09-2017,Grand Slam,Outdoor,Hard,4th Round,5.0,Del Potro J.M.,Thiem D.,28.0,8.0,1460.0,4030.0,1.0,6.0,2.0,6.0,6.0,1.0,7.0,6.0,6.0,4.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,15-01-2018,Grand Slam,Outdoor,Hard,1st Round,5.0,Harrison R.,Sela D.,45.0,95.0,1115.0,585.0,6.0,3.0,5.0,7.0,3.0,6.0,7.0,5.0,6.0,2.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,15-01-2018,Grand Slam,Outdoor,Hard,1st Round,5.0,Edmund K.,Anderson K.,49.0,12.0,992.0,2610.0,6.0,7.0,6.0,3.0,3.0,6.0,6.0,3.0,6.0,4.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,15-01-2018,Grand Slam,Outdoor,Hard,1st Round,5.0,Rublev A.,Ferrer D.,32.0,33.0,1373.0,1360.0,7.0,5.0,6.0,7.0,6.0,2.0,6.0,7.0,6.0,2.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,15-01-2018,Grand Slam,Outdoor,Hard,1st Round,5.0,Nishioka Y.,Kohlschreiber P.,168.0,29.0,318.0,1415.0,6.0,3.0,2.0,6.0,6.0,0.0,1.0,6.0,6.0,2.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,15-01-2018,Grand Slam,Outdoor,Hard,1st Round,5.0,Troicki V.,Bolt A.,65.0,188.0,800.0,274.0,6.0,7.0,4.0,6.0,6.0,2.0,6.0,3.0,6.0,4.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,15-01-2018,Grand Slam,Outdoor,Hard,1st Round,5.0,Schwartzman D.,Lajovic D.,26.0,75.0,1675.0,687.0,2.0,6.0,6.0,3.0,5.0,7.0,6.0,4.0,11.0,9.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,15-01-2018,Grand Slam,Outdoor,Hard,1st Round,5.0,Dzumhur D.,Lorenzi P.,30.0,44.0,1391.0,1120.0,3.0,6.0,2.0,6.0,7.0,6.0,6.0,2.0,6.0,4.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,15-01-2018,Grand Slam,Outdoor,Hard,1st Round,5.0,Ruud C.,Halys Q.,138.0,134.0,422.0,436.0,6.0,3.0,3.0,6.0,6.0,7.0,7.0,5.0,11.0,9.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,15-01-2018,Grand Slam,Outdoor,Hard,1st Round,5.0,Jaziri M.,Caruso S.,100.0,210.0,560.0,254.0,6.0,7.0,3.0,6.0,6.0,3.0,7.0,5.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,15-01-2018,Grand Slam,Outdoor,Hard,1st Round,5.0,Sousa J.,Brown D.,70.0,129.0,720.0,442.0,6.0,4.0,6.0,3.0,4.0,6.0,6.0,7.0,6.0,1.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,16-01-2018,Grand Slam,Outdoor,Hard,1st Round,5.0,Kicker N.,Thompson J.,93.0,99.0,590.0,564.0,6.0,3.0,6.0,1.0,4.0,6.0,3.0,6.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,17-01-2018,Grand Slam,Outdoor,Hard,2nd Round,5.0,Muller G.,Jaziri M.,28.0,100.0,1490.0,560.0,7.0,5.0,6.0,4.0,6.0,7.0,3.0,6.0,6.0,2.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,17-01-2018,Grand Slam,Outdoor,Hard,2nd Round,5.0,Tsonga J.W.,Shapovalov D.,15.0,50.0,2320.0,986.0,3.0,6.0,6.0,3.0,1.0,6.0,7.0,6.0,7.0,5.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,17-01-2018,Grand Slam,Outdoor,Hard,2nd Round,5.0,Karlovic I.,Sugita Y.,89.0,41.0,615.0,1200.0,7.0,6.0,6.0,7.0,7.0,5.0,4.0,6.0,12.0,10.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,17-01-2018,Grand Slam,Outdoor,Hard,2nd Round,5.0,Dimitrov G.,Mcdonald M.,3.0,186.0,4990.0,277.0,4.0,6.0,6.0,2.0,6.0,4.0,0.0,6.0,8.0,6.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,18-01-2018,Grand Slam,Outdoor,Hard,2nd Round,5.0,Thiem D.,Kudla D.,5.0,190.0,4060.0,272.0,6.0,7.0,3.0,6.0,6.0,3.0,6.0,2.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,18-01-2018,Grand Slam,Outdoor,Hard,2nd Round,5.0,Marterer M.,Verdasco F.,94.0,40.0,587.0,1225.0,6.0,4.0,4.0,6.0,7.0,6.0,3.0,6.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,19-01-2018,Grand Slam,Outdoor,Hard,3rd Round,5.0,Edmund K.,Basilashvili N.,49.0,61.0,992.0,836.0,7.0,6.0,3.0,6.0,4.0,6.0,6.0,0.0,7.0,5.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,19-01-2018,Grand Slam,Outdoor,Hard,3rd Round,5.0,Seppi A.,Karlovic I.,76.0,89.0,686.0,615.0,6.0,3.0,7.0,6.0,6.0,7.0,6.0,7.0,9.0,7.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,20-01-2018,Grand Slam,Outdoor,Hard,3rd Round,5.0,Fognini F.,Benneteau J.,25.0,59.0,1715.0,855.0,3.0,6.0,6.0,2.0,6.0,1.0,4.0,6.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,20-01-2018,Grand Slam,Outdoor,Hard,3rd Round,5.0,Chung H.,Zverev A.,58.0,4.0,857.0,4610.0,5.0,7.0,7.0,6.0,2.0,6.0,6.0,3.0,6.0,0.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,22-01-2018,Grand Slam,Outdoor,Hard,4th Round,5.0,Sandgren T.,Thiem D.,97.0,5.0,583.0,4060.0,6.0,2.0,4.0,6.0,7.0,6.0,6.0,7.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,23-01-2018,Grand Slam,Outdoor,Hard,Quarterfinals,5.0,Cilic M.,Nadal R.,6.0,1.0,3805.0,10600.0,3.0,6.0,6.0,3.0,6.0,7.0,6.0,2.0,2.0,0.0,2.0,2.0,Retired
+6.0,Melbourne,Australian Open,28-01-2018,Grand Slam,Outdoor,Hard,The Final,5.0,Federer R.,Cilic M.,2.0,6.0,9605.0,3805.0,6.0,2.0,6.0,7.0,6.0,3.0,3.0,6.0,6.0,1.0,3.0,2.0,Completed
+33.0,Paris,French Open,27-05-2018,Grand Slam,Outdoor,Clay,1st Round,5.0,Albot R.,Barrere G.,97.0,197.0,634.0,303.0,4.0,6.0,0.0,6.0,7.0,5.0,6.0,1.0,6.0,2.0,3.0,2.0,Completed
+33.0,Paris,French Open,27-05-2018,Grand Slam,Outdoor,Clay,1st Round,5.0,Donaldson J.,Jarry N.,57.0,61.0,910.0,888.0,6.0,3.0,4.0,6.0,3.0,6.0,6.0,3.0,6.0,4.0,3.0,2.0,Completed
+33.0,Paris,French Open,27-05-2018,Grand Slam,Outdoor,Clay,1st Round,5.0,Verdasco F.,Nishioka Y.,35.0,266.0,1280.0,207.0,6.0,7.0,6.0,4.0,6.0,3.0,6.0,7.0,7.0,5.0,3.0,2.0,Completed
+33.0,Paris,French Open,27-05-2018,Grand Slam,Outdoor,Clay,1st Round,5.0,Andreozzi G.,Fritz T.,108.0,68.0,506.0,849.0,6.0,7.0,6.0,3.0,3.0,6.0,6.0,2.0,6.0,3.0,3.0,2.0,Completed
+33.0,Paris,French Open,27-05-2018,Grand Slam,Outdoor,Clay,1st Round,5.0,Goffin D.,Haase R.,9.0,44.0,3020.0,1155.0,4.0,6.0,4.0,6.0,6.0,4.0,6.0,1.0,6.0,0.0,3.0,2.0,Completed
+33.0,Paris,French Open,28-05-2018,Grand Slam,Outdoor,Clay,1st Round,5.0,Cecchinato M.,Copil M.,72.0,94.0,806.0,662.0,2.0,6.0,6.0,7.0,7.0,5.0,6.0,2.0,10.0,8.0,3.0,2.0,Completed
+33.0,Paris,French Open,28-05-2018,Grand Slam,Outdoor,Clay,1st Round,5.0,Garcia-Lopez G.,Wawrinka S.,67.0,30.0,850.0,1400.0,6.0,2.0,3.0,6.0,4.0,6.0,7.0,6.0,6.0,3.0,3.0,2.0,Completed
+33.0,Paris,French Open,28-05-2018,Grand Slam,Outdoor,Clay,1st Round,5.0,Bautista Agut R.,Istomin D.,13.0,100.0,2120.0,602.0,6.0,2.0,6.0,7.0,1.0,6.0,6.0,4.0,6.0,4.0,3.0,2.0,Completed
+33.0,Paris,French Open,28-05-2018,Grand Slam,Outdoor,Clay,1st Round,5.0,Munar J.,Ferrer D.,155.0,41.0,356.0,1190.0,3.0,6.0,3.0,6.0,7.0,6.0,7.0,6.0,7.0,5.0,3.0,2.0,Completed
+33.0,Paris,French Open,28-05-2018,Grand Slam,Outdoor,Clay,1st Round,5.0,Ruud C.,Thompson J.,157.0,91.0,350.0,669.0,6.0,1.0,6.0,4.0,2.0,6.0,4.0,6.0,6.0,3.0,3.0,2.0,Completed
+33.0,Paris,French Open,28-05-2018,Grand Slam,Outdoor,Clay,1st Round,5.0,Jaziri M.,Youzhny M.,63.0,98.0,872.0,616.0,2.0,6.0,6.0,2.0,6.0,2.0,3.0,6.0,6.0,2.0,3.0,2.0,Completed
+33.0,Paris,French Open,29-05-2018,Grand Slam,Outdoor,Clay,1st Round,5.0,Fabbiano T.,Ebden M.,115.0,73.0,466.0,794.0,6.0,4.0,5.0,7.0,6.0,2.0,3.0,6.0,6.0,2.0,3.0,2.0,Completed
+33.0,Paris,French Open,29-05-2018,Grand Slam,Outdoor,Clay,1st Round,5.0,Zopp J.,Sock J.,136.0,14.0,418.0,2110.0,6.0,7.0,6.0,2.0,4.0,6.0,7.0,6.0,6.0,3.0,3.0,2.0,Completed
+33.0,Paris,French Open,30-05-2018,Grand Slam,Outdoor,Clay,1st Round,5.0,Chardy J.,Berdych T.,86.0,20.0,680.0,1750.0,7.0,6.0,7.0,6.0,1.0,6.0,5.0,7.0,6.0,2.0,3.0,2.0,Completed
+33.0,Paris,French Open,30-05-2018,Grand Slam,Outdoor,Clay,2nd Round,5.0,Dzumhur D.,Albot R.,29.0,97.0,1415.0,634.0,6.0,3.0,6.0,3.0,5.0,7.0,1.0,6.0,7.0,5.0,3.0,2.0,Completed
+33.0,Paris,French Open,30-05-2018,Grand Slam,Outdoor,Clay,2nd Round,5.0,Dimitrov G.,Donaldson J.,5.0,57.0,4870.0,910.0,6.0,7.0,6.0,4.0,4.0,6.0,6.0,4.0,10.0,8.0,3.0,2.0,Completed
+33.0,Paris,French Open,30-05-2018,Grand Slam,Outdoor,Clay,2nd Round,5.0,Zverev A.,Lajovic D.,3.0,60.0,5615.0,894.0,2.0,6.0,7.0,5.0,4.0,6.0,6.0,1.0,6.0,2.0,3.0,2.0,Completed
+33.0,Paris,French Open,30-05-2018,Grand Slam,Outdoor,Clay,2nd Round,5.0,Nishikori K.,Paire B.,21.0,51.0,1710.0,1020.0,6.0,3.0,2.0,6.0,4.0,6.0,6.0,2.0,6.0,3.0,3.0,2.0,Completed
+33.0,Paris,French Open,31-05-2018,Grand Slam,Outdoor,Clay,2nd Round,5.0,Zopp J.,Bemelmans R.,136.0,110.0,418.0,490.0,4.0,6.0,4.0,6.0,6.0,3.0,6.0,4.0,6.0,4.0,3.0,2.0,Completed
+33.0,Paris,French Open,31-05-2018,Grand Slam,Outdoor,Clay,2nd Round,5.0,Herbert P.H.,Chardy J.,87.0,86.0,680.0,680.0,2.0,6.0,6.0,3.0,6.0,2.0,3.0,6.0,9.0,7.0,3.0,2.0,Completed
+33.0,Paris,French Open,01-06-2018,Grand Slam,Outdoor,Clay,3rd Round,5.0,Zverev A.,Dzumhur D.,3.0,29.0,5615.0,1415.0,6.0,2.0,3.0,6.0,4.0,6.0,7.0,6.0,7.0,5.0,3.0,2.0,Completed
+33.0,Paris,French Open,02-06-2018,Grand Slam,Outdoor,Clay,3rd Round,5.0,Fognini F.,Edmund K.,18.0,17.0,1940.0,1950.0,6.0,3.0,4.0,6.0,3.0,6.0,6.0,4.0,6.0,4.0,3.0,2.0,Completed
+33.0,Paris,French Open,02-06-2018,Grand Slam,Outdoor,Clay,3rd Round,5.0,Goffin D.,Monfils G.,9.0,37.0,3020.0,1220.0,6.0,7.0,6.0,3.0,4.0,6.0,7.0,5.0,6.0,3.0,3.0,2.0,Completed
+33.0,Paris,French Open,03-06-2018,Grand Slam,Outdoor,Clay,4th Round,5.0,Zverev A.,Khachanov K.,3.0,38.0,5615.0,1220.0,4.0,6.0,7.0,6.0,2.0,6.0,6.0,3.0,6.0,3.0,3.0,2.0,Completed
+33.0,Paris,French Open,04-06-2018,Grand Slam,Outdoor,Clay,4th Round,5.0,Schwartzman D.,Anderson K.,12.0,7.0,2165.0,3635.0,1.0,6.0,2.0,6.0,7.0,5.0,7.0,6.0,6.0,2.0,3.0,2.0,Completed
+33.0,Paris,French Open,04-06-2018,Grand Slam,Outdoor,Clay,4th Round,5.0,Cilic M.,Fognini F.,4.0,18.0,4950.0,1940.0,6.0,4.0,6.0,1.0,3.0,6.0,6.0,7.0,6.0,3.0,3.0,2.0,Completed
+40.0,London,Wimbledon,02-07-2018,Grand Slam,Outdoor,Grass,1st Round,5.0,Struff J.L.,Mayer L.,64.0,36.0,865.0,1235.0,3.0,6.0,6.0,7.0,7.0,6.0,7.0,6.0,6.0,1.0,3.0,2.0,Completed
+40.0,London,Wimbledon,02-07-2018,Grand Slam,Outdoor,Grass,1st Round,5.0,Muller G.,Mmoh M.,60.0,119.0,915.0,459.0,7.0,5.0,4.0,6.0,7.0,6.0,3.0,6.0,6.0,1.0,3.0,2.0,Completed
+40.0,London,Wimbledon,02-07-2018,Grand Slam,Outdoor,Grass,1st Round,5.0,Stakhovsky S.,Sousa J.,109.0,45.0,513.0,1045.0,6.0,3.0,6.0,3.0,5.0,7.0,1.0,6.0,6.0,4.0,3.0,2.0,Completed
+40.0,London,Wimbledon,02-07-2018,Grand Slam,Outdoor,Grass,1st Round,5.0,Bemelmans R.,Johnson S.,104.0,42.0,545.0,1085.0,7.0,5.0,6.0,3.0,4.0,6.0,6.0,7.0,8.0,6.0,3.0,2.0,Completed
+40.0,London,Wimbledon,03-07-2018,Grand Slam,Outdoor,Grass,1st Round,5.0,Gulbis E.,Clarke J.,138.0,218.0,402.0,265.0,4.0,6.0,6.0,3.0,7.0,6.0,3.0,6.0,6.0,4.0,3.0,2.0,Completed
+40.0,London,Wimbledon,03-07-2018,Grand Slam,Outdoor,Grass,1st Round,5.0,Albot R.,Carreno Busta P.,98.0,12.0,586.0,2145.0,3.0,6.0,6.0,0.0,6.0,7.0,6.0,2.0,6.0,1.0,3.0,2.0,Completed
+40.0,London,Wimbledon,03-07-2018,Grand Slam,Outdoor,Grass,1st Round,5.0,Berrettini M.,Sock J.,81.0,15.0,721.0,2110.0,6.0,7.0,6.0,7.0,6.0,4.0,7.0,5.0,6.0,2.0,3.0,2.0,Completed
+40.0,London,Wimbledon,04-07-2018,Grand Slam,Outdoor,Grass,2nd Round,5.0,Novak D.,Pouille L.,171.0,19.0,338.0,1835.0,6.0,4.0,6.0,2.0,6.0,7.0,3.0,6.0,6.0,2.0,3.0,2.0,Completed
+40.0,London,Wimbledon,04-07-2018,Grand Slam,Outdoor,Grass,2nd Round,5.0,Albot R.,Bedene A.,98.0,71.0,586.0,770.0,6.0,2.0,4.0,6.0,7.0,6.0,5.0,7.0,6.0,3.0,3.0,2.0,Completed
+40.0,London,Wimbledon,04-07-2018,Grand Slam,Outdoor,Grass,2nd Round,5.0,Mcdonald M.,Jarry N.,103.0,66.0,554.0,859.0,7.0,6.0,5.0,7.0,3.0,6.0,6.0,2.0,11.0,9.0,3.0,2.0,Completed
+40.0,London,Wimbledon,04-07-2018,Grand Slam,Outdoor,Grass,2nd Round,5.0,Struff J.L.,Karlovic I.,64.0,112.0,865.0,480.0,6.0,7.0,3.0,6.0,7.0,6.0,7.0,6.0,13.0,11.0,3.0,2.0,Completed
+40.0,London,Wimbledon,05-07-2018,Grand Slam,Outdoor,Grass,2nd Round,5.0,Pella G.,Cilic M.,82.0,5.0,710.0,5060.0,3.0,6.0,1.0,6.0,6.0,4.0,7.0,6.0,7.0,5.0,3.0,2.0,Completed
+40.0,London,Wimbledon,05-07-2018,Grand Slam,Outdoor,Grass,2nd Round,5.0,Tsitsipas S.,Donaldson J.,35.0,54.0,1254.0,945.0,6.0,3.0,6.0,2.0,3.0,6.0,4.0,6.0,6.0,3.0,3.0,2.0,Completed
+40.0,London,Wimbledon,05-07-2018,Grand Slam,Outdoor,Grass,2nd Round,5.0,Isner J.,Bemelmans R.,10.0,104.0,3045.0,545.0,6.0,1.0,6.0,4.0,6.0,7.0,6.0,7.0,7.0,5.0,3.0,2.0,Completed
+40.0,London,Wimbledon,05-07-2018,Grand Slam,Outdoor,Grass,2nd Round,5.0,Khachanov K.,Baghdatis M.,40.0,95.0,1130.0,599.0,6.0,3.0,6.0,4.0,3.0,6.0,6.0,7.0,7.0,5.0,3.0,2.0,Completed
+40.0,London,Wimbledon,05-07-2018,Grand Slam,Outdoor,Grass,2nd Round,5.0,Gulbis E.,Dzumhur D.,138.0,23.0,402.0,1665.0,2.0,6.0,6.0,4.0,6.0,3.0,1.0,6.0,6.0,3.0,3.0,2.0,Completed
+40.0,London,Wimbledon,06-07-2018,Grand Slam,Outdoor,Grass,2nd Round,5.0,Zverev A.,Fritz T.,3.0,68.0,5755.0,839.0,6.0,4.0,5.0,7.0,6.0,7.0,6.0,1.0,6.0,2.0,3.0,2.0,Completed
+40.0,London,Wimbledon,06-07-2018,Grand Slam,Outdoor,Grass,3rd Round,5.0,Mannarino A.,Medvedev D.,26.0,67.0,1580.0,847.0,6.0,4.0,6.0,3.0,4.0,6.0,5.0,7.0,6.0,3.0,3.0,2.0,Completed
+40.0,London,Wimbledon,07-07-2018,Grand Slam,Outdoor,Grass,3rd Round,5.0,Gulbis E.,Zverev A.,138.0,3.0,402.0,5755.0,7.0,6.0,4.0,6.0,5.0,7.0,6.0,3.0,6.0,0.0,3.0,2.0,Completed
+40.0,London,Wimbledon,07-07-2018,Grand Slam,Outdoor,Grass,3rd Round,5.0,Khachanov K.,Tiafoe F.,40.0,52.0,1130.0,985.0,4.0,6.0,4.0,6.0,7.0,6.0,6.0,2.0,6.0,1.0,3.0,2.0,Completed
+40.0,London,Wimbledon,11-07-2018,Grand Slam,Outdoor,Grass,Quarterfinals,5.0,Anderson K.,Federer R.,8.0,2.0,3635.0,8720.0,2.0,6.0,6.0,7.0,7.0,5.0,6.0,4.0,13.0,11.0,3.0,2.0,Completed
+40.0,London,Wimbledon,11-07-2018,Grand Slam,Outdoor,Grass,Quarterfinals,5.0,Nadal R.,Del Potro J.M.,1.0,4.0,8770.0,5080.0,7.0,5.0,6.0,7.0,4.0,6.0,6.0,4.0,6.0,4.0,3.0,2.0,Completed
+40.0,London,Wimbledon,13-07-2018,Grand Slam,Outdoor,Grass,Semifinals,5.0,Anderson K.,Isner J.,8.0,10.0,3635.0,3045.0,7.0,6.0,6.0,7.0,6.0,7.0,6.0,4.0,26.0,24.0,3.0,2.0,Completed
+40.0,London,Wimbledon,14-07-2018,Grand Slam,Outdoor,Grass,Semifinals,5.0,Djokovic N.,Nadal R.,21.0,1.0,1715.0,8770.0,6.0,4.0,3.0,6.0,7.0,6.0,3.0,6.0,10.0,8.0,3.0,2.0,Completed
+53.0,New York,US Open,27-08-2018,Grand Slam,Outdoor,Hard,1st Round,5.0,Sonego L.,Muller G.,121.0,127.0,460.0,448.0,7.0,6.0,6.0,7.0,5.0,7.0,7.0,6.0,6.0,2.0,3.0,2.0,Completed
+53.0,New York,US Open,27-08-2018,Grand Slam,Outdoor,Hard,1st Round,5.0,Basilashvili N.,Bedene A.,37.0,78.0,1152.0,725.0,6.0,2.0,4.0,6.0,6.0,2.0,2.0,6.0,6.0,4.0,3.0,2.0,Completed
+53.0,New York,US Open,27-08-2018,Grand Slam,Outdoor,Hard,1st Round,5.0,Fritz T.,Zverev M.,74.0,48.0,780.0,1030.0,4.0,6.0,2.0,6.0,6.0,4.0,7.0,6.0,6.0,2.0,3.0,2.0,Completed
+53.0,New York,US Open,27-08-2018,Grand Slam,Outdoor,Hard,1st Round,5.0,Anderson K.,Harrison R.,5.0,53.0,4615.0,980.0,7.0,6.0,5.0,7.0,4.0,6.0,6.0,3.0,6.0,4.0,3.0,2.0,Completed
+53.0,New York,US Open,28-08-2018,Grand Slam,Outdoor,Hard,1st Round,5.0,Munar J.,Bemelmans R.,85.0,128.0,670.0,445.0,5.0,7.0,6.0,3.0,7.0,6.0,2.0,6.0,6.0,1.0,3.0,2.0,Completed
+53.0,New York,US Open,28-08-2018,Grand Slam,Outdoor,Hard,1st Round,5.0,Haase R.,Mcdonald M.,49.0,79.0,1010.0,719.0,4.0,6.0,4.0,6.0,6.0,3.0,6.0,1.0,6.0,3.0,3.0,2.0,Completed
+53.0,New York,US Open,28-08-2018,Grand Slam,Outdoor,Hard,1st Round,5.0,Ebden M.,Krajinovic F.,54.0,33.0,969.0,1314.0,7.0,6.0,6.0,7.0,4.0,6.0,6.0,1.0,4.0,1.0,2.0,2.0,Retired
+53.0,New York,US Open,29-08-2018,Grand Slam,Outdoor,Hard,2nd Round,5.0,Thiem D.,Johnson S.,9.0,31.0,3485.0,1340.0,6.0,7.0,6.0,3.0,5.0,7.0,6.0,4.0,6.0,1.0,3.0,2.0,Completed
+53.0,New York,US Open,29-08-2018,Grand Slam,Outdoor,Hard,2nd Round,5.0,Isner J.,Jarry N.,11.0,42.0,3200.0,1063.0,6.0,7.0,6.0,4.0,3.0,6.0,7.0,6.0,6.0,4.0,3.0,2.0,Completed
+53.0,New York,US Open,29-08-2018,Grand Slam,Outdoor,Hard,2nd Round,5.0,Shapovalov D.,Seppi A.,28.0,51.0,1385.0,986.0,6.0,4.0,4.0,6.0,5.0,7.0,7.0,6.0,6.0,4.0,3.0,2.0,Completed
+53.0,New York,US Open,30-08-2018,Grand Slam,Outdoor,Hard,2nd Round,5.0,Sousa J.,Carreno Busta P.,68.0,12.0,816.0,2425.0,4.0,6.0,6.0,3.0,5.0,7.0,6.0,2.0,2.0,0.0,2.0,2.0,Retired
+53.0,New York,US Open,30-08-2018,Grand Slam,Outdoor,Hard,2nd Round,5.0,Struff J.L.,Benneteau J.,58.0,60.0,905.0,891.0,6.0,2.0,4.0,6.0,6.0,1.0,3.0,6.0,6.0,3.0,3.0,2.0,Completed
+53.0,New York,US Open,31-08-2018,Grand Slam,Outdoor,Hard,3rd Round,5.0,Anderson K.,Shapovalov D.,5.0,28.0,4615.0,1385.0,4.0,6.0,6.0,3.0,6.0,4.0,4.0,6.0,6.0,4.0,3.0,2.0,Completed
+53.0,New York,US Open,02-09-2018,Grand Slam,Outdoor,Hard,3rd Round,5.0,Cilic M.,De Minaur A.,7.0,45.0,4445.0,1043.0,4.0,6.0,3.0,6.0,6.0,3.0,6.0,4.0,7.0,5.0,3.0,2.0,Completed
+53.0,New York,US Open,02-09-2018,Grand Slam,Outdoor,Hard,4th Round,5.0,Isner J.,Raonic M.,11.0,24.0,3200.0,1575.0,3.0,6.0,6.0,3.0,6.0,4.0,3.0,6.0,6.0,2.0,3.0,2.0,Completed
+53.0,New York,US Open,05-09-2018,Grand Slam,Outdoor,Hard,Quarterfinals,5.0,Nadal R.,Thiem D.,1.0,9.0,10040.0,3485.0,0.0,6.0,6.0,4.0,7.0,5.0,6.0,7.0,7.0,6.0,3.0,2.0,Completed
+53.0,New York,US Open,05-09-2018,Grand Slam,Outdoor,Hard,Quarterfinals,5.0,Nishikori K.,Cilic M.,19.0,7.0,1755.0,4445.0,2.0,6.0,6.0,4.0,7.0,6.0,4.0,6.0,6.0,4.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,14-01-2019,Grand Slam,Outdoor,Hard,1st Round,5.0,Kudla D.,Polmans M.,62.0,169.0,818.0,317.0,5.0,7.0,1.0,6.0,6.0,2.0,6.0,3.0,6.0,2.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,14-01-2019,Grand Slam,Outdoor,Hard,1st Round,5.0,Troicki V.,Carballes Baena R.,200.0,75.0,252.0,714.0,6.0,1.0,1.0,6.0,2.0,6.0,6.0,1.0,6.0,4.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,14-01-2019,Grand Slam,Outdoor,Hard,1st Round,5.0,Bautista Agut R.,Murray A.,24.0,229.0,1605.0,220.0,6.0,4.0,6.0,4.0,6.0,7.0,6.0,7.0,6.0,2.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,15-01-2019,Grand Slam,Outdoor,Hard,1st Round,5.0,Nishikori K.,Majchrzak K.,9.0,176.0,3750.0,291.0,3.0,6.0,6.0,7.0,6.0,0.0,6.0,2.0,3.0,0.0,2.0,2.0,Retired
+6.0,Melbourne,Australian Open,15-01-2019,Grand Slam,Outdoor,Hard,1st Round,5.0,Chung H.,Klahn B.,25.0,78.0,1585.0,704.0,6.0,7.0,6.0,7.0,6.0,3.0,6.0,2.0,6.0,4.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,15-01-2019,Grand Slam,Outdoor,Hard,1st Round,5.0,Sousa J.,Pella G.,44.0,65.0,1017.0,790.0,7.0,6.0,4.0,6.0,7.0,6.0,4.0,6.0,6.0,2.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,15-01-2019,Grand Slam,Outdoor,Hard,1st Round,5.0,Carreno Busta P.,Vanni L.,23.0,163.0,1705.0,325.0,6.0,7.0,2.0,6.0,6.0,3.0,7.0,5.0,6.0,4.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,15-01-2019,Grand Slam,Outdoor,Hard,1st Round,5.0,Chardy J.,Humbert U.,36.0,95.0,1120.0,613.0,3.0,6.0,7.0,6.0,6.0,4.0,6.0,7.0,7.0,6.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,15-01-2019,Grand Slam,Outdoor,Hard,1st Round,5.0,Krajinovic F.,Cecchinato M.,93.0,18.0,620.0,1889.0,4.0,6.0,0.0,6.0,6.0,1.0,7.0,6.0,6.0,4.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,15-01-2019,Grand Slam,Outdoor,Hard,1st Round,5.0,Thiem D.,Paire B.,8.0,61.0,4095.0,820.0,6.0,4.0,6.0,3.0,5.0,7.0,1.0,6.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,16-01-2019,Grand Slam,Outdoor,Hard,2nd Round,5.0,Schwartzman D.,Kudla D.,16.0,62.0,1925.0,818.0,6.0,4.0,7.0,5.0,3.0,6.0,6.0,7.0,6.0,4.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,16-01-2019,Grand Slam,Outdoor,Hard,2nd Round,5.0,Basilashvili N.,Travaglia S.,20.0,137.0,1820.0,401.0,3.0,6.0,6.0,3.0,3.0,6.0,6.0,4.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,16-01-2019,Grand Slam,Outdoor,Hard,2nd Round,5.0,Fabbiano T.,Opelka R.,102.0,97.0,573.0,593.0,6.0,7.0,6.0,2.0,6.0,4.0,3.0,6.0,7.0,6.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,16-01-2019,Grand Slam,Outdoor,Hard,2nd Round,5.0,Bautista Agut R.,Millman J.,24.0,37.0,1605.0,1108.0,6.0,3.0,6.0,1.0,3.0,6.0,6.0,7.0,6.0,4.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,16-01-2019,Grand Slam,Outdoor,Hard,2nd Round,5.0,De Minaur A.,Laaksonen H.,29.0,166.0,1353.0,319.0,6.0,4.0,6.0,2.0,6.0,7.0,4.0,6.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,17-01-2019,Grand Slam,Outdoor,Hard,2nd Round,5.0,Nishikori K.,Karlovic I.,9.0,73.0,3750.0,739.0,6.0,3.0,7.0,6.0,5.0,7.0,5.0,7.0,7.0,6.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,17-01-2019,Grand Slam,Outdoor,Hard,2nd Round,5.0,Sousa J.,Kohlschreiber P.,44.0,32.0,1017.0,1215.0,7.0,5.0,4.0,6.0,7.0,6.0,5.0,7.0,6.0,4.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,17-01-2019,Grand Slam,Outdoor,Hard,2nd Round,5.0,Bolt A.,Simon G.,155.0,30.0,343.0,1280.0,2.0,6.0,6.0,4.0,4.0,6.0,7.0,6.0,6.0,4.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,17-01-2019,Grand Slam,Outdoor,Hard,2nd Round,5.0,Zverev A.,Chardy J.,4.0,36.0,6385.0,1120.0,7.0,6.0,6.0,4.0,5.0,7.0,6.0,7.0,6.0,1.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,18-01-2019,Grand Slam,Outdoor,Hard,3rd Round,5.0,Tiafoe F.,Seppi A.,39.0,35.0,1080.0,1170.0,6.0,7.0,6.0,3.0,4.0,6.0,6.0,4.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,18-01-2019,Grand Slam,Outdoor,Hard,3rd Round,5.0,Cilic M.,Verdasco F.,7.0,28.0,4160.0,1410.0,4.0,6.0,3.0,6.0,6.0,1.0,7.0,6.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,19-01-2019,Grand Slam,Outdoor,Hard,3rd Round,5.0,Pouille L.,Popyrin A.,31.0,149.0,1245.0,360.0,7.0,6.0,6.0,3.0,6.0,7.0,4.0,6.0,6.0,3.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,20-01-2019,Grand Slam,Outdoor,Hard,4th Round,5.0,Bautista Agut R.,Cilic M.,24.0,7.0,1605.0,4160.0,6.0,7.0,6.0,3.0,6.0,2.0,4.0,6.0,6.0,4.0,3.0,2.0,Completed
+6.0,Melbourne,Australian Open,21-01-2019,Grand Slam,Outdoor,Hard,4th Round,5.0,Nishikori K.,Carreno Busta P.,9.0,23.0,3750.0,1705.0,6.0,7.0,4.0,6.0,7.0,6.0,6.0,4.0,7.0,6.0,3.0,2.0,Completed
+32.0,Paris,French Open,26-05-2019,Grand Slam,Outdoor,Clay,1st Round,5.0,Dimitrov G.,Tipsarevic J.,46.0,303.0,997.0,115.0,6.0,3.0,6.0,0.0,3.0,6.0,6.0,7.0,6.0,4.0,3.0,2.0,Completed
+32.0,Paris,French Open,26-05-2019,Grand Slam,Outdoor,Clay,1st Round,5.0,Mahut N.,Cecchinato M.,252.0,19.0,182.0,1840.0,2.0,6.0,6.0,7.0,6.0,4.0,6.0,2.0,6.0,4.0,3.0,2.0,Completed
+32.0,Paris,French Open,26-05-2019,Grand Slam,Outdoor,Clay,1st Round,5.0,Schwartzman D.,Fucsovics M.,20.0,50.0,1755.0,965.0,6.0,3.0,3.0,6.0,7.0,6.0,2.0,6.0,6.0,2.0,3.0,2.0,Completed
+32.0,Paris,French Open,27-05-2019,Grand Slam,Outdoor,Clay,1st Round,5.0,Kecmanovic M.,Kudla D.,85.0,81.0,656.0,675.0,6.0,0.0,6.0,7.0,5.0,7.0,6.0,3.0,6.0,4.0,3.0,2.0,Completed
+32.0,Paris,French Open,27-05-2019,Grand Slam,Outdoor,Clay,1st Round,5.0,Herbert P.H.,Medvedev D.,43.0,14.0,1053.0,2625.0,4.0,6.0,4.0,6.0,6.0,3.0,6.0,2.0,7.0,5.0,3.0,2.0,Completed
+32.0,Paris,French Open,27-05-2019,Grand Slam,Outdoor,Clay,1st Round,5.0,Krajinovic F.,Tiafoe F.,60.0,34.0,838.0,1230.0,6.0,2.0,4.0,6.0,6.0,3.0,3.0,6.0,6.0,0.0,3.0,2.0,Completed
+32.0,Paris,French Open,27-05-2019,Grand Slam,Outdoor,Clay,1st Round,5.0,Harris L.,Rosol L.,90.0,149.0,617.0,385.0,6.0,1.0,4.0,6.0,2.0,6.0,6.0,1.0,6.0,2.0,3.0,2.0,Completed
+32.0,Paris,French Open,28-05-2019,Grand Slam,Outdoor,Clay,1st Round,5.0,Zverev A.,Millman J.,5.0,56.0,4360.0,875.0,7.0,6.0,6.0,3.0,2.0,6.0,6.0,7.0,6.0,3.0,3.0,2.0,Completed
+32.0,Paris,French Open,28-05-2019,Grand Slam,Outdoor,Clay,1st Round,5.0,Nishioka Y.,Mcdonald M.,72.0,66.0,741.0,796.0,6.0,7.0,6.0,0.0,4.0,6.0,6.0,2.0,6.0,3.0,3.0,2.0,Completed
+32.0,Paris,French Open,28-05-2019,Grand Slam,Outdoor,Clay,1st Round,5.0,Edmund K.,Chardy J.,30.0,41.0,1325.0,1065.0,7.0,6.0,5.0,7.0,6.0,4.0,4.0,6.0,7.0,5.0,3.0,2.0,Completed
+32.0,Paris,French Open,28-05-2019,Grand Slam,Outdoor,Clay,1st Round,5.0,Klizan M.,Kukushkin M.,55.0,51.0,883.0,955.0,3.0,6.0,5.0,7.0,6.0,4.0,6.0,2.0,6.0,3.0,3.0,2.0,Completed
+32.0,Paris,French Open,28-05-2019,Grand Slam,Outdoor,Clay,1st Round,5.0,Mannarino A.,Travaglia S.,48.0,119.0,976.0,483.0,6.0,7.0,6.0,3.0,3.0,6.0,6.0,2.0,6.0,2.0,3.0,2.0,Completed
+32.0,Paris,French Open,29-05-2019,Grand Slam,Outdoor,Clay,2nd Round,5.0,Krajinovic F.,Carballes Baena R.,60.0,76.0,838.0,707.0,6.0,4.0,6.0,4.0,6.0,7.0,3.0,6.0,8.0,6.0,3.0,2.0,Completed
+32.0,Paris,French Open,29-05-2019,Grand Slam,Outdoor,Clay,2nd Round,5.0,Dimitrov G.,Cilic M.,46.0,13.0,997.0,2710.0,6.0,7.0,6.0,4.0,4.0,6.0,7.0,6.0,6.0,3.0,3.0,2.0,Completed
+32.0,Paris,French Open,29-05-2019,Grand Slam,Outdoor,Clay,2nd Round,5.0,Paire B.,Herbert P.H.,38.0,43.0,1168.0,1053.0,6.0,2.0,6.0,2.0,5.0,7.0,6.0,7.0,11.0,9.0,3.0,2.0,Completed
+32.0,Paris,French Open,30-05-2019,Grand Slam,Outdoor,Clay,2nd Round,5.0,Del Potro J.M.,Nishioka Y.,9.0,72.0,3235.0,741.0,5.0,7.0,6.0,4.0,6.0,2.0,6.0,7.0,6.0,2.0,3.0,2.0,Completed
+32.0,Paris,French Open,31-05-2019,Grand Slam,Outdoor,Clay,2nd Round,5.0,Klizan M.,Pouille L.,55.0,26.0,883.0,1385.0,7.0,6.0,2.0,6.0,6.0,3.0,3.0,6.0,9.0,7.0,3.0,2.0,Completed
+32.0,Paris,French Open,31-05-2019,Grand Slam,Outdoor,Clay,3rd Round,5.0,Nishikori K.,Djere L.,7.0,32.0,3860.0,1314.0,6.0,4.0,6.0,7.0,6.0,3.0,4.0,6.0,8.0,6.0,3.0,2.0,Completed
+32.0,Paris,French Open,31-05-2019,Grand Slam,Outdoor,Clay,3rd Round,5.0,Londero J.I.,Moutet C.,78.0,110.0,695.0,515.0,2.0,6.0,6.0,3.0,6.0,4.0,5.0,7.0,6.0,4.0,3.0,2.0,Completed
+32.0,Paris,French Open,01-06-2019,Grand Slam,Outdoor,Clay,3rd Round,5.0,Zverev A.,Lajovic D.,5.0,35.0,4360.0,1226.0,6.0,4.0,6.0,2.0,4.0,6.0,1.0,6.0,6.0,2.0,3.0,2.0,Completed
+32.0,Paris,French Open,01-06-2019,Grand Slam,Outdoor,Clay,3rd Round,5.0,Struff J.L.,Coric B.,45.0,15.0,1035.0,2525.0,4.0,6.0,6.0,1.0,4.0,6.0,7.0,6.0,11.0,9.0,3.0,2.0,Completed
+32.0,Paris,French Open,02-06-2019,Grand Slam,Outdoor,Clay,4th Round,5.0,Wawrinka S.,Tsitsipas S.,28.0,6.0,1365.0,4080.0,7.0,6.0,5.0,7.0,6.0,4.0,3.0,6.0,8.0,6.0,3.0,2.0,Completed
+32.0,Paris,French Open,03-06-2019,Grand Slam,Outdoor,Clay,4th Round,5.0,Nishikori K.,Paire B.,7.0,38.0,3860.0,1168.0,6.0,2.0,6.0,7.0,6.0,2.0,6.0,7.0,7.0,5.0,3.0,2.0,Completed
+32.0,Paris,French Open,08-06-2019,Grand Slam,Outdoor,Clay,Semifinals,5.0,Thiem D.,Djokovic N.,4.0,1.0,4685.0,12355.0,6.0,2.0,3.0,6.0,7.0,5.0,5.0,7.0,7.0,5.0,3.0,2.0,Completed
+39.0,London,Wimbledon,01-07-2019,Grand Slam,Outdoor,Grass,1st Round,5.0,Tipsarevic J.,Nishioka Y.,288.0,68.0,125.0,776.0,6.0,4.0,6.0,7.0,6.0,2.0,5.0,7.0,6.0,2.0,3.0,2.0,Completed
+39.0,London,Wimbledon,01-07-2019,Grand Slam,Outdoor,Grass,1st Round,5.0,Fabbiano T.,Tsitsipas S.,89.0,6.0,639.0,4215.0,6.0,4.0,3.0,6.0,6.0,4.0,6.0,7.0,6.0,3.0,3.0,2.0,Completed
+39.0,London,Wimbledon,01-07-2019,Grand Slam,Outdoor,Grass,1st Round,5.0,Cuevas P.,Dzumhur D.,45.0,91.0,1003.0,628.0,4.0,6.0,7.0,6.0,2.0,6.0,6.0,4.0,6.0,2.0,3.0,2.0,Completed
+39.0,London,Wimbledon,01-07-2019,Grand Slam,Outdoor,Grass,1st Round,5.0,Humbert U.,Monfils G.,66.0,15.0,822.0,1985.0,6.0,7.0,3.0,6.0,6.0,4.0,7.0,5.0,3.0,0.0,2.0,2.0,Retired
+39.0,London,Wimbledon,01-07-2019,Grand Slam,Outdoor,Grass,1st Round,5.0,Moutet C.,Dimitrov G.,84.0,49.0,660.0,952.0,2.0,6.0,3.0,6.0,7.0,6.0,6.0,3.0,6.0,1.0,3.0,2.0,Completed
+39.0,London,Wimbledon,02-07-2019,Grand Slam,Outdoor,Grass,1st Round,5.0,Basilashvili N.,Ward J.,16.0,195.0,1960.0,267.0,2.0,6.0,4.0,6.0,6.0,4.0,6.0,4.0,8.0,6.0,3.0,2.0,Completed
+39.0,London,Wimbledon,02-07-2019,Grand Slam,Outdoor,Grass,1st Round,5.0,Kyrgios N.,Thompson J.,43.0,44.0,1045.0,1037.0,7.0,6.0,3.0,6.0,7.0,6.0,0.0,6.0,6.0,1.0,3.0,2.0,Completed
+39.0,London,Wimbledon,02-07-2019,Grand Slam,Outdoor,Grass,1st Round,5.0,Fognini F.,Tiafoe F.,10.0,38.0,2785.0,1160.0,5.0,7.0,6.0,4.0,6.0,3.0,4.0,6.0,6.0,4.0,3.0,2.0,Completed
+39.0,London,Wimbledon,03-07-2019,Grand Slam,Outdoor,Grass,2nd Round,5.0,Opelka R.,Wawrinka S.,63.0,19.0,855.0,1715.0,7.0,5.0,3.0,6.0,4.0,6.0,6.0,4.0,8.0,6.0,3.0,2.0,Completed
+39.0,London,Wimbledon,03-07-2019,Grand Slam,Outdoor,Grass,2nd Round,5.0,Fabbiano T.,Karlovic I.,89.0,80.0,639.0,679.0,6.0,3.0,6.0,7.0,6.0,3.0,6.0,7.0,6.0,4.0,3.0,2.0,Completed
+39.0,London,Wimbledon,03-07-2019,Grand Slam,Outdoor,Grass,2nd Round,5.0,Verdasco F.,Edmund K.,37.0,30.0,1235.0,1325.0,4.0,6.0,4.0,6.0,7.0,6.0,6.0,3.0,6.0,4.0,3.0,2.0,Completed
+39.0,London,Wimbledon,03-07-2019,Grand Slam,Outdoor,Grass,2nd Round,5.0,Pella G.,Seppi A.,26.0,73.0,1430.0,745.0,6.0,4.0,4.0,6.0,4.0,6.0,7.0,5.0,6.0,1.0,3.0,2.0,Completed
+39.0,London,Wimbledon,04-07-2019,Grand Slam,Outdoor,Grass,2nd Round,5.0,Johnson S.,De Minaur A.,71.0,29.0,750.0,1330.0,3.0,6.0,7.0,6.0,6.0,3.0,3.0,6.0,6.0,3.0,3.0,2.0,Completed
+39.0,London,Wimbledon,04-07-2019,Grand Slam,Outdoor,Grass,2nd Round,5.0,Kukushkin M.,Isner J.,58.0,12.0,885.0,2715.0,6.0,4.0,6.0,7.0,4.0,6.0,6.0,1.0,6.0,4.0,3.0,2.0,Completed
+39.0,London,Wimbledon,04-07-2019,Grand Slam,Outdoor,Grass,2nd Round,5.0,Sandgren T.,Simon G.,94.0,25.0,611.0,1445.0,6.0,2.0,6.0,3.0,4.0,6.0,3.0,6.0,8.0,6.0,3.0,2.0,Completed
+39.0,London,Wimbledon,04-07-2019,Grand Slam,Outdoor,Grass,2nd Round,5.0,Fognini F.,Fucsovics M.,10.0,51.0,2785.0,930.0,6.0,7.0,6.0,4.0,7.0,6.0,2.0,6.0,6.0,3.0,3.0,2.0,Completed
+39.0,London,Wimbledon,05-07-2019,Grand Slam,Outdoor,Grass,3rd Round,5.0,Goffin D.,Medvedev D.,23.0,13.0,1510.0,2625.0,4.0,6.0,6.0,2.0,3.0,6.0,6.0,3.0,7.0,5.0,3.0,2.0,Completed
+39.0,London,Wimbledon,06-07-2019,Grand Slam,Outdoor,Grass,3rd Round,5.0,Berrettini M.,Schwartzman D.,20.0,24.0,1665.0,1485.0,6.0,7.0,7.0,6.0,4.0,6.0,7.0,6.0,6.0,3.0,3.0,2.0,Completed
+39.0,London,Wimbledon,06-07-2019,Grand Slam,Outdoor,Grass,3rd Round,3.0,Sousa J.,Evans D.,69.0,61.0,770.0,860.0,4.0,6.0,6.0,4.0,7.0,5.0,4.0,6.0,6.0,4.0,3.0,2.0,Completed
+39.0,London,Wimbledon,08-07-2019,Grand Slam,Outdoor,Grass,4th Round,5.0,Pella G.,Raonic M.,26.0,17.0,1430.0,1945.0,3.0,6.0,4.0,6.0,6.0,3.0,7.0,6.0,8.0,6.0,3.0,2.0,Completed
+39.0,London,Wimbledon,14-07-2019,Grand Slam,Outdoor,Grass,The Final,5.0,Djokovic N.,Federer R.,1.0,3.0,12415.0,6620.0,7.0,6.0,1.0,6.0,7.0,6.0,4.0,6.0,13.0,12.0,3.0,2.0,Completed
+52.0,New York,US Open,26-08-2019,Grand Slam,Outdoor,Hard,1st Round,5.0,Garin C.,Eubanks C.,32.0,188.0,1321.0,265.0,3.0,6.0,7.0,6.0,6.0,4.0,6.0,7.0,6.0,3.0,3.0,2.0,Completed
+52.0,New York,US Open,26-08-2019,Grand Slam,Outdoor,Hard,1st Round,5.0,Basilashvili N.,Fucsovics M.,18.0,64.0,1985.0,885.0,3.0,6.0,6.0,4.0,6.0,2.0,3.0,6.0,6.0,3.0,3.0,2.0,Completed
+52.0,New York,US Open,26-08-2019,Grand Slam,Outdoor,Hard,1st Round,5.0,Lorenzi P.,Svajda Z.,135.0,1415.0,396.0,3.0,3.0,6.0,6.0,7.0,6.0,4.0,7.0,6.0,6.0,2.0,3.0,2.0,Completed
+52.0,New York,US Open,26-08-2019,Grand Slam,Outdoor,Hard,1st Round,5.0,Barrere G.,Norrie C.,109.0,62.0,496.0,915.0,7.0,6.0,6.0,4.0,4.0,6.0,6.0,7.0,7.0,6.0,3.0,2.0,Completed
+52.0,New York,US Open,26-08-2019,Grand Slam,Outdoor,Hard,1st Round,5.0,Chardy J.,Hurkacz H.,74.0,35.0,815.0,1308.0,3.0,6.0,6.0,3.0,6.0,7.0,6.0,1.0,6.0,4.0,3.0,2.0,Completed
+52.0,New York,US Open,26-08-2019,Grand Slam,Outdoor,Hard,1st Round,5.0,Majchrzak K.,Jarry N.,94.0,73.0,557.0,820.0,6.0,7.0,7.0,6.0,7.0,6.0,1.0,6.0,6.0,4.0,3.0,2.0,Completed
+52.0,New York,US Open,27-08-2019,Grand Slam,Outdoor,Hard,1st Round,5.0,Berankis R.,Vesely J.,68.0,140.0,857.0,385.0,4.0,6.0,7.0,6.0,3.0,6.0,7.0,6.0,6.0,4.0,3.0,2.0,Completed
+52.0,New York,US Open,27-08-2019,Grand Slam,Outdoor,Hard,1st Round,5.0,Kukushkin M.,Bautista Agut R.,47.0,10.0,1041.0,2575.0,3.0,6.0,6.0,1.0,6.0,4.0,3.0,6.0,6.0,3.0,3.0,2.0,Completed
+52.0,New York,US Open,27-08-2019,Grand Slam,Outdoor,Hard,1st Round,5.0,Bublik A.,Giraldo S.,75.0,232.0,808.0,200.0,2.0,6.0,6.0,0.0,7.0,5.0,3.0,6.0,6.0,4.0,3.0,2.0,Completed
+52.0,New York,US Open,27-08-2019,Grand Slam,Outdoor,Hard,1st Round,5.0,Andujar P.,Edmund K.,70.0,31.0,850.0,1325.0,3.0,6.0,7.0,6.0,7.0,5.0,5.0,7.0,6.0,2.0,3.0,2.0,Completed
+52.0,New York,US Open,27-08-2019,Grand Slam,Outdoor,Hard,1st Round,5.0,Zverev A.,Albot R.,6.0,41.0,4005.0,1137.0,6.0,1.0,6.0,3.0,3.0,6.0,4.0,6.0,6.0,2.0,3.0,2.0,Completed
+52.0,New York,US Open,27-08-2019,Grand Slam,Outdoor,Hard,1st Round,5.0,Sandgren T.,Tsonga J.W.,72.0,65.0,826.0,885.0,1.0,6.0,6.0,7.0,6.0,4.0,7.0,6.0,7.0,5.0,3.0,2.0,Completed
+52.0,New York,US Open,27-08-2019,Grand Slam,Outdoor,Hard,1st Round,5.0,Chung H.,Escobedo E.,170.0,206.0,313.0,237.0,3.0,6.0,6.0,4.0,6.0,7.0,6.0,4.0,6.0,2.0,3.0,2.0,Completed
+52.0,New York,US Open,27-08-2019,Grand Slam,Outdoor,Hard,1st Round,5.0,Copil M.,Humbert U.,93.0,63.0,562.0,909.0,6.0,3.0,5.0,7.0,7.0,6.0,4.0,6.0,6.0,1.0,3.0,2.0,Completed
+52.0,New York,US Open,27-08-2019,Grand Slam,Outdoor,Hard,1st Round,5.0,Pospisil V.,Khachanov K.,216.0,9.0,214.0,2890.0,4.0,6.0,7.0,5.0,7.0,5.0,4.0,6.0,6.0,3.0,3.0,2.0,Completed
+52.0,New York,US Open,27-08-2019,Grand Slam,Outdoor,Hard,1st Round,5.0,Hoang A.,Mayer L.,104.0,95.0,524.0,555.0,3.0,6.0,6.0,2.0,6.0,7.0,6.0,1.0,6.0,3.0,3.0,2.0,Completed
+52.0,New York,US Open,28-08-2019,Grand Slam,Outdoor,Hard,1st Round,5.0,Laaksonen H.,Cecchinato M.,119.0,66.0,462.0,880.0,7.0,6.0,7.0,6.0,2.0,6.0,3.0,6.0,7.0,6.0,3.0,2.0,Completed
+52.0,New York,US Open,29-08-2019,Grand Slam,Outdoor,Hard,2nd Round,5.0,Majchrzak K.,Cuevas P.,94.0,53.0,557.0,1013.0,6.0,7.0,6.0,4.0,2.0,6.0,6.0,4.0,6.0,1.0,3.0,2.0,Completed
+52.0,New York,US Open,29-08-2019,Grand Slam,Outdoor,Hard,2nd Round,5.0,Zverev A.,Tiafoe F.,6.0,45.0,4005.0,1060.0,6.0,3.0,3.0,6.0,6.0,2.0,2.0,6.0,6.0,3.0,3.0,2.0,Completed
+52.0,New York,US Open,29-08-2019,Grand Slam,Outdoor,Hard,2nd Round,5.0,Lorenzi P.,Kecmanovic M.,135.0,50.0,396.0,1026.0,7.0,6.0,6.0,7.0,7.0,6.0,3.0,6.0,6.0,3.0,3.0,2.0,Completed
+52.0,New York,US Open,29-08-2019,Grand Slam,Outdoor,Hard,2nd Round,5.0,Bedene A.,Paire B.,80.0,26.0,685.0,1508.0,4.0,6.0,6.0,7.0,6.0,2.0,7.0,5.0,7.0,6.0,3.0,2.0,Completed
+52.0,New York,US Open,29-08-2019,Grand Slam,Outdoor,Hard,2nd Round,5.0,Bublik A.,Fabbiano T.,75.0,87.0,808.0,610.0,6.0,7.0,5.0,7.0,6.0,4.0,6.0,3.0,6.0,3.0,3.0,2.0,Completed
+52.0,New York,US Open,30-08-2019,Grand Slam,Outdoor,Hard,2nd Round,5.0,Chung H.,Verdasco F.,170.0,34.0,313.0,1310.0,1.0,6.0,2.0,6.0,7.0,5.0,6.0,3.0,7.0,6.0,3.0,2.0,Completed
+52.0,New York,US Open,01-09-2019,Grand Slam,Outdoor,Hard,3rd Round,5.0,Monfils G.,Shapovalov D.,13.0,33.0,2140.0,1310.0,6.0,7.0,7.0,6.0,6.0,4.0,6.0,7.0,6.0,3.0,3.0,2.0,Completed
+52.0,New York,US Open,04-09-2019,Grand Slam,Outdoor,Hard,Quarterfinals,5.0,Dimitrov G.,Federer R.,78.0,3.0,722.0,6950.0,3.0,6.0,6.0,4.0,3.0,6.0,6.0,4.0,6.0,2.0,3.0,2.0,Completed
+52.0,New York,US Open,04-09-2019,Grand Slam,Outdoor,Hard,Quarterfinals,5.0,Berrettini M.,Monfils G.,25.0,13.0,1535.0,2140.0,3.0,6.0,6.0,3.0,6.0,2.0,3.0,6.0,7.0,6.0,3.0,2.0,Completed
+52.0,New York,US Open,08-09-2019,Grand Slam,Outdoor,Hard,The Final,5.0,Nadal R.,Medvedev D.,2.0,5.0,7945.0,4125.0,7.0,5.0,6.0,3.0,5.0,7.0,4.0,6.0,6.0,4.0,3.0,2.0,Sched

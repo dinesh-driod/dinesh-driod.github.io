@@ -1,0 +1,383 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment
+1,Brisbane,Brisbane International,11-01-2009,ATP250,Outdoor,Hard,The Final,3,Stepanek R.,Verdasco F.,26,15,2260,2830,3,6,6,3,6,4,,,,,2,1,Completed
+2,Chennai,Chennai Open,11-01-2009,ATP250,Outdoor,Hard,The Final,3,Cilic M.,Schuettler R.,27,33,2250,1864,6,4,7,6,,,,,,,2,0,Completed
+3,Doha,Qatar Exxon Mobil Open,10-01-2009,ATP250,Outdoor,Hard,The Final,3,Murray A.,Roddick A.,4,8,7050,3940,6,4,6,2,,,,,,,2,0,Completed
+4,Auckland,Heineken Open,17-01-2009,ATP250,Outdoor,Hard,The Final,3,Del Potro J.M.,Querrey S.,9,36,3890,1740,6,4,6,4,,,,,,,2,0,Completed
+5,Sydney,Medibank International,17-01-2009,ATP250,Outdoor,Hard,The Final,3,Nalbandian D.,Nieminen J.,11,40,3450,1600,6,3,6,7,6,2,,,,,2,1,Completed
+7,Johannesburg ,SA Tennis Open,08-02-2009,ATP250,Outdoor,Hard,The Final,3,Tsonga J.W.,Chardy J.,14,61,2955,1208,6,4,7,6,,,,,,,2,0,Completed
+11,Rotterdam,ABN AMRO World Tennis Tournament,15-02-2009,ATP500,Indoor,Hard,The Final,3,Murray A.,Nadal R.,4,1,7360,14260,6,3,4,6,6,0,,,,,2,1,Completed
+12,San Jose,SAP Open,16-02-2009,ATP250,Indoor,Hard,The Final,3,Stepanek R.,Fish M.,21,24,2440,2270,3,6,6,4,6,2,,,,,2,1,Completed
+14,Marseille,Open 13,22-02-2009,ATP250,Indoor,Hard,The Final,3,Tsonga J.W.,Llodra M.,12,50,3200,1365,7,5,7,6,,,,,,,2,0,Completed
+15,Memphis,Regions Morgan Keegan Championships,22-02-2009,ATP250,Indoor,Hard,The Final,3,Roddick A.,Stepanek R.,6,19,4510,2640,7,5,7,5,,,,,,,2,0,Completed
+17,Delray Beach,International Championships,01-03-2009,ATP250,Outdoor,Hard,The Final,3,Fish M.,Korolev E.,20,105,2305,848,7,5,6,3,,,,,,,2,0,Completed
+18,Dubai ,Dubai Tennis Championships,28-02-2009,ATP500,Outdoor,Hard,The Final,3,Djokovic N.,Ferrer D.,3,14,9010,2875,7,5,6,3,,,,,,,2,0,Completed
+19,Indian Wells,BNP Paribas Open,22-03-2009,Masters 1000,Outdoor,Hard,The Final,3,Nadal R.,Murray A.,1,4,14360,7400,6,1,6,2,,,,,,,2,0,Completed
+20,Miami,Sony Ericsson Open,05-04-2009,Masters 1000,Outdoor,Hard,The Final,3,Murray A.,Djokovic N.,4,3,7850,8420,6,2,7,5,,,,,,,2,0,Completed
+41,Indianapolis,Indianapolis Tennis Championships,26-07-2009,ATP250,Outdoor,Hard,The Final,3,Ginepri R.,Querrey S.,95,37,705,1175,6,2,6,4,,,,,,,2,0,Completed
+43,Los Angeles,LA Tennis Open,02-08-2009,ATP250,Outdoor,Hard,The Final,3,Querrey S.,Ball C.,32,205,1315,311,6,4,3,6,6,1,,,,,2,1,Completed
+45,Washington,Legg Mason Classic,09-08-2009,ATP500,Outdoor,Hard,The Final,3,Del Potro J.M.,Roddick A.,6,5,5005,5470,3,6,7,5,7,6,,,,,2,1,Completed
+46,Montreal,Rogers Masters,16-08-2009,Masters 1000,Outdoor,Hard,The Final,3,Murray A.,Del Potro J.M.,3,6,8260,5155,6,7,7,6,6,1,,,,,2,1,Completed
+47,Cincinnati,Western & Southern Financial Group Masters,23-08-2009,Masters 1000,Outdoor,Hard,The Final,3,Federer R.,Djokovic N.,1,4,11040,7150,6,1,7,5,,,,,,,2,0,Completed
+48,New Haven,Pilot Pen Tennis,29-08-2009,ATP250,Outdoor,Hard,The Final,3,Verdasco F.,Querrey S.,10,23,3015,1520,6,4,7,6,,,,,,,2,0,Completed
+51,Metz,Open de Moselle,29-09-2009,ATP250,Indoor,Hard,The Final,3,Monfils G.,Kohlschreiber P.,13,23,2355,1530,7,6,3,6,6,2,,,,,2,1,Completed
+52,Bangkok,Thailand Open,04-10-2009,ATP250,Indoor,Hard,The Final,3,Simon G.,Troicki V.,10,32,3090,1215,7,5,6,3,,,,,,,2,0,Completed
+53,Kuala Lumpur,Proton Malaysian Open,04-10-2009,ATP250,Indoor,Hard,The Final,3,Davydenko N.,Verdasco F.,8,9,3535,3430,6,4,7,5,,,,,,,2,0,Completed
+54,Beijing,China Open,11-10-2009,ATP500,Outdoor,Hard,The Final,3,Djokovic N.,Cilic M.,4,15,7330,2195,6,2,7,6,,,,,,,2,0,Completed
+55,Tokyo,Rakuten Japan Open Tennis Championships,11-10-2009,ATP500,Outdoor,Hard,The Final,3,Tsonga J.W.,Youzhny M.,7,49,3690,910,6,3,6,3,,,,,,,2,0,Completed
+56,Shanghai,Shanghai Masters,18-10-2009,Masters 1000,Outdoor,Hard,The Final,3,Davydenko N.,Nadal R.,8,2,3710,8945,7,6,6,3,,,,,,,2,0,Completed
+57,Moscow,Kremlin Cup,25-10-2009,ATP250,Indoor,Hard,The Final,3,Youzhny M.,Tipsarevic J.,30,46,1200,880,6,7,6,0,6,4,,,,,2,1,Completed
+58,Stockholm,Stockholm Open,25-10-2009,ATP250,Indoor,Hard,The Final,3,Baghdatis M.,Rochus O.,66,87,705,589,6,1,7,5,,,,,,,2,0,Completed
+59,Lyon,Grand Prix de Lyon,01-11-2009,ATP250,Indoor,Hard,The Final,3,Ljubicic I.,Llodra M.,29,107,1230,509,7,5,6,3,,,,,,,2,0,Completed
+60,St. Petersburg,St. Petersburg Open,01-11-2009,ATP250,Indoor,Hard,The Final,3,Stakhovsky S.,Zeballos H.,93,54,559,815,2,6,7,6,7,6,,,,,2,1,Completed
+61,Vienna,BA-CA Tennis Trophy,01-11-2009,ATP250,Indoor,Hard,The Final,3,Melzer J.,Cilic M.,35,13,1055,2355,6,4,6,3,,,,,,,2,0,Completed
+62,Basel,Davidoff Swiss Indoors,08-11-2009,ATP500,Indoor,Hard,The Final,3,Djokovic N. ,Federer R. ,3,1,7890,10055,6,4,4,6,6,2,,,,,2,1,Completed
+63,Valencia,Valencia Open 500,08-11-2009,ATP500,Indoor,Hard,The Final,3,Murray A. ,Youzhny M. ,4,23,6640,1430,6,3,6,2,,,,,,,2,0,Completed
+64,Paris,BNP Paribas Masters,15-11-2009,Masters 1000,Indoor,Hard,The Final,3,Djokovic N.,Monfils G.,3,16,8300,2055,6,2,5,7,7,6,,,,,2,1,Completed
+65,London,Masters Cup,29-11-2009,Masters Cup,Indoor,Hard,The Final,3,Davydenko N.,Del Potro J.M.,7,5,3630,5985,6,3,6,4,,,,,,,2,0,Completed
+1,Brisbane,Brisbane International,10-01-2010,ATP250,Outdoor,Hard,The Final,3,Roddick A.,Stepanek R.,7,12,4410,2625,7,6,7,6,,,,,,,2,0,Completed
+2,Chennai,Chennai Open,10-01-2010,ATP250,Outdoor,Hard,The Final,3,Cilic M.,Wawrinka S.,14,21,2430,1635,7,6,7,6,,,,,,,2,0,Completed
+3,Doha,Qatar Exxon Mobil Open,09-01-2010,ATP250,Outdoor,Hard,The Final,3,Davydenko N.,Nadal R.,6,2,4930,9205,0,6,7,6,6,4,,,,,2,1,Completed
+4,Auckland,Heineken Open,16-01-2010,ATP250,Outdoor,Hard,The Final,3,Isner J.,Clement A.,33,67,1067,647,6,3,5,7,7,6,,,,,2,1,Completed
+5,Sydney,Medibank International,16-01-2010,ATP250,Outdoor,Hard,The Final,3,Baghdatis M.,Gasquet R.,42,53,965,805,6,4,7,6,,,,,,,2,0,Completed
+7,Johannesburg ,SA Tennis Open,07-02-2010,ATP250,Outdoor,Hard,The Final,3,Lopez F.,Robert S.,39,100,985,535,7,5,6,1,,,,,,,2,0,Completed
+9,Zagreb,PBZ Zagreb Indoors,07-02-2010,ATP250,Indoor,Hard,The Final,3,Cilic M.,Berrer M.,10,65,2970,703,6,4,6,7,6,3,,,,,2,1,Completed
+11,Rotterdam,ABN AMRO World Tennis Tournament,14-02-2010,ATP500,Indoor,Hard,The Final,3,Soderling R.,Youzhny M.,8,20,3375,1770,6,4,2,0,,,,,,,1,0,Retired
+12,San Jose,SAP Open,14-02-2010,ATP250,Indoor,Hard,The Final,3,Verdasco F.,Roddick A.,11,7,2760,4150,3,6,6,4,6,4,,,,,2,1,Completed
+14,Marseille,Open 13,21-02-2010,ATP250,Indoor,Hard,The Final,3,Llodra M.,Benneteau J.,79,39,617,1004,6,3,6,4,,,,,,,2,0,Completed
+15,Memphis,Regions Morgan Keegan Championships,21-02-2010,ATP500,Indoor,Hard,The Final,3,Querrey S.,Isner J.,31,25,1260,1430,6,7,7,6,6,3,,,,,2,1,Completed
+17,Delray Beach,International Championships,28-02-2010,ATP250,Outdoor,Hard,The Final,3,Gulbis E.,Karlovic I.,72,33,664,1240,6,2,6,3,,,,,,,2,0,Completed
+18,Dubai ,Dubai Tennis Championships,28-02-2010,ATP500,Outdoor,Hard,The Final,3,Djokovic N.,Youzhny M.,2,15,8310,1975,7,5,5,7,6,3,,,,,2,1,Completed
+19,Indian Wells,BNP Paribas Open,21-03-2010,Masters 1000,Outdoor,Hard,The Final,3,Ljubicic I.,Roddick A.,26,8,1520,3720,7,6,7,6,,,,,,,2,0,Completed
+20,Miami,Sony Ericsson Open,04-04-2010,Masters 1000,Outdoor,Hard,The Final,3,Roddick A.,Berdych T.,8,20,3960,1760,7,5,6,4,,,,,,,2,0,Completed
+40,Atlanta,Atlanta Tennis Championships,25-07-2010,ATP250,Outdoor,Hard,The Final,3,Fish M.,Isner J.,49,19,901,1925,4,6,6,4,7,6,,,,,2,1,Completed
+43,Los Angeles,Farmers Classic,01-08-2010,ATP250,Outdoor,Hard,The Final,3,Querrey S.,Murray A.,20,4,1910,5155,5,7,7,6,6,3,,,,,2,1,Completed
+45,Washington,Legg Mason Classic,08-08-2010,ATP500,Outdoor,Hard,The Final,3,Nalbandian D.,Baghdatis M.,117,25,465,1580,6,2,7,6,,,,,,,2,0,Completed
+46,Toronto,Rogers Masters,15-08-2010,Masters 1000,Outdoor,Hard,The Final,3,Murray A.,Federer R.,4,3,5305,6795,7,5,7,5,,,,,,,2,0,Completed
+47,Cincinnati,Western & Southern Financial Group Masters,22-08-2010,Masters 1000,Outdoor,Hard,The Final,3,Federer R.,Fish M.,2,36,7215,1151,6,7,7,6,6,4,,,,,2,1,Completed
+48,New Haven,Pilot Pen Tennis,28-08-2010,ATP250,Outdoor,Hard,The Final,3,Stakhovsky S.,Istomin D.,47,46,953,955,3,6,6,3,6,4,,,,,2,1,Completed
+51,Metz,Open de Moselle,26-09-2010,ATP250,Indoor,Hard,The Final,3,Simon G.,Zverev M.,41,155,1055,315,6,3,6,2,,,,,,,2,0,Completed
+52,Bangkok,Thailand Open,03-10-2010,ATP250,Indoor,Hard,The Final,3,Garcia-Lopez G.,Nieminen J.,53,60,900,820,6,4,3,6,6,4,,,,,2,1,Completed
+53,Kuala Lumpur,Proton Malaysian Open,03-10-2010,ATP250,Indoor,Hard,The Final,3,Youzhny M.,Golubev A.,9,41,3295,1080,6,7,6,2,7,6,,,,,2,1,Completed
+54,Beijing,China Open,10-10-2010,ATP500,Outdoor,Hard,The Final,3,Djokovic N.,Ferrer D.,2,11,7145,3135,6,2,6,4,,,,,,,2,0,Completed
+55,Tokyo,Rakuten Japan Open Tennis Championships,10-10-2010,ATP500,Outdoor,Hard,The Final,3,Nadal R.,Monfils G.,1,15,12070,2160,6,1,7,5,,,,,,,2,0,Completed
+56,Shanghai,Shanghai Masters,17-10-2010,Masters 1000,Outdoor,Hard,The Final,3,Murray A.,Federer R.,4,3,5125,6735,6,3,6,2,,,,,,,2,0,Completed
+57,Moscow,Kremlin Cup,24-10-2010,ATP250,Indoor,Hard,The Final,3,Troicki V.,Baghdatis M.,43,19,1020,1930,3,6,6,4,6,3,,,,,2,1,Completed
+58,Stockholm,Stockholm Open,24-10-2010,ATP250,Indoor,Hard,The Final,3,Federer R.,Mayer F.,2,47,7335,986,6,4,6,3,,,,,,,2,0,Completed
+59,Montpellier,Open Sud de France,31-10-2010,ATP250,Indoor,Hard,The Final,3,Monfils G.,Ljubicic I.,15,17,2325,2100,6,2,7,5,6,1,,,,,2,1,Completed
+60,St. Petersburg,St. Petersburg Open,31-10-2010,ATP250,Indoor,Hard,The Final,3,Kukushkin M.,Youzhny M.,88,10,587,3105,6,3,7,6,,,,,,,2,0,Completed
+61,Vienna,BA-CA Tennis Trophy,31-10-2010,ATP250,Indoor,Hard,The Final,3,Melzer J.,Haider-Maurer A.,12,157,2650,339,6,7,7,6,6,4,,,,,2,0,Completed
+62,Basel,Swiss Indoors,07-11-2010,ATP500,Indoor,Hard,The Final,3,Federer R.,Djokovic N.,2,3,7495,7145,6,4,3,6,6,1,,,,,2,1,Completed
+63,Valencia,Valencia Open 500,07-11-2010,ATP500,Indoor,Hard,The Final,3,Ferrer D.,Granollers M.,8,67,3325,741,7,5,6,3,,,,,,,2,0,Completed
+64,Paris,BNP Paribas Masters,14-11-2010,Masters 1000,Indoor,Hard,The Final,3,Soderling R.,Monfils G.,5,14,4960,2485,6,1,7,6,,,,,,,2,0,Completed
+65,London,Masters Cup,28-11-2010,Masters Cup,Indoor,Hard,The Final,3,Federer R.,Nadal R.,2,1,7645,11450,6,3,3,6,6,1,,,,,2,1,Completed
+1,Brisbane,Brisbane International,09-01-2011,ATP250,Outdoor,Hard,The Final,3,Soderling R.,Roddick A.,5,8,5580,3665,6,3,7,5,,,,,,,2,0,Completed
+2,Chennai,Chennai Open,09-01-2011,ATP250,Outdoor,Hard,The Final,3,Wawrinka S.,Malisse X.,21,60,1755,816,7,5,4,6,6,1,,,,,2,1,Completed
+3,Doha,Qatar Exxon Mobil Open,08-01-2011,ATP250,Outdoor,Hard,The Final,3,Federer R.,Davydenko N.,2,22,9145,1655,6,3,6,4,,,,,,,2,0,Completed
+4,Auckland,Heineken Open,15-01-2011,ATP250,Outdoor,Hard,The Final,3,Ferrer D.,Nalbandian D.,7,27,3735,1480,6,3,6,2,,,,,,,2,0,Completed
+5,Sydney,Medibank International,15-01-2011,ATP250,Outdoor,Hard,The Final,3,Simon G.,Troicki V.,41,30,1005,1385,7,5,7,6,,,,,,,2,0,Completed
+7,Johannesburg ,SA Tennis Open,06-02-2011,ATP250,Outdoor,Hard,The Final,3,Anderson K.,Devvarman S.,59,110,834,507,4,6,6,3,6,2,,,,,2,1,Completed
+9,Zagreb,PBZ Zagreb Indoors,06-02-2011,ATP250,Indoor,Hard,The Final,3,Dodig I.,Berrer M.,84,66,581,715,6,3,6,4,,,,,,,2,0,Completed
+11,Rotterdam,ABN AMRO World Tennis Tournament,13-02-2011,ATP500,Indoor,Hard,The Final,3,Soderling R.,Tsonga J.W.,4,18,5955,1715,6,3,3,6,6,3,,,,,2,1,Completed
+12,San Jose,SAP Open,13-02-2011,ATP250,Indoor,Hard,The Final,3,Raonic M.,Verdasco F.,84,9,587,3240,7,6,7,6,,,,,,,2,0,Completed
+14,Marseille,Open 13,20-02-2011,ATP250,Indoor,Hard,The Final,3,Soderling R.,Cilic M.,4,28,5955,1395,6,7,6,3,6,3,,,,,2,1,Completed
+15,Memphis,Regions Morgan Keegan Championships,20-02-2011,ATP500,Indoor,Hard,The Final,3,Roddick A.,Raonic M.,8,59,3325,837,7,6,6,7,7,5,,,,,2,1,Completed
+17,Delray Beach,International Championships,27-02-2011,ATP250,Outdoor,Hard,The Final,3,Del Potro J.M.,Tipsarevic J.,166,52,335,935,6,4,6,4,,,,,,,2,0,Completed
+18,Dubai ,Dubai Tennis Championships,26-02-2011,ATP500,Outdoor,Hard,The Final,3,Djokovic N.,Federer R.,3,2,7880,7965,6,3,6,3,,,,,,,2,0,Completed
+19,Indian Wells,BNP Paribas Open,20-03-2011,Masters 1000,Outdoor,Hard,The Final,3,Djokovic N.,Nadal R.,3,1,7800,12390,4,6,6,3,6,2,,,,,2,1,Completed
+20,Miami,Sony Ericsson Open,03-04-2011,Masters 1000,Outdoor,Hard,The Final,3,Djokovic N.,Nadal R.,2,1,8710,12630,4,6,6,3,7,6,,,,,2,1,Completed
+40,Atlanta,Atlanta Tennis Championships,24-07-2011,ATP250,Outdoor,Hard,The Final,3,Fish M.,Isner J.,9,35,2435,1195,3,6,7,6,6,2,,,,,2,1,Completed
+43,Los Angeles,Farmers Classic,31-07-2011,ATP250,Outdoor,Hard,The Final,3,Gulbis E.,Fish M.,84,9,645,2435,5,7,6,4,6,4,,,,,2,1,Completed
+46,Washington,Legg Mason Classic,07-08-2011,ATP500,Outdoor,Hard,The Final,3,Stepanek R.,Monfils G.,54,7,883,2695,6,4,6,4,,,,,,,2,0,Completed
+47,Montreal,Rogers Masters,14-08-2011,Masters 1000,Outdoor,Hard,The Final,3,Djokovic N.,Fish M.,1,8,12860,2505,6,2,3,6,6,4,,,,,2,1,Completed
+48,Cincinnati,Western & Southern Financial Group Masters,21-08-2011,Masters 1000,Outdoor,Hard,The Final,3,Murray A.,Djokovic N.,4,1,5715,13500,6,4,3,0,,,,,,,1,0,Retired
+49,Winston-Salem,Winston-Salem Open at Wake Forest University,27-08-2011,ATP250,Outdoor,Hard,The Final,3,Isner J.,Benneteau J.,28,113,1340,478,4,6,6,3,6,4,,,,,2,1,Completed
+52,Metz,Open de Moselle,25-09-2011,ATP250,Indoor,Hard,The Final,3,Tsonga J.W.,Ljubicic I.,10,29,2710,1315,6,3,6,7,6,3,,,,,2,1,Completed
+53,Bangkok,Thailand Open,02-10-2011,ATP250,Indoor,Hard,The Final,3,Murray A.,Young D.,4,55,7165,800,6,2,6,0,,,,,,,2,0,Completed
+54,Kuala Lumpur,Malaysian Open,02-10-2011,ATP250,Indoor,Hard,The Final,3,Tipsarevic J.,Baghdatis M.,17,60,1870,770,6,4,7,5,,,,,,,2,0,Completed
+55,Beijing,China Open,09-10-2011,ATP500,Outdoor,Hard,The Final,3,Berdych T.,Cilic M.,10,25,2775,1435,3,6,6,4,6,1,,,,,2,1,Completed
+56,Tokyo,Rakuten Japan Open Tennis Championships,09-10-2011,ATP500,Outdoor,Hard,The Final,3,Murray A.,Nadal R.,4,2,7415,10575,3,6,6,2,6,0,,,,,2,1,Completed
+57,Shanghai,Shanghai Masters,16-10-2011,Masters 1000,Outdoor,Hard,The Final,3,Murray A.,Ferrer D.,4,5,7825,4200,7,5,6,4,,,,,,,2,0,Completed
+58,Moscow,Kremlin Cup,23-10-2011,ATP250,Indoor,Hard,The Final,3,Tipsarevic J.,Troicki V.,14,16,2040,1920,6,4,6,2,,,,,,,2,0,Completed
+59,Stockholm,Stockholm Open,23-10-2011,ATP250,Indoor,Hard,The Final,3,Monfils G.,Nieminen J.,10,73,2525,701,7,5,3,6,6,2,,,,,2,1,Completed
+60,St. Petersburg,St. Petersburg Open,30-10-2011,ATP250,Indoor,Hard,The Final,3,Cilic M.,Tipsarevic J.,22,13,1645,2245,6,3,3,6,6,2,,,,,2,1,Completed
+61,Vienna,Erste Bank Open,30-10-2011,ATP250,Indoor,Hard,The Final,3,Tsonga J.W.,Del Potro J.M.,9,15,2880,2030,6,7,6,3,6,4,,,,,2,1,Completed
+62,Basel,Swiss Indoors,06-11-2011,ATP500,Indoor,Hard,The Final,3,Federer R.,Nishikori K.,4,32,7530,1225,6,1,6,3,,,,,,,2,0,Completed
+63,Valencia,Valencia Open 500,06-11-2011,ATP500,Indoor,Hard,The Final,3,Granollers M.,Monaco J.,34,41,1145,990,6,2,4,6,7,6,,,,,2,1,Completed
+64,Paris,BNP Paribas Masters,13-11-2011,Masters 1000,Indoor,Hard,The Final,3,Federer R.,Tsonga J.W.,4,8,7530,2935,6,1,7,6,,,,,,,2,0,Completed
+65,London,Masters Cup,27-11-2011,Masters Cup,Indoor,Hard,The Final,3,Federer R.,Tsonga J.W.,4,6,6670,3535,6,3,6,7,6,3,,,,,2,1,Completed
+1,Brisbane,Brisbane International,08-Jan,ATP250,Outdoor,Hard,The Final,3,Murray A.,Dolgopolov O.,4,15,7380,1925,6,1,6,3,,,,,,,2,0,Completed
+2,Chennai,Chennai Open,08-Jan,ATP250,Outdoor,Hard,The Final,3,Raonic M.,Tipsarevic J.,31,9,1255,2595,6,7,7,6,7,6,,,,,2,1,Completed
+3,Doha,Qatar Exxon Mobil Open,07-Jan,ATP250,Outdoor,Hard,The Final,3,Tsonga J.W.,Monfils G.,6,16,4335,1910,7,5,6,3,,,,,,,2,0,Completed
+4,Auckland,Heineken Open,14-Jan,ATP250,Outdoor,Hard,The Final,3,Ferrer D.,Rochus O.,5,68,4925,704,6,3,6,4,,,,,,,2,0,Completed
+5,Sydney,Apia International,15-Jan,ATP250,Outdoor,Hard,The Final,3,Nieminen J.,Benneteau J.,77,49,666,900,6,2,7,5,,,,,,,2,0,Completed
+7,Montpellier,Open Sud de France,05-Feb,ATP250,Indoor,Hard,The Final,3,Berdych T.,Monfils G.,7,13,3700,1970,6,2,4,6,6,3,,,,,2,1,Completed
+9,Zagreb,PBZ Zagreb Indoors,05-Feb,ATP250,Indoor,Hard,The Final,3,Youzhny M.,Lacko L.,39,97,1025,596,6,2,6,3,,,,,,,2,0,Completed
+10,Rotterdam,ABN AMRO World Tennis Tournament,19-Feb,ATP500,Indoor,Hard,The Final,3,Federer R.,Del Potro J.M.,3,10,8010,2585,6,1,6,4,,,,,,,2,0,Completed
+11,San Jose,SAP Open,19-Feb,ATP250,Indoor,Hard,The Final,3,Raonic M.,Istomin D.,32,61,1140,767,7,6,6,2,,,,,,,2,0,Completed
+14,Marseille,Open 13,26-Feb,ATP250,Indoor,Hard,The Final,3,Del Potro J.M.,Llodra M.,10,50,2705,870,6,4,6,4,,,,,,,2,0,Completed
+15,Memphis,Regions Morgan Keegan Championships,26-Feb,ATP500,Indoor,Hard,The Final,3,Melzer J.,Raonic M.,38,35,1052,1090,7,5,7,6,,,,,,,2,0,Completed
+17,Delray Beach,International Championships,04-Mar,ATP250,Outdoor,Hard,The Final,3,Anderson K.,Matosevic M.,36,173,1065,293,6,4,7,6,,,,,,,2,0,Completed
+18,Dubai ,Dubai Tennis Championships,03-Mar,ATP500,Outdoor,Hard,The Final,3,Federer R.,Murray A.,3,4,8235,7150,7,5,6,4,,,,,,,2,0,Completed
+19,Indian Wells,BNP Paribas Open,18-Mar,Masters 1000,Outdoor,Hard,The Final,3,Federer R.,Isner J.,3,11,8710,2120,7,6,6,3,,,,,,,2,0,Completed
+20,Miami,Sony Ericsson Open,01-Apr,Masters 1000,Outdoor,Hard,The Final,3,Djokovic N.,Murray A.,1,4,12670,7450,6,1,7,6,,,,,,,2,0,Completed
+42,Atlanta,BB&T Atlanta Open,22-Jul,ATP250,Outdoor,Hard,The Final,3,Roddick A.,Muller G.,27,63,1395,746,1,6,7,6,6,2,,,,,2,1,Completed
+46,Los Angeles,Farmers Classic,29-Jul,ATP250,Outdoor,Hard,The Final,3,Querrey S.,Berankis R.,57,141,799,387,6,0,6,2,,,,,,,2,0,Completed
+47,Washington,Citi Open,05-Aug,ATP500,Outdoor,Hard,The Final,3,Dolgopolov O.,Haas T.,25,36,1460,1138,6,7,6,4,6,1,,,,,2,1,Completed
+48,Toronto,Rogers Masters,13-Aug,Masters 1000,Outdoor,Hard,The Final,3,Djokovic N.,Gasquet R.,2,21,11270,1600,6,3,6,2,,,,,,,2,0,Completed
+49,Cincinnati,Western & Southern Financial Group Masters,19-Aug,Masters 1000,Outdoor,Hard,The Final,3,Federer R.,Djokovic N.,1,2,11345,11270,6,0,7,6,,,,,,,2,0,Completed
+50,Winston-Salem,Winston-Salem Open at Wake Forest University,25-Aug,ATP250,Outdoor,Hard,The Final,3,Isner J.,Berdych T.,14,7,1940,3815,3,6,6,4,7,6,,,,,2,1,Completed
+52,Metz,Open de Moselle,23-Sep,ATP250,Indoor,Hard,The Final,3,Tsonga J.W.,Seppi A.,7,28,4520,1390,6,1,6,2,,,,,,,2,0,Completed
+53,St. Petersburg,St. Petersburg Open,23-Sep,ATP250,Indoor,Hard,The Final,3,Klizan M.,Fognini F.,45,53,898,790,6,2,6,3,,,,,,,2,0,Completed
+54,Bangkok,Thailand Open,30-Sep,ATP250,Indoor,Hard,The Final,3,Gasquet R.,Simon G.,14,19,2165,1800,6,2,6,1,,,,,,,2,0,Completed
+55,Kuala Lumpur,Malaysian Open,30-Sep,ATP250,Indoor,Hard,The Final,3,Monaco J.,Benneteau J.,11,34,2565,1075,7,5,4,6,6,3,,,,,2,1,Completed
+56,Beijing,China Open,07-Oct,ATP500,Outdoor,Hard,The Final,3,Djokovic N.,Tsonga J.W.,2,7,10470,4520,7,6,6,2,,,,,,,2,0,Completed
+57,Tokyo,Rakuten Japan Open Tennis Championships,07-Oct,ATP500,Outdoor,Hard,The Final,3,Nishikori K.,Raonic M.,17,15,1865,2090,7,6,3,6,6,0,,,,,2,1,Completed
+58,Shanghai,Shanghai Masters,14-Oct,Masters 1000,Outdoor,Hard,The Final,3,Djokovic N.,Murray A.,2,3,10970,8090,5,7,7,6,6,3,,,,,2,1,Completed
+59,Moscow,Kremlin Cup,21-Oct,ATP250,Indoor,Hard,The Final,3,Seppi A.,Bellucci T.,25,41,1415,967,3,6,7,6,6,3,,,,,2,1,Completed
+60,Stockholm,Stockholm Open,21-Oct,ATP250,Indoor,Hard,The Final,3,Berdych T.,Tsonga J.W.,6,7,4840,4810,4,6,6,4,6,4,,,,,2,1,Completed
+61,Vienna,Erste Bank Open,21-Oct,ATP250,Indoor,Hard,The Final,3,Del Potro J.M.,Zemlja G.,8,70,3670,660,7,5,6,3,,,,,,,2,0,Completed
+62,Basel,Swiss Indoors,28-Oct,ATP500,Indoor,Hard,The Final,3,Del Potro J.M.,Federer R.,8,1,3740,12165,6,4,6,7,7,6,,,,,2,1,Completed
+63,Valencia,Valencia Open 500,28-Oct,ATP500,Indoor,Hard,The Final,3,Ferrer D.,Dolgopolov O.,5,21,5360,1680,6,1,3,6,6,4,,,,,2,1,Completed
+64,Paris,BNP Paribas Masters,04-Nov,Masters 1000,Indoor,Hard,The Final,3,Ferrer D.,Janowicz J.,5,69,5610,682,6,4,6,3,,,,,,,2,0,Completed
+65,London,Masters Cup,12-Nov,Masters Cup,Indoor,Hard,The Final,3,Djokovic N.,Federer R.,1,2,11420,9465,7,6,7,5,,,,,,,2,0,Completed
+1,Brisbane,Brisbane International,06-Jan,ATP250,Outdoor,Hard,The Final,3,Murray A.,Dimitrov G.,3,48,8000,866,7,6,6,4,,,,,,,2,0,Completed
+2,Chennai,Chennai Open,06-Jan,ATP250,Outdoor,Hard,The Final,3,Tipsarevic J.,Bautista R.,9,80,2990,648,3,6,6,1,6,3,,,,,2,1,Completed
+3,Doha,Qatar Exxon Mobil Open,05-Jan,ATP250,Outdoor,Hard,The Final,3,Gasquet R.,Davydenko N.,10,44,2515,885,3,6,7,6,6,3,,,,,2,1,Completed
+4,Auckland,Heineken Open,12-Jan,ATP250,Outdoor,Hard,The Final,3,Ferrer D.,Kohlschreiber P.,5,19,6505,1770,7,6,6,1,,,,,,,2,0,Completed
+5,Sydney,Apia International,12-Jan,ATP250,Outdoor,Hard,The Final,3,Tomic B.,Anderson K.,64,36,740,1065,6,3,6,7,6,3,,,,,2,1,Completed
+7,Montpellier,Open Sud de France,10-Feb,ATP250,Indoor,Hard,The Final,3,Gasquet R.,Paire B.,10,43,2720,900,6,2,6,3,,,,,,,2,0,Completed
+9,Zagreb,PBZ Zagreb Indoors,10-Feb,ATP250,Indoor,Hard,The Final,3,Cilic M.,Melzer J.,12,29,2375,1245,6,3,6,1,,,,,,,2,0,Completed
+10,Rotterdam,ABN AMRO World Tennis Tournament,17-Feb,ATP500,Indoor,Hard,The Final,3,Del Potro J.M.,Benneteau J.,7,39,4210,1025,7,6,6,3,,,,,,,2,0,Completed
+11,San Jose,SAP Open,17-Feb,ATP250,Indoor,Hard,The Final,3,Raonic M.,Haas T.,13,22,2305,1685,6,4,6,3,,,,,,,2,0,Completed
+14,Marseille,Open 13,24-Feb,ATP250,Indoor,Hard,The Final,3,Tsonga J.W.,Berdych T.,8,6,3515,4485,3,6,7,6,6,4,,,,,2,1,Completed
+15,Memphis,U.S. National Indoor Tennis Championships,24-Feb,ATP500,Indoor,Hard,The Final,3,Nishikori K.,Lopez F.,22,47,1690,870,6,2,6,3,,,,,,,2,0,Completed
+17,Delray Beach,International Championships,03-Mar,ATP250,Outdoor,Hard,The Final,3,Gulbis E.,Roger-Vasselin E.,109,105,488,507,7,6,6,3,,,,,,,2,0,Completed
+18,Dubai ,Dubai Tennis Championships,02-Mar,ATP500,Outdoor,Hard,The Final,3,Djokovic N.,Berdych T.,1,6,12960,4545,7,5,6,3,,,,,,,2,0,Completed
+19,Indian Wells,BNP Paribas Open,17-Mar,Masters 1000,Outdoor,Hard,The Final,3,Nadal R.,Del Potro J.M.,5,7,6105,4410,4,6,6,3,6,4,,,,,2,1,Completed
+20,Miami,Sony Ericsson Open,31-Mar,Masters 1000,Outdoor,Hard,The Final,3,Murray A.,Ferrer D.,3,5,8350,6630,2,6,6,4,7,6,,,,,2,1,Completed
+43,Atlanta,BB&T Atlanta Open,28-Jul,ATP250,Outdoor,Hard,The Final,3,Isner J.,Anderson K.,22,21,1610,1635,6,7,7,6,7,6,,,,,2,1,Completed
+47,Washington,Citi Open,04-Aug,ATP500,Outdoor,Hard,The Final,3,Del Potro J.M.,Isner J.,7,20,4500,1770,3,6,6,1,6,2,,,,,2,1,Completed
+48,Montreal,Rogers Masters,11-Aug,Masters 1000,Outdoor,Hard,The Final,3,Nadal R.,Raonic M.,4,13,6860,2225,6,2,6,2,,,,,,,2,0,Completed
+49,Cincinnati,Western & Southern Financial Group Masters,18-Aug,Masters 1000,Outdoor,Hard,The Final,3,Nadal R.,Isner J.,3,22,7860,1585,7,6,7,6,,,,,,,2,0,Completed
+50,Winston-Salem,Winston-Salem Open at Wake Forest University,24-Aug,ATP250,Outdoor,Hard,The Final,3,Melzer J.,Monfils G.,32,43,1220,950,6,3,2,1,,,,,,,1,0,Retired
+52,Metz,Open de Moselle,22-Sep,ATP250,Indoor,Hard,The Final,3,Simon G.,Tsonga J.W.,16,8,1950,3425,6,4,6,3,,,,,,,2,0,Completed
+53,St. Petersburg,St. Petersburg Open,22-Sep,ATP250,Indoor,Hard,The Final,3,Gulbis E.,Garcia-Lopez G.,36,74,1156,682,3,6,6,4,6,0,,,,,2,1,Completed
+54,Bangkok,Thailand Open,29-Sep,ATP250,Indoor,Hard,The Final,3,Raonic M.,Berdych T.,11,6,2610,4460,7,6,6,3,,,,,,,2,0,Completed
+55,Kuala Lumpur,Malaysian Open,29-Sep,ATP250,Indoor,Hard,The Final,3,Sousa J.,Benneteau J.,77,33,659,1185,2,6,7,5,6,4,,,,,2,1,Completed
+56,Beijing,China Open,07-Oct,ATP500,Outdoor,Hard,The Final,3,Djokovic N.,Nadal R.,1,2,11120,10860,6,3,6,4,,,,,,,2,0,Completed
+57,Tokyo,Rakuten Japan Open Tennis Championships,07-Oct,ATP500,Outdoor,Hard,The Final,3,Del Potro J.M.,Raonic M.,7,11,4425,2815,7,6,7,5,,,,,,,2,0,Completed
+58,Shanghai,Shanghai Masters,13-Oct,Masters 1000,Outdoor,Hard,The Final,3,Djokovic N.,Del Potro J.M.,2,5,11120,4925,6,1,3,6,7,6,,,,,2,1,Completed
+59,Moscow,Kremlin Cup,20-Oct,ATP250,Indoor,Hard,The Final,3,Gasquet R.,Kukushkin M.,10,102,3060,559,4,6,6,4,6,4,,,,,2,1,Completed
+60,Stockholm,Stockholm Open,20-Oct,ATP250,Indoor,Hard,The Final,3,Dimitrov G.,Ferrer D.,28,3,1340,6800,2,6,6,3,6,4,,,,,2,1,Completed
+61,Vienna,Erste Bank Open,20-Oct,ATP250,Indoor,Hard,The Final,3,Haas T.,Haase R.,12,63,2265,797,6,3,4,6,6,4,,,,,2,1,Completed
+62,Basel,Swiss Indoors,27-Oct,ATP500,Indoor,Hard,The Final,3,Del Potro J.M.,Federer R.,5,6,5365,4245,7,6,2,6,6,4,,,,,2,1,Completed
+63,Valencia,Valencia Open 500,27-Oct,ATP500,Indoor,Hard,The Final,3,Youzhny M.,Ferrer D.,21,3,1735,6800,6,3,7,5,,,,,,,2,0,Completed
+64,Paris,BNP Paribas Masters,03-Nov,Masters 1000,Indoor,Hard,The Final,3,Djokovic N.,Ferrer D.,2,3,11120,6600,7,5,7,5,,,,,,,2,0,Completed
+65,London,Masters Cup,11-Nov,Masters Cup,Indoor,Hard,The Final,3,Djokovic N.,Nadal R.,2,1,10610,12030,6,3,6,4,,,,,,,2,0,Completed
+1,Brisbane,Brisbane International,05-Jan,ATP250,Outdoor,Hard,The Final,3,Hewitt L.,Federer R.,60,6,780,4205,6,1,4,6,6,3,,,,,2,1,Completed
+2,Chennai,Chennai Open,05-Jan,ATP250,Outdoor,Hard,The Final,3,Wawrinka S.,Roger-Vasselin E.,8,52,3730,908,7,5,6,2,,,,,,,2,0,Sched
+3,Doha,Qatar Exxon Mobil Open,04-Jan,ATP250,Outdoor,Hard,The Final,3,Nadal R.,Monfils G.,1,31,13030,1230,6,1,6,7,6,2,,,,,2,1,Completed
+4,Auckland,Heineken Open,11-Jan,ATP250,Outdoor,Hard,The Final,3,Isner J.,Lu Y.H.,14,62,2150,730,7,6,7,6,,,,,,,2,0,Completed
+5,Sydney,Apia International,11-Jan,ATP250,Outdoor,Hard,The Final,3,Del Potro J.M.,Tomic B.,5,52,5255,910,6,3,6,1,,,,,,,2,0,Completed
+7,Montpellier,Open Sud de France,09-Feb,ATP250,Indoor,Hard,The Final,3,Monfils G.,Gasquet R.,30,9,1245,3050,6,4,6,4,,,,,,,2,0,Completed
+9,Zagreb,PBZ Zagreb Indoors,09-Feb,ATP250,Indoor,Hard,The Final,3,Cilic M.,Haas T.,37,12,1085,2435,6,3,6,4,,,,,,,2,0,Completed
+11,Memphis,U.S. National Indoor Tennis Championships,16-Feb,ATP250,Indoor,Hard,The Final,3,Nishikori K.,Karlovic I.,16,80,1965,667,6,4,7,6,,,,,,,2,0,Completed
+12,Rotterdam,ABN AMRO World Tennis Tournament,16-Feb,ATP500,Indoor,Hard,The Final,3,Berdych T.,Cilic M.,7,37,4540,1085,6,4,6,2,,,,,,,2,0,Completed
+13,Delray Beach,Delray Beach Open,23-Feb,ATP250,Outdoor,Hard,The Final,3,Cilic M.,Anderson K.,29,21,1295,1580,7,6,6,7,6,4,,,,,2,1,Completed
+14,Marseille,Open 13,23-Feb,ATP250,Indoor,Hard,The Final,3,Gulbis E.,Tsonga J.W.,23,10,1558,2885,7,6,6,4,,,,,,,2,0,Completed
+16,Acapulco,Abierto Mexicano,02-Mar,ATP500,Outdoor,Hard,The Final,3,Dimitrov G.,Anderson K.,22,21,1675,1685,7,6,3,6,7,6,,,,,2,1,Completed
+17,Dubai ,Dubai Tennis Championships,01-Mar,ATP500,Outdoor,Hard,The Final,3,Federer R.,Berdych T.,8,6,4305,4890,3,6,6,4,6,3,,,,,2,1,Completed
+19,Indian Wells,BNP Paribas Open,16-Mar,Masters 1000,Outdoor,Hard,The Final,3,Djokovic N.,Federer R.,2,8,10260,4625,3,6,6,3,7,6,,,,,2,1,Completed
+20,Miami,Sony Ericsson Open,30-Mar,Masters 1000,Outdoor,Hard,The Final,3,Djokovic N.,Nadal R.,2,1,10900,13130,6,3,6,3,,,,,,,2,0,Completed
+43,Atlanta,BB&T Atlanta Open,27-Jul,ATP250,Outdoor,Hard,The Final,3,Isner J.,Sela D.,12,94,2690,588,6,3,6,4,,,,,,,2,0,Completed
+47,Washington,Citi Open,03-Aug,ATP500,Outdoor,Hard,The Final,3,Raonic M.,Pospisil V.,7,36,3920,1115,6,1,6,4,,,,,,,2,0,Completed
+48,Toronto,Rogers Masters,10-Aug,Masters 1000,Outdoor,Hard,The Final,3,Tsonga J.W.,Federer R.,15,3,1910,6070,7,5,7,6,,,,,,,2,1,Completed
+49,Cincinnati,Western & Southern Financial Group Masters,17-Aug,Masters 1000,Outdoor,Hard,The Final,3,Federer R.,Ferrer D.,3,6,6670,4255,6,3,1,6,6,2,,,,,2,1,Completed
+50,Winston-Salem,Winston-Salem Open at Wake Forest University,23-Aug,ATP250,Outdoor,Hard,The Final,3,Rosol L.,Janowicz J.,33,52,1120,855,3,6,7,6,7,5,,,,,2,1,Completed
+52,Metz,Open de Moselle,21-Sep,ATP250,Indoor,Hard,The Final,3,Goffin D.,Sousa J.,45,39,923,1032,6,4,6,3,,,,,,,2,0,Completed
+53,Kuala Lumpur,Malaysian Open,28-Sep,ATP250,Indoor,Hard,The Final,3,Nishikori K.,Benneteau J.,8,28,3865,1205,7,6,6,4,,,,,,,2,0,Completed
+54,Shenzhen ,Shenzhen Open,28-Sep,ATP250,Outdoor,Hard,The Final,3,Murray A.,Robredo T.,11,22,3135,1645,5,7,7,6,6,1,,,,,2,1,Completed
+55,Beijing,China Open,05-Oct,ATP500,Outdoor,Hard,The Final,3,Djokovic N.,Berdych T.,1,6,12150,4115,6,0,6,2,,,,,,,2,0,Completed
+56,Tokyo,Rakuten Japan Open Tennis Championships,05-Oct,ATP500,Outdoor,Hard,The Final,3,Nishikori K.,Raonic M.,7,8,4025,3965,7,6,4,6,6,4,,,,,2,1,Completed
+57,Shanghai,Shanghai Masters,12-Oct,Masters 1000,Outdoor,Hard,The Final,3,Federer R.,Simon G.,3,29,8170,1220,7,6,7,6,,,,,,,2,0,Completed
+58,Moscow,Kremlin Cup,19-Oct,ATP250,Indoor,Hard,The Final,3,Cilic M.,Bautista R.,8,16,3945,1935,6,4,6,4,,,,,,,2,0,Completed
+59,Stockholm,Stockholm Open,19-Oct,ATP250,Indoor,Hard,The Final,3,Berdych T.,Dimitrov G.,7,10,4325,3745,5,7,6,4,6,4,,,,,2,1,Completed
+60,Vienna,Erste Bank Open,19-Oct,ATP250,Indoor,Hard,The Final,3,Murray A.,Ferrer D.,11,5,3635,4585,5,7,6,2,7,5,,,,,2,1,Completed
+61,Basel,Swiss Indoors,26-Oct,ATP500,Indoor,Hard,The Final,3,Federer R.,Goffin D.,2,28,9080,1278,6,2,6,2,,,,,,,2,0,Completed
+62,Valencia,Valencia Open 500,26-Oct,ATP500,Indoor,Hard,The Final,3,Murray A.,Robredo T.,10,21,3795,1715,3,6,7,6,7,6,,,,,2,1,Completed
+63,Paris,BNP Paribas Masters,02-Nov,Masters 1000,Indoor,Hard,The Final,3,Djokovic N.,Raonic M.,1,10,11510,3930,6,2,6,3,,,,,,,2,0,Completed
+64,London,Masters Cup,16-Nov,Masters Cup,Indoor,Hard,The Final,3,Djokovic N.,Federer R.,1,2,10010,8700,,,,,,,,,,,,,Walkover
+1,Brisbane,Brisbane International,11-01-2015,ATP250,Outdoor,Hard,The Final,3,Federer R.,Raonic M.,2,8,9625,4440,6,4,6,7,6,4,,,,,2,1,Completed
+2,Chennai,Chennai Open,11-01-2015,ATP250,Outdoor,Hard,The Final,3,Wawrinka S.,Bedene A.,4,156,5120,325,6,3,6,4,,,,,,,2,0,Completed
+3,Doha,Qatar Exxon Mobil Open,10-01-2015,ATP250,Outdoor,Hard,The Final,3,Ferrer D.,Berdych T.,10,7,4045,4600,6,4,7,5,,,,,,,2,0,Completed
+4,Auckland,Heineken Open,17-01-2015,ATP250,Outdoor,Hard,The Final,3,Vesely J.,Mannarino A.,65,44,741,898,6,3,6,2,,,,,,,2,0,Completed
+5,Sydney,Apia International,17-01-2015,ATP250,Outdoor,Hard,The Final,3,Troicki V.,Kukushkin M.,94,69,558,705,6,2,6,3,,,,,,,2,0,Completed
+7,Montpellier,Open Sud de France,08-02-2015,ATP250,Indoor,Hard,The Final,3,Gasquet R.,Janowicz J.,28,44,1350,925,3,0,,,,,,,,,0,0,Retired
+9,Zagreb,PBZ Zagreb Indoors,08-02-2015,ATP250,Indoor,Hard,The Final,3,Garcia-Lopez G.,Seppi A.,33,40,1155,1050,7,6,6,3,,,,,,,2,0,Completed
+10,Memphis,Memphis Open,15-02-2015,ATP250,Indoor,Hard,The Final,3,Nishikori K.,Anderson K.,5,15,5205,2125,6,4,6,4,,,,,,,2,0,Completed
+11,Rotterdam,ABN AMRO World Tennis Tournament,15-02-2015,ATP500,Indoor,Hard,The Final,3,Wawrinka S.,Berdych T.,8,7,4050,4660,4,6,6,3,6,4,,,,,2,1,Completed
+13,Delray Beach,Delray Beach Open,22-02-2015,ATP250,Outdoor,Hard,The Final,3,Karlovic I.,Young D.,29,56,1295,834,6,3,6,3,,,,,,,2,0,Completed
+14,Marseille,Open 13,22-02-2015,ATP250,Indoor,Hard,The Final,3,Simon G.,Monfils G.,17,21,1890,1635,6,4,1,6,7,6,,,,,2,1,Completed
+16,Acapulco,Abierto Mexicano,01-03-2015,ATP500,Outdoor,Hard,The Final,3,Ferrer D.,Nishikori K.,9,5,4185,5205,6,3,7,5,,,,,,,2,0,Completed
+18,Dubai ,Dubai Tennis Championships,28-02-2015,ATP500,Outdoor,Hard,The Final,3,Federer R.,Djokovic N.,2,1,9205,13045,6,3,7,5,,,,,,,2,0,Completed
+19,Indian Wells,BNP Paribas Open,22-03-2015,Masters 1000,Outdoor,Hard,The Final,3,Djokovic N.,Federer R.,1,2,13205,9205,6,3,6,7,6,2,,,,,2,1,Completed
+20,Miami,Sony Ericsson Open,05-04-2015,Masters 1000,Outdoor,Hard,The Final,3,Djokovic N.,Murray A.,1,4,13205,5695,7,6,4,6,6,0,,,,,2,1,Completed
+44,Atlanta,BB&T Atlanta Open,02-08-2015,ATP250,Outdoor,Hard,The Final,3,Isner J.,Baghdatis M.,19,47,1685,925,6,3,6,3,,,,,,,2,0,Completed
+48,Washington,Citi Open,09-08-2015,ATP500,Outdoor,Hard,The Final,3,Nishikori K.,Isner J.,5,18,5525,1890,4,6,6,4,6,4,,,,,2,1,Completed
+49,Montreal,Rogers Masters,16-08-2015,Masters 1000,Outdoor,Hard,The Final,3,Murray A.,Djokovic N.,3,1,7840,13755,6,4,4,6,6,3,,,,,2,1,Completed
+50,Cincinnati,Western & Southern Financial Group Masters,23-08-2015,Masters 1000,Outdoor,Hard,The Final,3,Federer R.,Djokovic N.,3,1,8065,14265,7,6,6,3,,,,,,,2,0,Completed
+51,Winston-Salem,Winston-Salem Open at Wake Forest University,29-08-2015,ATP250,Outdoor,Hard,The Final,3,Anderson K.,Herbert P.H,15,140,2000,396,6,4,7,5,,,,,,,2,0,Completed
+53,Metz,Open de Moselle,27-09-2015,ATP250,Indoor,Hard,The Final,3,Tsonga J.W.,Simon G.,17,10,1740,2560,7,6,1,6,6,2,,,,,2,0,Completed
+54,St. Petersburg,St. Petersburg Open,27-09-2015,ATP250,Indoor,Hard,The Final,3,Raonic M.,Sousa J.,9,53,2790,846,6,3,3,6,6,3,,,,,2,1,Completed
+55,Kuala Lumpur,Malaysian Open,04-10-2015,ATP250,Indoor,Hard,The Final,3,Ferrer D.,Lopez F.,8,17,3695,1935,7,5,7,5,,,,,,,2,0,Completed
+56,Shenzhen ,Shenzhen Open,05-10-2015,ATP250,Outdoor,Hard,The Final,3,Berdych T.,Garcia-Lopez G.,5,29,5050,1280,6,3,7,6,,,,,,,2,0,Completed
+57,Beijing,China Open,11-10-2015,ATP500,Outdoor,Hard,The Final,3,Djokovic N.,Nadal R.,1,8,15645,3770,6,2,6,2,,,,,,,2,0,Completed
+58,Tokyo,Rakuten Japan Open Tennis Championships,11-10-2015,ATP500,Outdoor,Hard,The Final,3,Wawrinka S.,Paire B.,4,32,6005,1187,6,2,6,4,,,,,,,2,0,Completed
+59,Shanghai,Shanghai Masters,18-10-2015,Masters 1000,Outdoor,Hard,The Final,3,Djokovic N.,Tsonga J.W.,1,15,15785,1990,6,2,6,4,,,,,,,2,0,Completed
+60,Moscow,Kremlin Cup,25-10-2015,ATP250,Indoor,Hard,The Final,3,Cilic M.,Bautista R.,14,27,2190,1405,6,4,6,4,,,,,,,2,0,Completed
+61,Stockholm,Stockholm Open,25-10-2015,ATP250,Indoor,Hard,The Final,3,Berdych T.,Sock J.,5,32,4840,1210,7,6,6,2,,,,,,,2,0,Completed
+62,Vienna,Erste Bank Open,25-10-2015,ATP250,Indoor,Hard,The Final,3,Ferrer D.,Johnson S.,8,47,3805,940,4,6,6,4,7,5,,,,,2,1,Completed
+63,Basel,Swiss Indoors,01-11-2015,ATP500,Indoor,Hard,The Final,3,Federer R.,Nadal R.,3,7,7930,4330,6,3,5,7,6,3,,,,,2,1,Completed
+64,Valencia,Valencia Open 500,01-11-2015,ATP500,Indoor,Hard,The Final,3,Sousa J.,Bautista R.,46,24,951,1465,3,6,6,3,6,4,,,,,2,1,Completed
+65,Paris,BNP Paribas Masters,08-11-2015,Masters 1000,Indoor,Hard,The Final,3,Djokovic N.,Murray A.,1,3,15785,8070,6,2,6,4,,,,,,,2,0,Completed
+66,London,Masters Cup,22-11-2015,Masters Cup,Indoor,Hard,The Final,3,Djokovic N.,Federer R.,1,3,15285,7340,6,3,6,4,,,,,,,2,0,Completed
+1,Brisbane,Brisbane International,10-01-2016,ATP250,Outdoor,Hard,The Final,3,Raonic M.,Federer R.,14,3,2170,8265,6,4,6,4,,,,,,,2,0,Completed
+2,Chennai,Chennai Open,10-01-2016,ATP250,Outdoor,Hard,The Final,3,Wawrinka S.,Coric B.,4,44,6865,941,6,3,7,5,,,,,,,2,0,Completed
+3,Doha,Qatar Exxon Mobil Open,09-01-2016,ATP250,Outdoor,Hard,The Final,3,Djokovic N.,Nadal R.,1,5,16585,5230,6,1,6,2,,,,,,,2,0,Completed
+4,Auckland,ASB Classic,16-01-2016,ATP250,Outdoor,Hard,The Final,3,Bautista R.,Sock J.,25,26,1480,1465,6,1,1,0,,,,,,,1,0,Retired
+5,Sydney,Apia International,16-01-2016,ATP250,Outdoor,Hard,The Final,3,Troicki V.,Dimitrov G.,22,28,1487,1315,2,6,6,1,7,6,,,,,2,1,Completed
+7,Montpellier,Open Sud de France,07-02-2016,ATP250,Indoor,Hard,The Final,3,Gasquet R.,Mathieu P.H.,10,93,2760,609,7,5,6,4,,,,,,,2,0,Completed
+9,Sofia,Garanti Koza Sofia Open,07-02-2016,ATP250,Indoor,Hard,The Final,3,Bautista R.,Troicki V.,18,25,1775,1475,6,3,6,4,,,,,,,2,0,Completed
+11,Memphis,Memphis Open,14-02-2016,ATP250,Indoor,Hard,The Final,3,Nishikori K.,Fritz T.,7,145,4235,414,6,4,6,4,,,,,,,2,0,Completed
+12,Rotterdam,ABN AMRO World Tennis Tournament,14-02-2016,ATP500,Indoor,Hard,The Final,3,Klizan M.,Monfils G.,43,18,965,1800,6,7,6,3,6,1,,,,,2,1,Completed
+13,Delray Beach,Delray Beach Open,21-02-2016,ATP250,Outdoor,Hard,The Final,3,Querrey S.,Ram R.,61,89,785,622,6,4,7,6,,,,,,,2,0,Completed
+14,Marseille,Open 13,21-02-2016,ATP250,Indoor,Hard,The Final,3,Kyrgios N.,Cilic M.,41,12,990,2495,6,2,7,6,,,,,,,2,0,Completed
+16,Acapulco,Abierto Mexicano,28-02-2016,ATP500,Outdoor,Hard,The Final,3,Thiem D.,Tomic B.,15,21,2020,1675,7,6,4,6,6,3,,,,,2,1,Completed
+17,Dubai ,Dubai Tennis Championships,27-02-2016,ATP500,Outdoor,Hard,The Final,3,Wawrinka S.,Baghdatis M.,4,57,5870,805,6,4,7,6,,,,,,,2,0,Completed
+19,Indian Wells,BNP Paribas Open,20-03-2016,Masters 1000,Outdoor,Hard,The Final,3,Djokovic N.,Raonic M.,1,14,16540,2410,6,2,6,0,,,,,,,2,0,Completed
+20,Miami,Sony Ericsson Open,03-04-2016,Masters 1000,Outdoor,Hard,The Final,3,Djokovic N.,Nishikori K.,1,6,16540,4070,6,3,6,3,,,,,,,2,0,Completed
+46,Washington,Citi Open,24-07-2016,ATP500,Outdoor,Hard,The Final,3,Monfils G.,Karlovic I.,17,35,2030,1235,5,7,7,6,6,4,,,,,2,1,Completed
+47,Toronto,Rogers Masters,31-07-2016,Masters 1000,Outdoor,Hard,The Final,3,Djokovic N.,Nishikori K.,1,6,15040,4290,6,3,7,5,,,,,,,2,0,Completed
+48,Atlanta,BB&T Atlanta Open,07-08-2016,ATP250,Outdoor,Hard,The Final,3,Kyrgios N.,Isner J.,18,17,1865,1895,7,6,7,6,,,,,,,2,0,Completed
+49,Los Cabos,Abierto Mexicano Mifel,14-08-2016,ATP250,Outdoor,Hard,The Final,3,Karlovic I.,Lopez F.,24,18,1490,1835,7,6,6,2,,,,,,,2,0,Completed
+50,Cincinnati,Western & Southern Financial Group Masters,21-08-2016,Masters 1000,Outdoor,Hard,The Final,3,Cilic M.,Murray A.,14,2,2605,9065,6,4,7,5,,,,,,,2,0,Completed
+51,Winston-Salem,Winston-Salem Open at Wake Forest University,27-08-2016,ATP250,Outdoor,Hard,The Final,3,Carreno Busta P.,Bautista Agut R.,49,17,905,1980,6,7,7,6,6,4,,,,,2,1,Completed
+53,Metz,Open de Moselle,25-09-2016,ATP250,Indoor,Hard,The Final,3,Pouille L.,Thiem D.,18,10,1831,3295,7,6,6,2,,,,,,,2,0,Completed
+54,St. Petersburg,St. Petersburg Open,25-09-2016,ATP250,Indoor,Hard,The Final,3,Zverev A.,Wawrinka S.,27,3,1425,6260,6,2,3,6,7,5,,,,,2,1,Completed
+55,Chengdu,Chengdu Open,02-10-2016,ATP250,Outdoor,Hard,The Final,3,Khachanov K.,Ramos-Vinolas A.,101,31,599,1340,6,7,7,6,6,3,,,,,2,1,Completed
+56,Shenzhen ,Shenzhen Open,02-10-2016,ATP250,Outdoor,Hard,The Final,3,Berdych T.,Gasquet R.,9,18,3470,1880,7,6,6,7,6,3,,,,,2,1,Completed
+57,Beijing,China Open,09-10-2016,ATP500,Outdoor,Hard,The Final,3,Murray A.,Dimitrov G.,2,20,9345,1735,6,4,7,6,,,,,,,2,0,Completed
+58,Tokyo,Rakuten Japan Open Tennis Championships,09-10-2016,ATP500,Outdoor,Hard,The Final,3,Kyrgios N.,Goffin D.,15,14,2050,2390,4,6,6,3,7,5,,,,,2,1,Completed
+59,Shanghai,Shanghai Masters,16-10-2016,Masters 1000,Outdoor,Hard,The Final,3,Murray A.,Bautista Agut R.,2,19,9845,1950,7,6,6,1,,,,,,,2,0,Completed
+60,Antwerp,European Open,23-10-2016,ATP250,Indoor,Hard,The Final,3,Gasquet R.,Schwartzman D.,19,77,1950,712,7,6,6,1,,,,,,,2,0,Completed
+61,Moscow,Kremlin Cup,23-10-2016,ATP250,Indoor,Hard,The Final,3,Carreno Busta P.,Fognini F.,36,50,1155,885,4,6,6,3,6,2,,,,,2,0,Completed
+62,Stockholm,Stockholm Open,23-10-2016,ATP250,Indoor,Hard,The Final,3,Del Potro J.M.,Sock J.,63,23,770,1675,7,5,6,1,,,,,,,2,0,Completed
+63,Basel,Swiss Indoors,30-10-2016,ATP500,Indoor,Hard,The Final,3,Cilic M.,Nishikori K.,12,5,2690,4650,6,1,7,6,,,,,,,1,0,Completed
+64,Vienna,Erste Bank Open,30-10-2016,ATP500,Indoor,Hard,The Final,3,Murray A.,Tsonga J.W.,2,15,10485,2160,6,3,7,6,,,,,,,2,0,Completed
+65,Paris,BNP Paribas Masters,06-11-2016,Masters 1000,Indoor,Hard,The Final,3,Murray A.,Isner J.,2,27,10985,1430,6,3,6,7,6,4,,,,,2,1,Completed
+66,London,Masters Cup,20-11-2016,Masters Cup,Indoor,Hard,The Final,3,Murray A.,Djokovic N.,1,2,11185,10780,6,3,6,4,,,,,,,2,0,Completed
+1,Brisbane,Brisbane International,08-01-2017,ATP250,Outdoor,Hard,The Final,3,Dimitrov G.,Nishikori K.,17,5,2035,4905,6,2,2,6,6,3,,,,,2,1,Completed
+2,Chennai,Chennai Open,08-01-2017,ATP250,Outdoor,Hard,The Final,3,Bautista Agut R.,Medvedev D.,14,99,2350,611,6,3,6,4,,,,,,,2,0,Completed
+3,Doha,Qatar Exxon Mobil Open,07-01-2017,ATP250,Outdoor,Hard,The Final,3,Djokovic N.,Murray A.,2,1,11780,12410,6,3,5,7,6,4,,,,,2,1,Completed
+4,Auckland,ASB Classic,14-01-2017,ATP250,Outdoor,Hard,The Final,3,Sock J.,Sousa J.,23,44,1710,1030,6,3,5,7,6,3,,,,,2,1,Completed
+5,Sydney,Apia International,14-01-2017,ATP250,Outdoor,Hard,The Final,3,Muller G.,Evans D.,34,67,1255,736,7,6,6,2,,,,,,,2,0,Completed
+7,Montpellier,Open Sud de France,12-02-2017,ATP250,Indoor,Hard,The Final,3,Zverev A.,Gasquet R.,21,22,1735,1725,7,6,6,3,,,,,,,2,0,Completed
+9,Sofia,Garanti Koza Sofia Open,12-02-2017,ATP250,Indoor,Hard,The Final,3,Dimitrov G.,Goffin D.,13,11,2765,2930,7,5,6,4,,,,,,,2,0,Completed
+11,Memphis,Memphis Open,19-02-2017,ATP250,Indoor,Hard,The Final,3,Harrison R.,Basilashvili N.,62,67,746,714,6,1,6,4,,,,,,,2,0,Completed
+12,Rotterdam,ABN AMRO World Tennis Tournament,19-02-2017,ATP500,Indoor,Hard,The Final,3,Tsonga J.W.,Goffin D.,14,11,2730,3035,4,6,6,4,6,1,,,,,2,1,Completed
+13,Delray Beach,Delray Beach Open,26-02-2017,ATP250,Outdoor,Hard,The Final,3,Sock J.,Raonic M.,21,4,1855,4930,,,,,,,,,,,,,Walkover
+14,Marseille,Open 13,26-02-2017,ATP250,Indoor,Hard,The Final,3,Tsonga J.W.,Pouille L.,11,17,3230,2131,6,4,6,4,,,,,,,2,0,Completed
+16,Acapulco,Abierto Mexicano,05-03-2017,ATP500,Outdoor,Hard,The Final,3,Querrey S.,Nadal R.,40,6,1000,4115,6,3,7,6,,,,,,,2,0,Completed
+17,Dubai ,Dubai Tennis Championships,04-03-2017,ATP500,Outdoor,Hard,The Final,3,Murray A.,Verdasco F.,1,35,11540,1070,6,3,6,2,,,,,,,2,0,Completed
+19,Indian Wells,BNP Paribas Open,19-03-2017,Masters 1000,Outdoor,Hard,The Final,3,Federer R.,Wawrinka S.,10,3,3305,5195,6,4,7,5,,,,,,,2,0,Completed
+20,Miami,Sony Ericsson Open,02-01-2017,Masters 1000,Outdoor,Hard,The Final,3,Federer R.,Nadal R.,6,7,4305,4145,6,3,6,4,,,,,,,2,0,Completed
+44,Atlanta,BB&T Atlanta Open,30-07-2017,ATP250,Outdoor,Hard,The Final,3,Isner J.,Harrison R.,20,42,2045,983,7,6,7,6,,,,,,,2,0,Completed
+48,Los Cabos,Abierto Mexicano Mifel,06-08-2017,ATP250,Outdoor,Hard,The Final,3,Querrey S.,Kokkinakis T.,24,454,1740,85,6,3,3,6,6,2,,,,,2,1,Completed
+49,Washington,Citi Open,06-08-2017,ATP500,Outdoor,Hard,The Final,3,Zverev A.,Anderson K.,8,45,3150,960,6,4,6,4,,,,,,,2,0,Completed
+50,Montreal,Rogers Masters,13-08-2017,Masters 1000,Outdoor,Hard,The Final,3,Zverev A.,Federer R.,8,3,3560,6545,6,3,6,4,,,,,,,2,0,Completed
+51,Cincinnati,Western & Southern Financial Group Masters,20-08-2017,Masters 1000,Outdoor,Hard,The Final,3,Dimitrov G.,Kyrgios N.,11,23,3070,1770,6,3,7,5,,,,,,,2,1,Completed
+52,Winston-Salem,Winston-Salem Open at Wake Forest University,26-08-2017,ATP250,Outdoor,Hard,The Final,3,Bautista Agut R.,Dzumhur D.,15,67,2425,725,6,4,6,4,,,,,,,2,0,Completed
+54,Metz,Open de Moselle,24-09-2017,ATP250,Indoor,Hard,The Final,3,Gojowczyk P.,Paire B.,95,41,544,1085,7,5,6,2,,,,,,,1,0,Completed
+55,St. Petersburg,St. Petersburg Open,24-09-2017,ATP250,Indoor,Hard,The Final,3,Dzumhur D.,Fognini F.,55,29,891,1545,3,6,6,4,6,2,,,,,2,1,Completed
+56,Chengdu,Chengdu Open,01-10-2017,ATP250,Outdoor,Hard,The Final,3,Istomin D.,Baghdatis M.,78,113,671,495,3,2,,,,,,,,,0,0,Retired
+57,Shenzhen ,Shenzhen Open,01-10-2017,ATP250,Outdoor,Hard,The Final,3,Goffin D.,Dolgopolov O.,12,53,2650,921,6,4,6,7,6,3,,,,,2,1,Completed
+58,Beijing,China Open,08-10-2017,ATP500,Outdoor,Hard,The Final,3,Nadal R.,Kyrgios N.,1,19,9465,2245,6,2,6,1,,,,,,,2,0,Completed
+59,Tokyo,Rakuten Japan Open Tennis Championships,08-10-2017,ATP500,Outdoor,Hard,The Final,3,Goffin D.,Mannarino A.,11,31,2855,1335,6,3,7,5,,,,,,,2,0,Completed
+60,Shanghai,Shanghai Masters,15-10-2017,Masters 1000,Outdoor,Hard,The Final,3,Federer R.,Nadal R.,2,1,7505,9875,6,4,6,3,,,,,,,2,0,Completed
+61,Antwerp,European Open,22-10-2017,ATP250,Indoor,Hard,The Final,3,Tsonga J.W.,Schwartzman D.,17,26,2285,1720,6,3,7,5,,,,,,,2,0,Completed
+62,Moscow,Kremlin Cup,22-10-2017,ATP250,Indoor,Hard,The Final,3,Dzumhur D.,Berankis R.,38,169,1181,310,6,2,1,6,6,4,,,,,2,1,Completed
+63,Stockholm,Stockholm Open,22-10-2017,ATP250,Indoor,Hard,The Final,3,Del Potro J.M.,Dimitrov G.,19,8,2225,3590,6,4,6,2,,,,,,,2,0,Completed
+64,Basel,Swiss Indoors,29-10-2017,ATP500,Indoor,Hard,The Final,3,Federer R.,Del Potro J.M.,2,19,8505,2225,6,7,6,4,6,3,,,,,2,1,Completed
+65,Vienna,Erste Bank Open,29-10-2017,ATP500,Indoor,Hard,The Final,3,Pouille L.,Tsonga J.W.,25,15,1780,2490,6,1,6,4,,,,,,,2,0,Completed
+66,Paris,BNP Paribas Masters,05-11-2017,Masters 1000,Indoor,Hard,The Final,3,Sock J.,Krajinovic F.,22,77,1945,681,5,7,6,4,6,1,,,,,2,1,Completed
+67,London,Masters Cup,19-11-2017,Masters Cup,Indoor,Hard,The Final,3,Dimitrov G.,Goffin D.,6,8,3650,2975,7,5,4,6,6,3,,,,,2,1,Completed
+1,Brisbane,Brisbane International,07-Jan,ATP250,Outdoor,Hard,The Final,3,Kyrgios N.,Harrison R.,21,47,2010,1010,6,4,6,2,,,,,,,2,0,Completed
+2,Doha,Qatar Exxon Mobil Open,06-Jan,ATP250,Outdoor,Hard,The Final,3,Monfils G.,Rublev A.,46,39,1015,1229,6,2,6,3,,,,,,,2,0,Completed
+3,Pune,Tata Open,06-Jan,ATP250,Outdoor,Hard,The Final,3,Simon G.,Anderson K.,89,14,610,2480,7,6,6,2,,,,,,,2,0,Completed
+4,Auckland,ASB Classic,13-Jan,ATP250,Outdoor,Hard,The Final,3,Bautista Agut R.,Del Potro J.M.,21,12,1855,2595,6,1,4,6,7,5,,,,,2,1,Completed
+5,Sydney,Sydney International,13-Jan,ATP250,Outdoor,Hard,The Final,3,Medvedev D.,De Minaur A.,84,167,642,323,1,6,6,4,7,5,,,,,2,1,Completed
+7,Montpellier,Open Sud de France,11-Feb,ATP250,Indoor,Hard,The Final,3,Pouille L.,Gasquet R.,17,33,2235,1375,7,6,6,4,,,,,,,2,0,Completed
+9,Sofia,Garanti Koza Sofia Open,11-Feb,ATP250,Indoor,Hard,The Final,3,Basic M.,Copil M.,129,93,448,596,7,6,6,7,6,4,,,,,2,1,Completed
+11,New York,New York Open,18-Feb,ATP250,Indoor,Hard,The Final,3,Anderson K.,Querrey S.,11,12,2620,2490,4,6,6,3,7,6,,,,,2,1,Completed
+12,Rotterdam,ABN AMRO World Tennis Tournament,18-Feb,ATP500,Indoor,Hard,The Final,3,Federer R.,Dimitrov G.,2,5,9605,4425,6,2,6,2,,,,,,,2,0,Completed
+13,Delray Beach,Delray Beach Open,25-Feb,ATP250,Outdoor,Hard,The Final,3,Tiafoe F.,Gojowczyk P.,91,64,614,821,6,1,6,4,,,,,,,2,0,Completed
+14,Marseille,Open 13,25-Feb,ATP250,Indoor,Hard,The Final,3,Khachanov K.,Pouille L.,47,16,1030,2335,7,5,3,6,7,5,,,,,2,1,Completed
+16,Acapulco,Abierto Mexicano,04-Mar,ATP500,Outdoor,Hard,The Final,3,Del Potro J.M.,Anderson K.,9,8,2745,2825,6,4,6,4,,,,,,,2,0,Completed
+17,Dubai ,Dubai Tennis Championships,03-Mar,ATP500,Outdoor,Hard,The Final,3,Bautista Agut R.,Pouille L.,23,15,1845,2335,6,3,6,4,,,,,,,2,0,Completed
+19,Indian Wells,BNP Paribas Open,18-Mar,Masters 1000,Outdoor,Hard,The Final,3,Del Potro J.M.,Federer R.,8,1,3200,10060,6,4,6,7,7,6,,,,,2,1,Completed
+20,Miami,Sony Ericsson Open,01-Apr,Masters 1000,Outdoor,Hard,The Final,3,Isner J.,Zverev A.,17,5,2170,4505,6,7,6,4,6,4,,,,,2,1,Completed
+44,Atlanta,BB&T Atlanta Open,29-Jul,ATP250,Outdoor,Hard,The Final,3,Isner J.,Harrison R.,9,53,3490,920,5,7,6,3,6,4,,,,,2,1,Completed
+48,Los Cabos,Abierto Mexicano Mifel,05-Aug,ATP250,Outdoor,Hard,The Final,3,Fognini F.,Del Potro J.M.,15,4,2030,5395,6,4,6,2,,,,,,,2,0,Completed
+49,Washington,Citi Open,05-Aug,ATP500,Outdoor,Hard,The Final,3,Zverev A.,De Minaur A.,3,72,5665,803,6,2,6,4,,,,,,,2,0,Completed
+50,Toronto,Rogers Masters,12-Aug,Masters 1000,Outdoor,Hard,The Final,3,Nadal R.,Tsitsipas S.,1,27,9310,1534,6,2,7,6,,,,,,,2,0,Completed
+51,Cincinnati,Western & Southern Financial Group Masters,19-Aug,Masters 1000,Outdoor,Hard,The Final,3,Djokovic N.,Federer R.,10,2,3445,6480,6,4,6,4,,,,,,,2,0,Completed
+52,Winston-Salem,Winston-Salem Open at Wake Forest University,25-Aug,ATP250,Outdoor,Hard,The Final,3,Medvedev D.,Johnson S.,57,34,952,1235,6,4,6,4,,,,,,,2,0,Completed
+54,Metz,Open de Moselle,23-Sep,ATP250,Indoor,Hard,The Final,3,Simon G.,Bachinger M.,39,166,1115,340,7,6,6,1,,,,,,,2,0,Completed
+55,St. Petersburg,St. Petersburg Open,23-Sep,ATP250,Indoor,Hard,The Final,3,Thiem D.,Klizan M.,8,65,3665,823,6,3,6,1,,,,,,,2,0,Completed
+56,Chengdu,Chengdu Open,30-Sep,ATP250,Outdoor,Hard,The Final,3,Tomic B.,Fognini F.,123,13,453,2120,6,1,3,6,7,6,,,,,2,1,Completed
+57,Shenzhen ,Shenzhen Open,30-Sep,ATP250,Outdoor,Hard,The Final,3,Nishioka Y.,Herbert P.H.,171,67,333,799,7,5,2,6,6,4,,,,,2,1,Completed
+58,Beijing,China Open,07-Oct,ATP500,Outdoor,Hard,The Final,3,Basilashvili N.,Del Potro J.M.,34,4,1257,5980,6,4,6,4,,,,,,,2,0,Completed
+59,Tokyo,Rakuten Japan Open Tennis Championships,07-Oct,ATP500,Outdoor,Hard,The Final,3,Medvedev D.,Nishikori K.,32,12,1287,2520,6,2,6,4,,,,,,,2,0,Completed
+60,Shanghai,Shanghai Masters,14-Oct,Masters 1000,Outdoor,Hard,The Final,3,Djokovic N.,Coric B.,3,19,6445,1815,6,3,6,4,,,,,,,2,0,Completed
+61,Antwerp,European Open,21-Oct,ATP250,Indoor,Hard,The Final,3,Edmund K.,Monfils G.,15,38,2125,1160,3,6,7,6,7,6,,,,,2,1,Completed
+62,Moscow,Kremlin Cup,21-Oct,ATP250,Indoor,Hard,The Final,3,Khachanov K.,Mannarino A.,26,49,1640,1030,6,2,6,2,,,,,,,2,0,Completed
+63,Stockholm,Stockholm Open,21-Oct,ATP250,Indoor,Hard,The Final,3,Tsitsipas S.,Gulbis E.,16,145,2007,404,6,4,6,4,,,,,,,2,0,Completed
+64,Basel,Swiss Indoors,28-Oct,ATP500,Indoor,Hard,The Final,3,Federer R.,Copil M.,3,93,6260,608,7,6,6,4,,,,,,,2,0,Completed
+65,Vienna,Erste Bank Open,28-Oct,ATP500,Indoor,Hard,The Final,3,Anderson K.,Nishikori K.,8,11,3730,2910,6,3,7,6,,,,,,,2,0,Completed
+66,Paris,BNP Paribas Masters,04-Nov,Masters 1000,Indoor,Hard,The Final,3,Khachanov K.,Djokovic N.,18,2,1845,7445,7,5,6,4,,,,,,,2,0,Completed
+67,London,Masters Cup,18-Nov,Masters Cup,Indoor,Hard,The Final,3,Zverev A.,Djokovic N.,5,1,5085,8045,6,4,6,3,,,,,,,2,0,Completed
+1,Brisbane,Brisbane International,06-Jan,ATP250,Outdoor,Hard,The Final,3,Nishikori K.,Medvedev D.,9,16,3590,1977,6,4,3,6,6,2,,,,,2,1,Completed
+2,Doha,Qatar Exxon Mobil Open,05-Jan,ATP250,Outdoor,Hard,The Final,3,Bautista Agut R.,Berdych T.,24,71,1605,715,6,4,3,6,6,3,,,,,2,1,Completed
+3,Pune,Maharashtra Open,05-Jan,ATP250,Outdoor,Hard,The Final,3,Anderson K.,Karlovic I.,6,100,4710,589,7,6,6,7,7,6,,,,,2,1,Completed
+4,Auckland,ASB Classic,12-Jan,ATP250,Outdoor,Hard,The Final,3,Sandgren T.,Norrie C.,63,93,814,616,6,4,6,2,,,,,,,2,0,Completed
+5,Sydney,Sydney International,12-Jan,ATP250,Outdoor,Hard,The Final,3,De Minaur A.,Seppi A.,29,37,1253,1100,7,5,7,6,,,,,,,2,0,Completed
+8,Montpellier,Open Sud de France,10-Feb,ATP250,Indoor,Hard,The Final,3,Tsonga J.W.,Herbert P.H.,210,44,245,983,6,4,6,2,,,,,,,2,0,Completed
+9,Sofia,Sofia Open,10-Feb,ATP250,Indoor,Hard,The Final,3,Medvedev D.,Fucsovics M.,16,47,2000,959,6,4,6,3,,,,,,,2,0,Completed
+11,New York,New York Open,17-Feb,ATP250,Indoor,Hard,The Final,3,Opelka R.,Schnur B.,89,154,633,367,6,1,6,7,7,6,,,,,2,1,Completed
+12,Rotterdam,ABN AMRO World Tennis Tournament,17-Feb,ATP500,Indoor,Hard,The Final,3,Monfils G.,Wawrinka S.,33,68,1240,740,6,3,1,6,6,2,,,,,2,1,Completed
+13,Delray Beach,Delray Beach Open,24-Feb,ATP250,Outdoor,Hard,The Final,3,Albot R.,Evans D.,82,148,680,384,3,6,6,3,7,6,,,,,2,1,Completed
+14,Marseille,Open 13,24-Feb,ATP250,Indoor,Hard,The Final,3,Tsitsipas S.,Kukushkin M.,12,50,2805,945,7,5,7,6,,,,,,,2,0,Completed
+16,Acapulco,Abierto Mexicano,03-Mar,ATP500,Outdoor,Hard,The Final,3,Kyrgios N.,Zverev A.,72,3,750,6475,6,3,6,4,,,,,,,2,0,Completed
+17,Dubai ,Dubai Tennis Championships,02-Mar,ATP500,Outdoor,Hard,The Final,3,Federer R.,Tsitsipas S.,7,11,4100,2965,6,4,6,4,,,,,,,2,0,Completed
+19,Indian Wells,BNP Paribas Open,17-Mar,Masters 1000,Outdoor,Hard,The Final,3,Thiem D.,Federer R.,8,4,3800,4600,3,6,6,3,7,5,,,,,2,1,Completed
+20,Miami,Sony Ericsson Open,31-Mar,Masters 1000,Outdoor,Hard,The Final,3,Federer R.,Isner J.,5,9,4600,3485,6,1,6,4,,,,,,,2,0,Completed
+43,Atlanta,BB&T Atlanta Open,28-Jul,ATP250,Outdoor,Hard,The Final,3,De Minaur A.,Fritz T.,34,32,1285,1320,6,3,7,6,,,,,,,2,0,Completed
+47,Los Cabos,Abierto Mexicano Mifel,04-Aug,ATP250,Outdoor,Hard,The Final,3,Schwartzman D.,Fritz T.,27,28,1485,1450,7,6,6,3,,,,,,,2,0,Completed
+48,Washington,Citi Open,04-Aug,ATP500,Outdoor,Hard,The Final,3,Kyrgios N.,Medvedev D.,52,10,975,2625,7,6,7,6,,,,,,,2,0,Completed
+49,Montreal,Rogers Masters,11-Aug,Masters 1000,Outdoor,Hard,The Final,3,Nadal R.,Medvedev D.,2,9,7945,2745,6,3,6,0,,,,,,,2,0,Completed
+50,Cincinnati,Western & Southern Financial Group Masters,18-Aug,Masters 1000,Outdoor,Hard,The Final,3,Medvedev D.,Goffin D.,8,19,3230,1815,7,6,6,4,,,,,,,2,0,Completed
+51,Winston-Salem,Winston-Salem Open at Wake Forest University,24-Aug,ATP250,Outdoor,Hard,The Final,3,Hurkacz H.,Paire B.,41,30,1078,1403,6,3,3,6,6,3,,,,,2,1,Completed
+53,Metz,Open de Moselle,22-Sep,ATP250,Indoor,Hard,The Final,3,Tsonga J.W.,Bedene A.,61,76,955,765,6,7,3,4,,,,,,,0,1,Completed
+54,St. Petersburg,St. Petersburg Open,22-Sep,ATP250,Indoor,Hard,The Final,3,Medvedev D.,Coric B.,4,15,5235,2025,6,3,6,1,,,,,,,2,0,Completed
+55,Chengdu,Chengdu Open,29-Sep,ATP250,Outdoor,Hard,The Final,3,Carreno Busta P.,Bublik A.,63,71,942,860,6,7,6,4,7,6,,,,,2,1,Completed
+56,Zhuhai,Zhuhai Open,29-Sep,ATP250,Outdoor,Hard,The Final,3,De Minaur A.,Mannarino A.,31,61,1360,971,7,6,6,4,,,,,,,2,0,Completed
+57,Beijing,China Open,06-Oct,ATP500,Outdoor,Hard,The Final,3,Thiem D.,Tsitsipas S.,5,7,4415,3420,3,6,6,4,6,1,,,,,2,1,Completed
+58,Tokyo,Rakuten Japan Open Tennis Championships,06-Oct,ATP500,Outdoor,Hard,The Final,3,Djokovic N.,Millman J.,1,80,9865,691,6,3,6,2,,,,,,,2,0,Completed
+59,Shanghai,Shanghai Masters,13-Oct,Masters 1000,Outdoor,Hard,The Final,3,Medvedev D.,Zverev A.,4,6,4965,4185,6,4,6,1,,,,,,,2,0,Completed
+60,Antwerp,European Open,20-Oct,ATP250,Indoor,Hard,The Final,3,Murray A.,Wawrinka S.,243,18,192,1670,3,6,6,4,6,4,,,,,2,1,Completed
+61,Moscow,Kremlin Cup,20-Oct,ATP250,Indoor,Hard,The Final,3,Rublev A.,Mannarino A.,31,44,1341,1111,6,4,6,0,,,,,,,2,0,Completed
+62,Stockholm,Stockholm Open,20-Oct,ATP250,Indoor,Hard,The Final,3,Shapovalov D.,Krajinovic F.,34,60,1255,963,6,4,6,4,,,,,,,2,0,Completed
+63,Basel,Swiss Indoors,27-Oct,ATP500,Indoor,Hard,The Final,3,Federer R.,De Minaur A.,3,28,6950,1440,6,2,6,2,,,,,,,2,0,Completed
+64,Vienna,Erste Bank Open,27-Oct,ATP500,Indoor,Hard,The Final,3,Thiem D.,Schwartzman D.,5,15,5085,1950,3,6,6,4,6,3,,,,,2,1,Completed
+65,Paris,BNP Paribas Masters,03-Nov,Masters 1000,Indoor,Hard,The Final,3,Djokovic N.,Shapovalov D.,1,28,9545,1460,6,3,6,4,,,,,,,2,0,Completed
+66,London,Masters Cup,17-Nov,Masters Cup,Indoor,Hard,The Final,3,Tsitsipas S. ,Thiem D. ,6,5,4000,5025,6,7,6,2,7,6,,,,,2,1,Completed
